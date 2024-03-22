@@ -15,7 +15,6 @@
 ## *Desarrollaremos un sistema que pueda adquirir y procesar señales de un ...*
 ---
 
-## <a name="entregables"></a> Primer entregable
 ###### Después lo ponemos más serio (no tenemos fotos juntos)
 | **Integrante** | **Correo**|
 | ---------| ----------|
@@ -23,3 +22,5 @@
 | Alvaro Cigarán | alvaro.cigaran@upch.pe |
 | Kimberly Tito | kimberly.tito@upch.pe |
 | Bruno Tello | gustavo.tello@upch.pe |
+
+## <a name="entregables"></a> Primer entregable
