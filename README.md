@@ -1,5 +1,5 @@
 # Introducción a Señales Biomédicas
-## Primer entregable
+## *Primer entregable*
 ## Tabla de contenido:
 * #### [**Bienvenida**](#bienvenida)
 * #### [**Integrantes**](#integrantes)
