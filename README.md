@@ -8,8 +8,7 @@
 * #### [**Entregables**](#entregables)
 
 ---
-<details>
-##<summary><a name="integrantes"></a>Integrantes:</summary>
+##<a name="integrantes"></a>Integrantes:
 ![img](Software/wsp.png)
 ###### Después lo ponemos más serio (no tenemos fotos juntos)
 | **Integrante** | **Correo**|
@@ -19,18 +18,16 @@
 | Kimberly Tito | kimberly.tito@upch.pe |
 | Bruno Tello | gustavo.tello@upch.pe |
   
-</details>
 ---
-<details>
-## <summary><a name="proyecto"></a>Proyecto:</summary>
+## <a name="proyecto"></a>Proyecto:
 ## *ANALIZANDO SEÑALES DE ECG*
 ## *Desarrollaremos un sistema que pueda adquirir y procesar señales de un Electrocardiograma (ECG)*
-</details>
 ---
+
 <details>
 ## <summary><a name="entregables"></a>Entregables:</summary>
-- Primer entregable
-- Segundo entregable
-- Tercer entregable
-- Cuarto entregable
+  - Primer entregable
+  - Segundo entregable
+  - Tercer entregable
+  - Cuarto entregable
 </details>
