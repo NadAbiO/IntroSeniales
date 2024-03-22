@@ -26,11 +26,11 @@
 
 ## <a name="entregables"></a>*Entregables:*
 <details>
-<summary> <a name="entregables"></a> Primer entregable:</summary>
+<summary> <a name="entregables"></a> Primer entregable</summary>
   - info
 </details>
 
 <details>
-<summary> <a name="entregables"></a> Segundo entregable:</summary>
+<summary> <a name="entregables"></a> Segundo entregable</summary>
   - info
 </details>
