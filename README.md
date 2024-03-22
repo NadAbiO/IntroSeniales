@@ -1,5 +1,5 @@
 # Introducción a Señales Biomédicas
-## *Primer entregable*
+## *Proyecto: ANALIZANDO SEÑALES DE ...*
 ## Tabla de contenido:
 * #### [**Bienvenida**](#bienvenida)
 * #### [**Integrantes**](#integrantes)
