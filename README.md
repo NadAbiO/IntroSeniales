@@ -11,5 +11,5 @@
 | ---------| ----------|
 | Nadira Oviedo | nadira.oviedo@upch.pe |
 | Alvaro Cigarán | alvaro.cigaran@upch.pe |
-| Kimberly Tito | Kimberly.tito@upch.pe |
-| Bruno Tello | (poner correo) |
+| Kimberly Tito | kimberly.tito@upch.pe |
+| Bruno Tello | (gustavo.tell@upch.pe) |
