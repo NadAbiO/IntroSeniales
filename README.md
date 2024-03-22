@@ -24,10 +24,13 @@
 #### *Desarrollaremos un sistema que pueda adquirir y procesar señales de un Electrocardiograma (ECG)*
 ---
 
+## <a name="entregables"></a>Entregables:
 <details>
-<summary> <a name="entregables"></a> Entregables:</summary>
-  - Primer entregable
-  - Segundo entregable
-  - Tercer entregable
-  - Cuarto entregable
+<summary> <a name="entregables"></a> Primer entregable:</summary>
+  - info
+</details>
+
+<details>
+<summary> <a name="entregables"></a> Segundo entregable:</summary>
+  - info
 </details>
