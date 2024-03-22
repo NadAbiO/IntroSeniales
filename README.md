@@ -5,7 +5,7 @@
 * #### [**Integrantes**](#integrantes)
 ### <a name="bienvenida"></a>Bienvenidos al repositorio de nuestro grupo :)
 ## <a name="integrantes"></a>Integrantes:
-![img](Software\wsp.png)
+![img](Software/wsp.png)
 ###### Después lo ponemos más serio (no tenemos fotos juntos)
 | **Integrante** | **Correo**|
 | ---------| ----------|
