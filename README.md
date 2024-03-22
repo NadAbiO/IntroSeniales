@@ -1,8 +1,8 @@
 # IntroSenialesB
 ## Primer entregable
 ## Tabla de contenido:
-* # [**Bienvenida**] (#bienvenida)
-* # [**Integrantes**] (#integrantes)
+* #### [**Bienvenida**](#bienvenida)
+* #### [**Integrantes**](#integrantes)
 ### Bienvenidos al repositorio de nuestro grupo :) {#bienvenida}
 ## Integrantes: {#integrantes}
 ![img](Software\wsp.png)
