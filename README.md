@@ -22,6 +22,4 @@
 ## *Desarrollaremos un sistema que pueda adquirir y procesar señales de un ...*
 ---
 
-
-
 ## <a name="entregables"></a> Primer entregable
