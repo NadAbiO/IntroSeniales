@@ -2,6 +2,7 @@
 ## *Proyecto: ANALIZANDO SEÑALES DE ...*
 ## *ola*
 ## Tabla de contenido:
+---
 * #### [**Bienvenida**](#bienvenida)
 * #### [**Integrantes**](#integrantes)
 ---
