@@ -1,14 +1,16 @@
 # Introducción a Señales Biomédicas
-## *Proyecto: ANALIZANDO SEÑALES DE ...*
-## *Desarrollaremos un sistema que pueda adquirir y procesar señales de un ...*
-## Tabla de contenido:
+### <a name="bienvenida"></a>Bienvenidos al repositorio del grupo 5 :)
 ---
-* #### [**Bienvenida**](#bienvenida)
+
+## Tabla de contenido:
 * #### [**Integrantes**](#integrantes)
 ---
-### <a name="bienvenida"></a>Bienvenidos al repositorio del grupo 5 :)
 ## <a name="integrantes"></a>Integrantes:
 ![img](Software/wsp.png)
+---
+## *Proyecto: ANALIZANDO SEÑALES DE ...*
+## *Desarrollaremos un sistema que pueda adquirir y procesar señales de un ...*
+---
 ## <a name="Entregables"></a> 
 ###### Después lo ponemos más serio (no tenemos fotos juntos)
 | **Integrante** | **Correo**|
