@@ -18,7 +18,8 @@
 | Kimberly Tito | kimberly.tito@upch.pe |
 | Bruno Tello | gustavo.tello@upch.pe |
 ---
-## <a name="proyecto"></a>*Proyecto: ANALIZANDO SEÑALES DE ...*
+## <a name="proyecto"></a>Proyecto: 
+## *ANALIZANDO SEÑALES DE ...*
 ## *Desarrollaremos un sistema que pueda adquirir y procesar señales de un ...*
 ---
 
