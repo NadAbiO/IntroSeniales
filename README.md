@@ -3,6 +3,7 @@
 ## Tabla de contenido:
 * #### [**Bienvenida**](#bienvenida)
 * #### [**Integrantes**](#integrantes)
+---
 ### <a name="bienvenida"></a>Bienvenidos al repositorio del grupo 5 :)
 ## <a name="integrantes"></a>Integrantes:
 ![img](Software/wsp.png)
