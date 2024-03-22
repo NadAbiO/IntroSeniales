@@ -22,4 +22,8 @@
 ## *Desarrollaremos un sistema que pueda adquirir y procesar señales de un ...*
 ---
 
-## <a name="entregables"></a> Primer entregable
+## <a name="entregables"></a> Entregables
+- Primer entregable
+- Segundo entregable
+- Tercer entregable
+- Cuarto entregable
