@@ -1,6 +1,6 @@
 # Introducción a Señales Biomédicas
 ## *Proyecto: ANALIZANDO SEÑALES DE ...*
-## *ola*
+## *Desarrollaremos un sistema que pueda adquirir y procesar señales de un ...*
 ## Tabla de contenido:
 ---
 * #### [**Bienvenida**](#bienvenida)
