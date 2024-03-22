@@ -19,8 +19,8 @@
 | Bruno Tello | gustavo.tello@upch.pe |
 ---
 ## <a name="proyecto"></a>Proyecto: 
-## *ANALIZANDO SEÑALES DE ...*
-## *Desarrollaremos un sistema que pueda adquirir y procesar señales de un ...*
+## *ANALIZANDO SEÑALES DE ECG*
+## *Desarrollaremos un sistema que pueda adquirir y procesar señales de un Electrocardiograma (ECG)*
 ---
 
 ## <a name="entregables"></a>Entregables:
