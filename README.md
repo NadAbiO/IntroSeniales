@@ -4,14 +4,18 @@
 
 ## Tabla de contenido:
 * #### [**Integrantes**](#integrantes)
+* #### [**Proyecto**](#proyecto)
+* #### [**Entregables**](#entregables)
+
 ---
 ## <a name="integrantes"></a>Integrantes:
 ![img](Software/wsp.png)
 ---
-## *Proyecto: ANALIZANDO SEÑALES DE ...*
+## <a name="integrantes"></a>*Proyecto: ANALIZANDO SEÑALES DE ...*
 ## *Desarrollaremos un sistema que pueda adquirir y procesar señales de un ...*
 ---
-## <a name="Entregables"></a> 
+
+## <a name="entregables"></a> Primer entregable
 ###### Después lo ponemos más serio (no tenemos fotos juntos)
 | **Integrante** | **Correo**|
 | ---------| ----------|
