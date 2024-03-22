@@ -20,8 +20,8 @@
   
 ---
 ## <a name="proyecto"></a>Proyecto:
-## *ANALIZANDO SEÑALES DE ECG*
-## *Desarrollaremos un sistema que pueda adquirir y procesar señales de un Electrocardiograma (ECG)*
+### *ANALIZANDO SEÑALES DE ECG*
+#### *Desarrollaremos un sistema que pueda adquirir y procesar señales de un Electrocardiograma (ECG)*
 ---
 
 <details>
