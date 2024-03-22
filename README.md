@@ -8,7 +8,8 @@
 * #### [**Entregables**](#entregables)
 
 ---
-## <a name="integrantes"></a>Integrantes:
+<details>
+##<summary><a name="integrantes"></a>Integrantes:</summary>
 ![img](Software/wsp.png)
 ###### Después lo ponemos más serio (no tenemos fotos juntos)
 | **Integrante** | **Correo**|
@@ -17,14 +18,19 @@
 | Alvaro Cigarán | alvaro.cigaran@upch.pe |
 | Kimberly Tito | kimberly.tito@upch.pe |
 | Bruno Tello | gustavo.tello@upch.pe |
+  
+</details>
 ---
-## <a name="proyecto"></a>Proyecto: 
+<details>
+## <summary><a name="proyecto"></a>Proyecto:</summary>
 ## *ANALIZANDO SEÑALES DE ECG*
 ## *Desarrollaremos un sistema que pueda adquirir y procesar señales de un Electrocardiograma (ECG)*
+</details>
 ---
-
-## <a name="entregables"></a>Entregables:
+<details>
+## <summary><a name="entregables"></a>Entregables:</summary>
 - Primer entregable
 - Segundo entregable
 - Tercer entregable
 - Cuarto entregable
+</details>
