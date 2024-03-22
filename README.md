@@ -8,7 +8,7 @@
 * #### [**Entregables**](#entregables)
 
 ---
-##<a name="integrantes"></a>Integrantes:
+## <a name="integrantes"></a>Integrantes:
 ![img](Software/wsp.png)
 ###### Después lo ponemos más serio (no tenemos fotos juntos)
 | **Integrante** | **Correo**|
@@ -25,7 +25,7 @@
 ---
 
 <details>
-## <summary><a name="entregables"></a>Entregables:</summary>
+<summary> <a name="entregables"></a> Entregables:</summary>
   - Primer entregable
   - Segundo entregable
   - Tercer entregable
