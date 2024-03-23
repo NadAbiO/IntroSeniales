@@ -10,7 +10,7 @@
 ---
 ### Integrantes
 ![img](Software/wsp.png)
-###### Después lo ponemos más serio (no tenemos fotos juntos)
+###### Después lo ponemos más serio (no tenemos fotos juntos miau) 
 | **Integrante** | **Correo**|
 | ---------| ----------|
 | Nadira Oviedo | nadira.oviedo@upch.pe |
