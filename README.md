@@ -41,6 +41,24 @@
 </details>
 
 <details>
-<summary> Segundo entregable</summary>
-  - info
+<summary> Bibliografía </summary>
+  
+[1] E. A. S. E. Niripil, “ONDAS CEREBRALES, CONCIENCIA Y COGNICIÓN”, Researchgate.net. [En línea]. Disponible en: https://www.researchgate.net/profile/Eduardo-Alfredo-Sciotto/publication/326056524_ONDAS_CEREBRALES_CONCIENCIA_Y_COGNICION/links/5b358f71aca2720785f48880/ONDAS-CEREBRALES-CONCIENCIA-Y-COGNICION.pdf. [Consultado: 01-abr-2024].
+
+[2] J. I. Bazan-Olaya, J. M. Campos-Pastelin, N. V. Gutiérrez-Moguel, y L. González-Montiel, “Frecuencia y Razones de Consumo de Bebidas Energéticas en Jóvenes Universitarios”, Revista Salud y Administración, vol. 6, núm. 17, pp. 17–26, 2019.
+
+[3] A. M. Rivera Ruiz y D. M. Vasquez Monsalve, “Asociación entre consumo de bebidas energizantes y calidad de sueño en estudiantes de medicina humana de una universidad privada - 2021”, Universidad Señor de Sipán, 2024.
+
+[4] C. R. Mahoney et al., “Intake of caffeine from all sources and reasons for use by college students”, Clin. Nutr., vol. 38, núm. 2, pp. 668–675, 2019.
+
+[5] J. M. Schmickler, S. Blaschke, R. Robbins, y F. Mess, “Determinants of sleep quality: A cross-sectional study in university students”, Int. J. Environ. Res. Public Health, vol. 20, núm. 3, p. 2019, 2023.
+
+[6] I. M. Nadeem, A. Shanmugaraj, S. Sakha, N. S. Horner, O. R. Ayeni, y M. Khan, “Energy drinks and their adverse health effects: A systematic review and meta-analysis”, Sports Health, vol. 13, núm. 3, pp. 265–277, 2021.
+
+[7] N. de referencia: AESAN-, “Informe del Comité Científico de la Agencia Española de Seguridad Alimentaria y Nutrición (AESAN) sobre los riesgos asociados al consumo de bebidas energéticas”, Gob.es. [En línea]. Disponible en: https://www.aesan.gob.es/AECOSAN/docs/documentos/seguridad_alimentaria/evaluacion_riesgos/informes_comite/BEBIDAS_ENERGETICAS.pdf. [Consultado: 01-abr-2024].
+
+[8] T. Roth, “Insomnia: Definition, prevalence, etiology, and consequences”, Journal of Clinical Sleep Medicine : JCSM : official publication of the American Academy of Sleep Medicine, vol. 3, núm. 5 Suppl, p. S7, 2007.
+
+[9] “Electroencephalogram (EEG)”, Stanfordchildrens.org. [En línea]. Disponible en: https://www.stanfordchildrens.org//es/topic/default?id=electroencephalogram-eeg-92-P09193. [Consultado: 01-abr-2024].
+
 </details>
