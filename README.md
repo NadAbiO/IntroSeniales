@@ -9,28 +9,38 @@
 
 ---
 ### Integrantes
-![img](Software/wsp.png)
-###### Después lo ponemos más serio (no tenemos fotos juntos miau) 
+
 | **Integrante** | **Correo**|
 | ---------| ----------|
-| Nadira Oviedo | nadira.oviedo@upch.pe |
-| Alvaro Cigarán | alvaro.cigaran@upch.pe |
-| Kimberly Tito | kimberly.tito@upch.pe |
-| Bruno Tello | gustavo.tello@upch.pe |
+| Nadira Oviedo ![img](Documentos\Imágenes\Nadira.jpg) | nadira.oviedo@upch.pe |
+| Alvaro Cigarán ![img](Documentos\Imágenes\Alvaro.jpg) | alvaro.cigaran@upch.pe |
+| Kimberly Tito ![img](Documentos\Imágenes\kim.jpg)| kimberly.tito@upch.pe |
+| Bruno Tello ![img](Documentos\Imágenes\br1.jpg)| gustavo.tello@upch.pe |
   
 ---
 ### Proyecto
-### *ANALIZANDO SEÑALES DE ECG*
-#### *Desarrollaremos un sistema que pueda adquirir y procesar señales de un Electrocardiograma (ECG)*
+### *ANALIZANDO SEÑALES DE EEG*
+#### *Desarrollaremos un sistema que pueda adquirir, procesar y comparar señales de un Electroencefalograma (EEG)*
 ---
 
 ### Entregables
 <details>
-<summary> <a name="entregables"></a> Primer entregable</summary>
-  - info
+<summary>  Primer entregable</summary>
+
+### Temas a tratar:
+ 1.- Electroencefalograma y ondas cerebrales
+
+ 2.- Importancia del sueño
+
+ 3.- Bebidas energéticas y estudiantes universitarios
+
+ 4.- Insomnio
+
+##### Descarga el archivo PPT -> [aquí](DDocumentos\Señales_problematica.pdf).
+
 </details>
 
 <details>
-<summary> <a name="entregables"></a> Segundo entregable</summary>
+<summary> Segundo entregable</summary>
   - info
 </details>
