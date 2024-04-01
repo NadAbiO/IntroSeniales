@@ -12,10 +12,10 @@
 
 | **Integrante** | **Correo**|
 | ---------| ----------|
-| Nadira Oviedo ![img](Documentos/Imágenes/Nadira.jpg) | nadira.oviedo@upch.pe |
-| Alvaro Cigarán ![img](Documentos/Imágenes/Alvaro.jpg) | alvaro.cigaran@upch.pe |
-| Kimberly Tito ![img](Documentos/Imágenes/kim.jpg)| kimberly.tito@upch.pe |
-| Bruno Tello ![img](Documentos/Imágenes/br1.jpg)| gustavo.tello@upch.pe |
+| Nadira Oviedo <img src="Documentos/Imágenes/Nadira.jpg" alt="img_nad" height="200"/>| nadira.oviedo@upch.pe |
+| Alvaro Cigarán <img src="Documentos/Imágenes/Alvaro.jpg" alt="img_nad" height="200"/>| alvaro.cigaran@upch.pe |
+| Kimberly Tito <img src="Documentos/Imágenes/kim.jpg" alt="img_nad" height="200"/>| kimberly.tito@upch.pe |
+| Bruno Tello <img src="Documentos/Imágenes/br1.jpg" alt="img_nad" height="200"/>| gustavo.tello@upch.pe |
   
 ---
 ### Proyecto
