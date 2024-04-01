@@ -12,10 +12,10 @@
 
 | **Integrante** | **Correo**|
 | ---------| ----------|
-| Nadira Oviedo ![img](Documentos\Imágenes\Nadira.jpg) | nadira.oviedo@upch.pe |
-| Alvaro Cigarán ![img](Documentos\Imágenes\Alvaro.jpg) | alvaro.cigaran@upch.pe |
-| Kimberly Tito ![img](Documentos\Imágenes\kim.jpg)| kimberly.tito@upch.pe |
-| Bruno Tello ![img](Documentos\Imágenes\br1.jpg)| gustavo.tello@upch.pe |
+| Nadira Oviedo ![img](Documentos/Imágenes/Nadira.jpg) | nadira.oviedo@upch.pe |
+| Alvaro Cigarán ![img](Documentos/Imágenes/Alvaro.jpg) | alvaro.cigaran@upch.pe |
+| Kimberly Tito ![img](Documentos/Imágenes/kim.jpg)| kimberly.tito@upch.pe |
+| Bruno Tello ![img](Documentos/Imágenes/br1.jpg)| gustavo.tello@upch.pe |
   
 ---
 ### Proyecto
@@ -36,7 +36,7 @@
 
  4.- Insomnio
 
-##### Descarga el archivo PPT -> [aquí](DDocumentos\Señales_problematica.pdf).
+##### Descarga el archivo PPT -> [aquí](Documentos/Señales_problematica.pdf).
 
 </details>
 
