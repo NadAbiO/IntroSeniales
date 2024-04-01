@@ -60,5 +60,11 @@
 [8] T. Roth, “Insomnia: Definition, prevalence, etiology, and consequences”, Journal of Clinical Sleep Medicine : JCSM : official publication of the American Academy of Sleep Medicine, vol. 3, núm. 5 Suppl, p. S7, 2007.
 
 [9] “Electroencephalogram (EEG)”, Stanfordchildrens.org. [En línea]. Disponible en: https://www.stanfordchildrens.org//es/topic/default?id=electroencephalogram-eeg-92-P09193. [Consultado: 01-abr-2024].
+Bibliografía
+
+[10]	Reinmar, “Data sets”, Bnci-horizon-2020.eu. [En línea]. Disponible en: https://bnci-horizon-2020.eu/database/data-sets. [Consultado: 01-abr-2024].
+
+[11]	G. Seguimiento y P. De comunicación, “EEG ANALYSIS AND CLASSIFICATION - file exchange - MATLAB CentralFile exchange - MATLAB central”, Mathworks.com, 27-ene-2016. [En línea]. Disponible en: https://la.mathworks.com/matlabcentral/fileexchange/55112-eeg-analysis-and-classification. [Consultado: 01-abr-2024].
+
 
 </details>
