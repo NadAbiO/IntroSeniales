@@ -25,8 +25,11 @@
 ## ¿Qué es un electroencefalograma?
 #### Es un estudio médico que detecta anomalías en las ondas cerebrales. Se colocan electrodos en el cuero cabelludo para medir la actividad eléctrica del cerebro. Estas señales se registran como gráficos en una pantalla de computadora o en papel [9].
 
-![Imagen de EEG](https://42c7d7ca.rocketcdn.me/wp-content/uploads/2018/12/ELECTROENCEFALOGRAMA.jpg)
-<p align="center">Imagen extraída de: https://autismodiario.com/2018/12/22/electroencefalograma-y-autismo/</p>
+<div align="center">
+  <img src="https://cainvas-static.s3.amazonaws.com/media/user_data/cainvas-admin/eeg.gif" />
+  <p> Photo by Lobster on Dribbble </p>
+</div>
+
 
 ## Objetivo
 El objetivo es comparar las ondas cerebrales de personas con sueño completo y de aquellas que consumen bebidas energéticas, utilizando un mismo estímulo. Se busca analizar cómo afecta el consumo de estas bebidas a la actividad cerebral en comparación con un estado de sueño normal, lo que puede tener implicaciones en el rendimiento cognitivo y en la salud mental.
