@@ -21,6 +21,9 @@
 ### Proyecto
 ### *ANALIZANDO SEÑALES DE EEG*
 #### *Desarrollaremos un sistema que pueda adquirir, procesar y comparar señales de un Electroencefalograma (EEG)*
+
+## *¿Qué es un electroencefalograma?*
+### Es un estudio médico que detecta anomalías en las ondas cerebrales. Se colocan electrodos en el cuero cabelludo para medir la actividad eléctrica del cerebro. Estas señales se registran como gráficos en una pantalla de computadora o en papel.
 ---
 
 ### Entregables
