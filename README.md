@@ -18,12 +18,21 @@
 | Bruno Tello <br> <img src="Documentos/Imágenes/br1.jpg" alt="img_nad" height="200"/>| gustavo.tello@upch.pe |
   
 ---
-### Proyecto
-### *ANALIZANDO SEÑALES DE EEG*
-#### *Desarrollaremos un sistema que pueda adquirir, procesar y comparar señales de un Electroencefalograma (EEG)*
+# Proyecto
+### ANALIZANDO SEÑALES DE EEG
+*Desarrollaremos un sistema que pueda adquirir, procesar y comparar señales de un Electroencefalograma (EEG)*
 
-## *¿Qué es un electroencefalograma?*
-### Es un estudio médico que detecta anomalías en las ondas cerebrales. Se colocan electrodos en el cuero cabelludo para medir la actividad eléctrica del cerebro. Estas señales se registran como gráficos en una pantalla de computadora o en papel.
+## ¿Qué es un electroencefalograma?
+#### Es un estudio médico que detecta anomalías en las ondas cerebrales. Se colocan electrodos en el cuero cabelludo para medir la actividad eléctrica del cerebro. Estas señales se registran como gráficos en una pantalla de computadora o en papel [9].
+
+![Imagen de EEG](https://42c7d7ca.rocketcdn.me/wp-content/uploads/2018/12/ELECTROENCEFALOGRAMA.jpg)
+
+
+## OBJETIVO
+El objetivo es comparar las ondas cerebrales de personas con sueño completo y de aquellas que consumen bebidas energéticas, utilizando un mismo estímulo. Se busca analizar cómo afecta el consumo de estas bebidas a la actividad cerebral en comparación con un estado de sueño normal, lo que puede tener implicaciones en el rendimiento cognitivo y en la salud mental.
+
+
+
 ---
 
 ### Entregables
