@@ -12,7 +12,10 @@ Frecuencia= 1KHz
 Forma= sinusoidal
 Vpp=5V, offset= 0V
 
-PONER IMAGEN
+<p align="center">
+  <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/18924b64c18a5a575f808ad1ba2b23f68c9aa4f3/Anexos/sinusoidal.jpeg">
+</p>
+
 
 
 
