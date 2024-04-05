@@ -7,7 +7,7 @@ Forma= sinusoidal
 Vpp=5V, offset= 0V
 
 PONER IMAGEN
----
+
 
 
 # Segunda señal
@@ -17,7 +17,7 @@ Vpp=5V, offset= 0V
 
 PONER IMAGEN
 
----
+
 
 # Tercera señal
 Frecuencia= 1KHz
