@@ -1,3 +1,9 @@
+## Objetivos
+- Capturar señales identificadas como formas cuadradas, triangulares, sinusoidales, rampas y más.
+- Entender los elementos que determinan la selección de la frecuencia de muestreo adecuada.
+- Operar y calibrar de manera eficiente dispositivos como una fuente de poder ajustable, un multímetro digital, un generador de funciones y un osciloscopio digital.
+
+
 ## Generación de señales
 
 Carácterísticas y comparación:
