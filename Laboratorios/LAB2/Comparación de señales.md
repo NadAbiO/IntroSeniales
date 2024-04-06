@@ -35,5 +35,5 @@ Forma= cuadrada
 Vpp=5V, offset= 0V
 
 <p align="center">
-  <img width="460" height="300" src="">
+  <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/cf2ed693fc405f83ca6400063f5dac8086353eac/Anexos/triangular.jpeg">
 </p>
