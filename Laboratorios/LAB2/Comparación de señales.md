@@ -86,6 +86,8 @@ void loop() {
 ***
 ##   Ploteo de señales en Arduino
 
+Debido a una incorrecta conexion inicial de los pines del arduino, las graficas obtenidas no fueron las esperadas, mostrando valores muy altos aun cuando se apago la conexion de la sonda. Sin embargo, si se pudo apreciar inicialmente el cambio que tenia el condensador en la grafica, mostrando una disminucion de ruido significativa una vez que este se conectaba al circuito, haciendo conexion como un filtro RC. 
+
 ***
 
 ## Conclusiones
