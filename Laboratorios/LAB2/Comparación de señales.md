@@ -24,8 +24,9 @@ Frecuencia= 1KHz
 Forma= cuadrada
 Vpp=5V, offset= 0V
 
-PONER IMAGEN
-
+<p align="center">
+  <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/dd1901ce6a8aa4b74cd673735fe22a586e1d77fb/Anexos/cuadrada.jpeg">
+</p>
 
 
 # Tercera señal
@@ -33,4 +34,6 @@ Frecuencia= 1KHz
 Forma= cuadrada
 Vpp=5V, offset= 0V
 
-PONER IMAGEN
+<p align="center">
+  <img width="460" height="300" src="">
+</p>
