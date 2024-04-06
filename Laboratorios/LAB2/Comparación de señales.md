@@ -83,5 +83,7 @@ void loop() {
 ***
 ##   Ploteo de señales en Arduino
 
+***
+
 ## Conclusiones
 En resumen, este experimento nos proporcionó una comprensión más profunda sobre cómo trazar señales en Arduino IDE procedentes de un generador de señales. Se evidenció que el cable BNC, con una atenuación de x10, tuvo un impacto significativo en la visualización de la señal. Además, la inclusión del condensador en el circuito actuó como un filtro, disminuyendo efectivamente el ruido presente en la señal deseada.
