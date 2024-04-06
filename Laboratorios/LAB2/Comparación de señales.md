@@ -1,4 +1,5 @@
 # Laboratorio 2 - Adquisición de señales y graficación en Arduino
+***
 
 ## Objetivos
 - Capturar señales identificadas como formas cuadradas, triangulares, sinusoidales, rampas y más.
