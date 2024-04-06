@@ -25,7 +25,7 @@ Vpp=5V, offset= 0V
 </p>
 
 
-# Onda cuadrada
+### Onda cuadrada
 Frecuencia= 1KHz
 Forma= cuadrada
 Vpp=5V, offset= 0V
@@ -35,7 +35,7 @@ Vpp=5V, offset= 0V
 </p>
 
 
-# Onda triangular
+### Onda triangular
 Frecuencia= 1KHz
 Forma= cuadrada
 Vpp=5V, offset= 0V
