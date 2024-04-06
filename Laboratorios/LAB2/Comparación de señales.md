@@ -11,7 +11,7 @@
 
 Carácterísticas y comparación:
 
-### Señal sinusoidal
+### Onda sinusoidal
 Frecuencia= 1KHz
 Forma= sinusoidal
 Vpp=5V, offset= 0V
@@ -25,7 +25,7 @@ Vpp=5V, offset= 0V
 </p>
 
 
-# Segunda señal
+# Onda cuadrada
 Frecuencia= 1KHz
 Forma= cuadrada
 Vpp=5V, offset= 0V
@@ -35,7 +35,7 @@ Vpp=5V, offset= 0V
 </p>
 
 
-# Tercera señal
+# Onda triangular
 Frecuencia= 1KHz
 Forma= cuadrada
 Vpp=5V, offset= 0V
