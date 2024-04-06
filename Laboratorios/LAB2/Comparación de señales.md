@@ -8,6 +8,7 @@
 ---
 
 ## Generación de señales
+El generador de señales es útil para producir señales eléctricas con diferentes parámetros como frecuencia y amplitud. Se configura para generar la señal deseada, luego se visualiza con un osciloscopio. En este laboratorio, generamos 3 señales distintas y comparamos las gráficas obtenidas mediante el  osciloscopio con las señales graficadas por el Arduino Nano 33 IoT.
 
 Carácterísticas y comparación:
 
