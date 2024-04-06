@@ -21,6 +21,7 @@ Vpp=5V, offset= 0V
   <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/18924b64c18a5a575f808ad1ba2b23f68c9aa4f3/Anexos/sinusoidal.jpeg">
 </p>
 
+
 Onda sinusoidal en el Serial Plotter de Arduino IDE:
 <p align="center">
   <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/30ac0878deb48294ac68e9ac71535bad82cd66d4/Anexos/sin_arduino.png">
