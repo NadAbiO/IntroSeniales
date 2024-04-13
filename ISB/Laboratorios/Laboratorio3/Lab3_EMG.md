@@ -50,7 +50,7 @@ Una consideración importante es que el paciente se encuentre en una posición c
 ## **Resultados** <a name="id6"></a>
 ### **Video de la señal y Ploteo de la señal en OpenSignal** <a name="id7"></a>
 
-![Prueba EMG]<video src="https://github.com/NadAbiO/IntroSeniales/assets/89696355/1164d108-8806-4683-bb3a-1c53579c0043.mp4">
+En la prueba 1 (Bruno Tello) se tomaron señales del reposo y contraccion del brazo, realizando 2 contracciones leves y posteriormente 2 contracciones fuertes para ver el cambio de la señal<video src="https://github.com/NadAbiO/IntroSeniales/assets/89696355/1164d108-8806-4683-bb3a-1c53579c0043.mp4">
 
 |<video src="https://github.com/NadAbiO/IntroSeniales/blob/1580db42e4102d9f0211767390ac96dc52d5835e/Anexos/Laboratorios/Se%C3%B1al_Alvaro.mp4">|<video src="https://github.com/NadAbiO/IntroSeniales/blob/d0aabcc28630d5eeb89ba88f1ce359d80de15abe/Anexos/Laboratorios/Se%C3%B1al_Bruno.mp4">|
 |--------------------------|--------------------------|
@@ -62,24 +62,25 @@ Una consideración importante es que el paciente se encuentre en una posición c
 <p align="center">
   <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/d89ea89b08f120aeae8d22b9aafe5de57bfd7395/ISB/Laboratorios/Laboratorio3/Se%C3%B1ales_EMG/Alvaro.png">
 </p> 
-<em><p align="center">DESCRIPCIÓN DE IMAGEN</p></em>
+<em><p align="center">1era Prueba: 5 Contracciones leves</p></em>
 
-#OLA COMENTEN LO QUE VEN Y PONGAN DESCRIPCIÓN EN LA FOTO
+La señal fluctúa entre períodos de menor y mayor actividad eléctrica, reflejando diferentes intensidades en la contracción del músculo.
+
 #### Prueba 2 (Bruno Tello)
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/7ffa4febc457ecbf7bccf107111b8ec98c56bbc7/ISB/Laboratorios/Laboratorio3/Se%C3%B1ales_EMG/Bruno.png">
 </p> 
-<em><p align="center">DESCRIPCIÓN DE IMAGEN</p></em>
-#OLA COMENTEN LO QUE VEN Y PONGAN DESCRIPCIÓN EN LA FOTO
+<em><p align="center">2da Prueba: 2 contracciones leves y 2 contracciones fuertes</p></em>
+En comparación con la Prueba 1, las contracciones tienen una mayor amplitud, indicando una contracción más fuerte o una mayor respuesta del músculo.
 
 #### Prueba 3 (Kimberly Tito)
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/27c27fcf60a2edf8676019d2ac410a710b6506e7/ISB/Laboratorios/Laboratorio3/Se%C3%B1ales_EMG/Kim.png">
 </p> 
-<em><p align="center">DESCRIPCIÓN DE IMAGEN</p></em>
-#OLA COMENTEN LO QUE VEN Y PONGAN DESCRIPCIÓN EN LA FOTO
+<em><p align="center">3ra Prueba: 4 Contracciones leves y fuertes intercaladas</p></em>
+Incluyen picos altos similares a los de la Prueba 2, con algunos periodos de actividad más constante, demostrando una mezcla de contracciones fuertes y leves.
 
 ### **Archivos** <a name="id9"></a>
 
