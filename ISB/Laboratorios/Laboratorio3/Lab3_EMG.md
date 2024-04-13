@@ -16,7 +16,7 @@ Las señales biomédicas como la electromiografía (EMG) y el electrocardiograma
 
 
 ## **Objetivos** <a name="id2"></a>
-● Adquirir señales biomédicas de EMG y ECG.
-● Hacer una correcta configuración de BiTalino.
-● Extraer la información de las señales EMG y ECG del software OpenSignals (r)evolution
+- Adquirir señales biomédicas de EMG y ECG.
+- Hacer una correcta configuración de BiTalino.
+- Extraer la información de las señales EMG y ECG del software OpenSignals (r)evolution
 
