@@ -82,4 +82,7 @@ Una consideración importante es que el paciente se encuentre en una posición c
 
 ### **Archivos** <a name="id9"></a>
 
-https://github.com/NadAbiO/IntroSeniales/tree/d3b35c0b271c22b37876451e3511eb8a77f34da4/ISB/Laboratorios/Laboratorio3/Se%C3%B1ales_EMG
+- [Documentos (.txt)](https://github.com/NadAbiO/IntroSeniales/tree/d3b35c0b271c22b37876451e3511eb8a77f34da4/ISB/Laboratorios/Laboratorio3/Se%C3%B1ales_EMG)
+
+- [Ploteo de la señal (.py)]()
+
