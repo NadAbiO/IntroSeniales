@@ -88,7 +88,7 @@ Incluyen picos altos similares a los de la Prueba 2, con algunos periodos de act
 ## **Discusión** <a name="id9"></a>
 
 
-Para comprender a fondo la electromiografía, es esencial explicar primero qué constituye una unidad motora. Esta unidad representa el componente más básico y pequeño de un músculo e incluye una única neurona motora y todas las fibras musculares que esta inerva. Durante un electromiograma, se mide la actividad eléctrica que generan estas unidades motoras al activarse durante una contracción muscular. A través del EMG, podemos visualizar la representación bioeléctrica de dicha actividad, conocida como potenciales de unidad motora (PUM). Cada vez que una unidad motora emite un impulso eléctrico, las fibras musculares correspondientes se contraen y generan un potencial eléctrico mensurable. En los registros de PUM, una deflexión hacia arriba indica una polaridad negativa, mientras que una deflexión hacia abajo muestra una polaridad positiva. La forma y polaridad de estos potenciales son cruciales para diagnosticar diversas condiciones neuromusculares.
+Para comprender a fondo la electromiografía, es esencial explicar primero qué constituye una unidad motora. Esta unidad representa el componente más básico y pequeño de un músculo e incluye una única neurona motora y todas las fibras musculares que esta inerva. Durante un electromiograma, se mide la actividad eléctrica que generan estas unidades motoras al activarse durante una contracción muscular [2]. A través del EMG, podemos visualizar la representación bioeléctrica de dicha actividad, conocida como potenciales de unidad motora (PUM). Cada vez que una unidad motora emite un impulso eléctrico, las fibras musculares correspondientes se contraen y generan un potencial eléctrico mensurable [2]. En los registros de PUM, una deflexión hacia arriba indica una polaridad negativa, mientras que una deflexión hacia abajo muestra una polaridad positiva. La forma y polaridad de estos potenciales son cruciales para diagnosticar diversas condiciones neuromusculares.
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Laboratorio3/Se%C3%B1ales_EMG/Analisis_de_signal.png?raw=true">
@@ -97,11 +97,11 @@ Para comprender a fondo la electromiografía, es esencial explicar primero qué 
 
 En la imagen se observa tres zonas remarcadas con cuadrados, estas zonas son características de una señal EMG.
 
-La zona encerrada por el recuadro rojo representa la etapa de descanso. Cuando un músculo se encuentra en estado de relajación, sin contracción, no significa que no haya actividad de parte de las unidades motoras. Estas siguen mantenienedo el tono muscular y la temperatura corporal.
+La zona encerrada por el recuadro rojo representa la etapa de descanso. Cuando un músculo se encuentra en estado de relajación, sin contracción, no significa que no haya actividad de parte de las unidades motoras. Estas siguen mantenienedo el tono muscular y la temperatura corporal [2].
 
-La zona encerreda por el recuadro verde representa a contracciones débiles. Se puede observar una mayor actividad electrica y esto es debido a que se activan más unidades motoras para poder realizar la contracción. 
+La zona encerreda por el recuadro verde representa a contracciones débiles. Se puede observar una mayor actividad electrica y esto es debido a que se activan más unidades motoras para poder realizar la contracción [2]. 
 
-Por último la zona encerrada por el recuadro púrpura representa la contracción completa. Se observa una mayor amplitud, un solapamiento y una mayor interferencia en la señal, esto es debido a la gran cantidad de unidades motoras contrayendose al mismo tiempo. 
+Por último la zona encerrada por el recuadro púrpura representa la contracción completa. Se observa una mayor amplitud, un solapamiento y una mayor interferencia en la señal, esto es debido a la gran cantidad de unidades motoras contrayendose al mismo tiempo [2]. 
 
 
 ***
@@ -114,5 +114,8 @@ Por último la zona encerrada por el recuadro púrpura representa la contracció
 
 ***
 ## **Referencias** <a name="id11"></a>
+
+[2] Medicosis Perfectionalis. Electromyography (EMG) Basics, Muscle Hypertrophy, Denervation, Rigor Mortis | Muscle Physiology. (20 de septiembre de 2021). Accedido el 13 de abril de 2024. [Video en línea]. Disponible: https://www.youtube.com/watch?v=sK065oV8_4w
+
 
 
