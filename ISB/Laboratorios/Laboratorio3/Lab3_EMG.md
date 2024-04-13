@@ -27,3 +27,11 @@ Se utilizó la conexión EMG en la placa Bitalino utilizando el sensor EMG de 3 
 <p align="center">
   <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/04b4b318e89baa6323d34983073915a5d99de282/Anexos/Laboratorios/BITalino.jpeg">
 </p> 
+
+1. Conexión BITalino por medio de Bluetooth.
+2. Se colocaron dos electrodos, uno positivo y otro negativo, en el bíceps braquial izquierdo.
+3. Luego, se colocó un electrodo de referencia en una área con poca actividad muscular, como el codo, para minimizar interferencias.
+4. Inició la captura de la señal estando en reposo.
+7. Se realizó un ciclo de contracción y liberación del músculo, seguido de un período de descanso, cinco veces consecutivas.
+8. Finalmente se detuvo la grabación y se guardaron los datos obtenidos.
+
