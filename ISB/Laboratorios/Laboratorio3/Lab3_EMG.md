@@ -28,6 +28,7 @@ Se utilizó la conexión EMG en la placa Bitalino utilizando el sensor EMG de 3 
 <p align="center">
   <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/04b4b318e89baa6323d34983073915a5d99de282/Anexos/Laboratorios/BITalino.jpeg">
 </p> 
+<em><p align="center">Conexión en BiTalino</p></em>
 
 1. Conexión BITalino por medio de Bluetooth.
 2. Se colocaron dos electrodos, uno positivo y otro negativo, en el bíceps braquial izquierdo.
@@ -60,6 +61,7 @@ Una consideración importante es que el paciente se encuentre en una posición c
 <p align="center">
   <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/d89ea89b08f120aeae8d22b9aafe5de57bfd7395/ISB/Laboratorios/Laboratorio3/Se%C3%B1ales_EMG/Alvaro.png">
 </p> 
+<em><p align="center">DESCRIPCIÓN DE IMAGEN</p></em>
 
 #OLA COMENTEN LO QUE VEN Y PONGAN DESCRIPCIÓN EN LA FOTO
 #### Prueba 2 (Bruno Tello)
@@ -67,6 +69,7 @@ Una consideración importante es que el paciente se encuentre en una posición c
 <p align="center">
   <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/7ffa4febc457ecbf7bccf107111b8ec98c56bbc7/ISB/Laboratorios/Laboratorio3/Se%C3%B1ales_EMG/Bruno.png">
 </p> 
+<em><p align="center">DESCRIPCIÓN DE IMAGEN</p></em>
 #OLA COMENTEN LO QUE VEN Y PONGAN DESCRIPCIÓN EN LA FOTO
 
 #### Prueba 3 (Kimberly Tito)
@@ -74,6 +77,7 @@ Una consideración importante es que el paciente se encuentre en una posición c
 <p align="center">
   <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/27c27fcf60a2edf8676019d2ac410a710b6506e7/ISB/Laboratorios/Laboratorio3/Se%C3%B1ales_EMG/Kim.png">
 </p> 
+<em><p align="center">DESCRIPCIÓN DE IMAGEN</p></em>
 #OLA COMENTEN LO QUE VEN Y PONGAN DESCRIPCIÓN EN LA FOTO
 
 ### **Archivos** <a name="id9"></a>
