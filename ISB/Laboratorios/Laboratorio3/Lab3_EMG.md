@@ -5,11 +5,11 @@
 2. [Objetivos](#id2)
 3. [Metodología](#id3)\
      3.1 [Fotos de la conexión](#id4)\
-     3.1 [Guías electromiográficas](#id5)
+     3.2 [Guía electromiográfica](#id5)
 4. [Resultados](#id6)\
-     3.1 [Video de la señal y Ploteo de la señal en OpenSignal](#id7)\
-     3.2 [Ploteo de la señal en Python](#id8)\
-     3.3 [Archivos](#id9)
+     4.1 [Video de la señal y Ploteo de la señal en OpenSignal](#id7)\
+     4.2 [Ploteo de la señal en Python](#id8)\
+     4.3 [Archivos](#id9)
 
 ## **Introducción** <a name="id1"></a>
 Las señales biomédicas como la electromiografía (EMG) y el electrocardiograma (ECG) son fundamentales para mejorar el diagnóstico médico y mejorar el tratamiento. El laboratorio tiene como objetivo avanzar en la comprensión y el control de estas señales biomédicas utilizando tecnologías avanzadas que permitan una captura y análisis eficientes. Este informe describe el proceso de adquisición de señales EMG utilizando el sistema BiTalino, un dispositivo versátil y fácil de usar diseñado para aplicaciones biomédicas.
@@ -22,7 +22,7 @@ Las señales biomédicas como la electromiografía (EMG) y el electrocardiograma
 
 
 ## **Metodología** <a name="id3"></a>
-# **Fotos de la conexión** <a name="id4"></a>
+### **Fotos de la conexión** <a name="id4"></a>
 Se utilizó la conexión EMG en la placa Bitalino utilizando el sensor EMG de 3 electrodos como se muestra a continuación.
 
 <p align="center">
@@ -35,4 +35,7 @@ Se utilizó la conexión EMG en la placa Bitalino utilizando el sensor EMG de 3 
 4. Inició la captura de la señal estando en reposo.
 7. Se realizó un ciclo de contracción y liberación del músculo, seguido de un período de descanso, cinco veces consecutivas.
 8. Finalmente se detuvo la grabación y se guardaron los datos obtenidos.
+
+
+### **Guía electromiográfica** <a name="id5"></a>
 
