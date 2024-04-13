@@ -54,3 +54,15 @@ Una consideración importante es que el paciente se encuentre en una posición c
 |--------------------------|--------------------------|
 
 |<video src="https://github.com/NadAbiO/IntroSeniales/blob/49c08082e671159f89028ce6481f36c2898f7b36/Anexos/Laboratorios/Se%C3%B1al_Kim.mp4">|
+
+### **Ploteo de la señal en Python** <a name="id8"></a>
+#### Prueba 1
+<p align="center">
+  <img width="460" height="300" src="">
+</p> 
+
+#### Prueba 2
+
+#### Prueba 3
+
+### **Archivos** <a name="id9"></a>
