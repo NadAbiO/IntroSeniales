@@ -25,5 +25,5 @@ Las señales biomédicas como la electromiografía (EMG) y el electrocardiograma
 Se utilizó la conexión EMG en la placa Bitalino utilizando el sensor EMG de 3 electrodos como se muestra a continuación.
 
 <p align="center">
-  <img width="460" height="300" src="">
+  <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/04b4b318e89baa6323d34983073915a5d99de282/Anexos/Laboratorios/BITalino.jpeg">
 </p> 
