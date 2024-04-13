@@ -10,7 +10,8 @@
      4.1 [Video de la señal y Ploteo de la señal en OpenSignal](#id7)\
      4.2 [Ploteo de la señal en Python](#id8)\
 5. [Discusión](#id9)
-6. [Archivos](#id10)
+7. [Archivos](#id10)
+8. [Referencias](#id11)
 ***
 ## **Introducción** <a name="id1"></a>
 Las señales biomédicas como la electromiografía (EMG) y el electrocardiograma (ECG) son fundamentales para mejorar el diagnóstico médico y mejorar el tratamiento. El laboratorio tiene como objetivo avanzar en la comprensión y el control de estas señales biomédicas utilizando tecnologías avanzadas que permitan una captura y análisis eficientes. Este informe describe el proceso de adquisición de señales EMG utilizando el sistema BiTalino, un dispositivo versátil y fácil de usar diseñado para aplicaciones biomédicas.
@@ -109,4 +110,9 @@ Por último la zona encerrada por el recuadro púrpura representa la contracció
 - [Documentos (.txt)](https://github.com/NadAbiO/IntroSeniales/tree/d3b35c0b271c22b37876451e3511eb8a77f34da4/ISB/Laboratorios/Laboratorio3/Se%C3%B1ales_EMG)
 
 - [Ploteo de la señal (.py)](https://github.com/NadAbiO/IntroSeniales/blob/315d3a861240fa3999442cdf8c89407ae29e8ad6/ISB/Laboratorios/Laboratorio3/adq_senial.py)
+
+
+***
+### **Referencias** <a name="id11"></a>
+
 
