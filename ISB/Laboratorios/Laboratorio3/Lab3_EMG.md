@@ -20,7 +20,7 @@ Las señales biomédicas como la electromiografía (EMG) y el electrocardiograma
 - Hacer una correcta configuración de BiTalino.
 - Extraer la información de las señales EMG y ECG del software OpenSignals (r)evolution
 
-
+***
 ## **Metodología** <a name="id3"></a>
 ### **Fotos de la conexión** <a name="id4"></a>
 Se utilizó la conexión EMG en la placa Bitalino utilizando el sensor EMG de 3 electrodos como se muestra a continuación.
@@ -46,7 +46,7 @@ Como referencia para la colocación de los electrodos y buenas prácticas durant
   https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide1_EMG.pdf
 
 Una consideración importante es que el paciente se encuentre en una posición cómoda y relajada, sin objetos metálicos que interfieran. Además, al colocar los electrodos sobre la piel, es fundamental asegurar que la zona esté limpia. Asimismo, es necesario seguir las guías para garantizar la correcta ubicación de los electrodos positivo, negativo y de referencia en sus respectivas áreas.
-
+***
 ## **Resultados** <a name="id6"></a>
 ### **Video de la señal y Ploteo de la señal en OpenSignal** <a name="id7"></a>
 
@@ -81,7 +81,7 @@ En comparación con la Prueba 1, las contracciones tienen una mayor amplitud, in
 </p> 
 <em><p align="center">3ra Prueba: 4 Contracciones leves y fuertes intercaladas</p></em>
 Incluyen picos altos similares a los de la Prueba 2, con algunos periodos de actividad más constante, demostrando una mezcla de contracciones fuertes y leves.
-
+***
 ### **Archivos** <a name="id9"></a>
 
 - [Documentos (.txt)](https://github.com/NadAbiO/IntroSeniales/tree/d3b35c0b271c22b37876451e3511eb8a77f34da4/ISB/Laboratorios/Laboratorio3/Se%C3%B1ales_EMG)
