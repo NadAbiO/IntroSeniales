@@ -81,6 +81,7 @@ En comparación con la Prueba 1, las contracciones tienen una mayor amplitud, in
 </p> 
 <em><p align="center">3ra Prueba: 4 Contracciones leves y fuertes intercaladas</p></em>
 Incluyen picos altos similares a los de la Prueba 2, con algunos periodos de actividad más constante, demostrando una mezcla de contracciones fuertes y leves.
+
 ***
 ### **Archivos** <a name="id9"></a>
 
