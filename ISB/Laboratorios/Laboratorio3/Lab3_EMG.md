@@ -55,7 +55,6 @@ En la prueba 1 (Bruno Tello) se tomaron señales del reposo y contraccion del br
 |<video src="https://github.com/NadAbiO/IntroSeniales/blob/1580db42e4102d9f0211767390ac96dc52d5835e/Anexos/Laboratorios/Se%C3%B1al_Alvaro.mp4">|<video src="https://github.com/NadAbiO/IntroSeniales/blob/d0aabcc28630d5eeb89ba88f1ce359d80de15abe/Anexos/Laboratorios/Se%C3%B1al_Bruno.mp4">|
 |--------------------------|--------------------------|
 
-<video src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/Se%C3%B1al_Alvaro.mp4">
 
 ### **Ploteo de la señal en Python** <a name="id8"></a>
 #### Prueba 1 (Álvaro Cigarán)
