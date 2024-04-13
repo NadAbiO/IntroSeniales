@@ -50,6 +50,7 @@ Una consideración importante es que el paciente se encuentre en una posición c
 ### **Video de la señal y Ploteo de la señal en OpenSignal** <a name="id7"></a>
 
 
-|<video src=" ">|
+|<video src="https://github.com/NadAbiO/IntroSeniales/blob/1580db42e4102d9f0211767390ac96dc52d5835e/Anexos/Laboratorios/Se%C3%B1al_Alvaro.mp4">|<video src="">|
 |--------------------------|--------------------------|
 
+|<video src="">|
