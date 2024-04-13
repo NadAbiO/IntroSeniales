@@ -50,10 +50,11 @@ Una consideración importante es que el paciente se encuentre en una posición c
 ## **Resultados** <a name="id6"></a>
 ### **Video de la señal y Ploteo de la señal en OpenSignal** <a name="id7"></a>
 
-En la prueba 1 (Bruno Tello) se tomaron señales del reposo y contraccion del brazo, realizando 2 contracciones leves y posteriormente 2 contracciones fuertes para ver el cambio de la señal<video src="https://github.com/NadAbiO/IntroSeniales/assets/89696355/fc7d09d6-4187-4c49-ad28-0e2f5665a451">
+En la prueba 1 (Alvaro Cigarán) se tomaron señales del reposo y contraccion del brazo, realizando un total de 5 contracciones intentando mantener el mismo nivel de intensidad<video src="https://github.com/NadAbiO/IntroSeniales/assets/89696355/fc7d09d6-4187-4c49-ad28-0e2f5665a451">
 
-|<video src="https://github.com/NadAbiO/IntroSeniales/blob/1580db42e4102d9f0211767390ac96dc52d5835e/Anexos/Laboratorios/Se%C3%B1al_Alvaro.mp4">|<video src="https://github.com/NadAbiO/IntroSeniales/blob/d0aabcc28630d5eeb89ba88f1ce359d80de15abe/Anexos/Laboratorios/Se%C3%B1al_Bruno.mp4">|
-|--------------------------|--------------------------|
+En la prueba 2 (Bruno Tello) se tomaron señales del reposo y contraccion del brazo, realizando un total de 4 contracciones, las 2 iniciales siendo leves y posteriormente 2 con mayor intensidad <video src="https://github.com/NadAbiO/IntroSeniales/assets/89696355/342fb4fb-9379-489e-8dab-4b2a8ff090d1">
+
+En la prueba 3 (Kimberly Tito) se tomaron señales del reposo y contraccion del brazo, realizando un total de 4 contracciones intercalando el nivel de intensidad entre estas <video src="https://github.com/NadAbiO/IntroSeniales/assets/89696355/b20587c5-c154-42e3-ab5c-d82674526e56">
 
 
 ### **Ploteo de la señal en Python** <a name="id8"></a>
