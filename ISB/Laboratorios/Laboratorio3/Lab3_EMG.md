@@ -94,6 +94,11 @@ Para comprender a fondo la electromiografía, es esencial explicar primero qué 
 </p> 
 <em><p align="center">Análisis de EMG</p></em>
 
+En la imagen se observa tres zonas remarcadas con cuadrados, estas zonas son características de una señal EMG. 
+La zona encerrada por el recuadro rojo representa la etapa de descanso. Cuando un músculo se encuentra en estado de relajación, sin contracción, no significa que no haya actividad de parte de las unidades motoras. Estas siguen mantenienedo el tono muscular y la temperatura corporal.
+La zona encerreda por el recuadro verde representa a contracciones débiles. Se puede observar una mayor actividad electrica y esto es debido a que se activan más unidades motoras para poder realizar la contracción. 
+Por último la zona encerrada por el recuadro púrpura representa la contracción completa. Se observa una mayor amplitud, un solapamiento y una mayor interferencia en la señal, esto es debido a la gran cantidad de unidades motoras contrayendose al mismo tiempo. 
+
 
 ***
 ### **Archivos** <a name="id10"></a>
