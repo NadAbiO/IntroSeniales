@@ -20,3 +20,10 @@ Las señales biomédicas como la electromiografía (EMG) y el electrocardiograma
 - Hacer una correcta configuración de BiTalino.
 - Extraer la información de las señales EMG y ECG del software OpenSignals (r)evolution
 
+
+## **Metodología** <a name="id3"></a>
+Se utilizó la conexión EMG en la placa Bitalino utilizando el sensor EMG de 3 electrodos como se muestra a continuación.
+
+<p align="center">
+  <img width="460" height="300" src="">
+</p> 
