@@ -29,7 +29,7 @@ Se utilizó la conexión EMG en la placa Bitalino utilizando el sensor EMG de 3 
 <p align="center">
   <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/04b4b318e89baa6323d34983073915a5d99de282/Anexos/Laboratorios/BITalino.jpeg">
 </p> 
-<em><p align="center">Conexión en BiTalino</p></em>
+<em><p align="center">Fig 1.Conexión en BiTalino</p></em>
 
 1. Conexión BITalino por medio de Bluetooth.
 2. Se colocaron dos electrodos, uno positivo y otro negativo, en el bíceps braquial izquierdo.
