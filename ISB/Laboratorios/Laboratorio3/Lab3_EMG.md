@@ -50,7 +50,7 @@ Una consideración importante es que el paciente se encuentre en una posición c
 ## **Resultados** <a name="id6"></a>
 ### **Video de la señal y Ploteo de la señal en OpenSignal** <a name="id7"></a>
 
-![Prueba EMG](https://github.com/NadAbiO/IntroSeniales/assets/89696355/b3b0ded9-3717-4232-bef5-c68f3e044480)
+![Prueba EMG]<video src="https://github.com/NadAbiO/IntroSeniales/assets/89696355/1164d108-8806-4683-bb3a-1c53579c0043.mp4">
 
 |<video src="https://github.com/NadAbiO/IntroSeniales/blob/1580db42e4102d9f0211767390ac96dc52d5835e/Anexos/Laboratorios/Se%C3%B1al_Alvaro.mp4">|<video src="https://github.com/NadAbiO/IntroSeniales/blob/d0aabcc28630d5eeb89ba88f1ce359d80de15abe/Anexos/Laboratorios/Se%C3%B1al_Bruno.mp4">|
 |--------------------------|--------------------------|
