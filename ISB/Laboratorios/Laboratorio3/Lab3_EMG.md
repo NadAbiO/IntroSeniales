@@ -8,7 +8,7 @@
      3.2 [Guía electromiográfica](#id5)
 4. [Resultados](#id6)\
      4.1 [Video de la señal y Ploteo de la señal en OpenSignal](#id7)\
-     4.2 [Ploteo de la señal en Python](#id8)\
+     4.2 [Ploteo de la señal en Python](#id8)
 5. [Discusión](#id9)
 7. [Archivos](#id10)
 8. [Referencias](#id11)
