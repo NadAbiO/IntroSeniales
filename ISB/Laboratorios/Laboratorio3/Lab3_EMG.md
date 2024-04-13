@@ -29,7 +29,7 @@ Se utilizó la conexión EMG en la placa Bitalino utilizando el sensor EMG de 3 
 <p align="center">
   <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/04b4b318e89baa6323d34983073915a5d99de282/Anexos/Laboratorios/BITalino.jpeg">
 </p> 
-<em><p align="center">Fig 1.Conexión en BiTalino</p></em>
+<em><p align="center">Conexión en BiTalino</p></em>
 
 1. Conexión BITalino por medio de Bluetooth.
 2. Se colocaron dos electrodos, uno positivo y otro negativo, en el bíceps braquial izquierdo.
@@ -89,6 +89,10 @@ Incluyen picos altos similares a los de la Prueba 2, con algunos periodos de act
 
 Para comprender a fondo la electromiografía, es esencial explicar primero qué constituye una unidad motora. Esta unidad representa el componente más básico y pequeño de un músculo e incluye una única neurona motora y todas las fibras musculares que esta inerva. Durante un electromiograma, se mide la actividad eléctrica que generan estas unidades motoras al activarse durante una contracción muscular. A través del EMG, podemos visualizar la representación bioeléctrica de dicha actividad, conocida como potenciales de unidad motora (PUM). Cada vez que una unidad motora emite un impulso eléctrico, las fibras musculares correspondientes se contraen y generan un potencial eléctrico mensurable. En los registros de PUM, una deflexión hacia arriba indica una polaridad negativa, mientras que una deflexión hacia abajo muestra una polaridad positiva. La forma y polaridad de estos potenciales son cruciales para diagnosticar diversas condiciones neuromusculares.
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Laboratorio3/Se%C3%B1ales_EMG/Analisis_de_signal.png?raw=true">
+</p> 
+<em><p align="center">Análisis de EMG</p></em>
 
 
 ***
