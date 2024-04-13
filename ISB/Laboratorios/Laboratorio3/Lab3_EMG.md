@@ -39,3 +39,17 @@ Se utilizó la conexión EMG en la placa Bitalino utilizando el sensor EMG de 3 
 
 ### **Guía electromiográfica** <a name="id5"></a>
 
+Como referencia para la colocación de los electrodos y buenas prácticas durante la toma de datos utilizamos la siguiente guía:
+
+- BITalino (r)evolution Lab Guide
+  https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide1_EMG.pdf
+
+Una consideración importante es que el paciente se encuentre en una posición cómoda y relajada, sin objetos metálicos que interfieran. Además, al colocar los electrodos sobre la piel, es fundamental asegurar que la zona esté limpia. Asimismo, es necesario seguir las guías para garantizar la correcta ubicación de los electrodos positivo, negativo y de referencia en sus respectivas áreas.
+
+## **Resultados** <a name="id6"></a>
+### **Video de la señal y Ploteo de la señal en OpenSignal** <a name="id7"></a>
+
+
+|<video src=" ">|
+|--------------------------|--------------------------|
+
