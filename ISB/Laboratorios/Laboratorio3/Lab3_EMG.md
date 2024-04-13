@@ -87,6 +87,10 @@ Incluyen picos altos similares a los de la Prueba 2, con algunos periodos de act
 ## **Discusión** <a name="id9"></a>
 
 
+Para comprender a fondo la electromiografía, es esencial explicar primero qué constituye una unidad motora. Esta unidad representa el componente más básico y pequeño de un músculo e incluye una única neurona motora y todas las fibras musculares que esta inerva. Durante un electromiograma, se mide la actividad eléctrica que generan estas unidades motoras al activarse durante una contracción muscular. A través del EMG, podemos visualizar la representación bioeléctrica de dicha actividad, conocida como potenciales de unidad motora (PUM). Cada vez que una unidad motora emite un impulso eléctrico, las fibras musculares correspondientes se contraen y generan un potencial eléctrico mensurable. En los registros de PUM, una deflexión hacia arriba indica una polaridad negativa, mientras que una deflexión hacia abajo muestra una polaridad positiva. La forma y polaridad de estos potenciales son cruciales para diagnosticar diversas condiciones neuromusculares.
+
+
+
 ***
 ### **Archivos** <a name="id10"></a>
 
