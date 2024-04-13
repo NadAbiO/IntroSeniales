@@ -58,9 +58,10 @@ Una consideración importante es que el paciente se encuentre en una posición c
 ### **Ploteo de la señal en Python** <a name="id8"></a>
 #### Prueba 1
 <p align="center">
-  <img width="460" height="300" src="">
+  <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/d89ea89b08f120aeae8d22b9aafe5de57bfd7395/ISB/Laboratorios/Laboratorio3/Se%C3%B1ales_EMG/Alvaro.png">
 </p> 
 
+#OLA COMENTEN LO QUE VEN
 #### Prueba 2
 
 #### Prueba 3
