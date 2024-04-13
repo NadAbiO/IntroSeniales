@@ -22,6 +22,7 @@ Las señales biomédicas como la electromiografía (EMG) y el electrocardiograma
 
 
 ## **Metodología** <a name="id3"></a>
+# **Fotos de la conexión** <a name="id4"></a>
 Se utilizó la conexión EMG en la placa Bitalino utilizando el sensor EMG de 3 electrodos como se muestra a continuación.
 
 <p align="center">
