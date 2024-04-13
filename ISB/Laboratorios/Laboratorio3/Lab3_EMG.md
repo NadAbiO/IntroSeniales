@@ -9,7 +9,7 @@
 4. [Resultados](#id6)\
      4.1 [Video de la señal y Ploteo de la señal en OpenSignal](#id7)\
      4.2 [Ploteo de la señal en Python](#id8)\
-5. [Discusión](#id9)\
+5. [Discusión](#id9)
 6. [Archivos](#id10)
 ***
 ## **Introducción** <a name="id1"></a>
