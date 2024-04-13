@@ -44,7 +44,7 @@ Se utilizó la conexión EMG en la placa Bitalino utilizando el sensor EMG de 3 
 
 Como referencia para la colocación de los electrodos y buenas prácticas durante la toma de datos utilizamos la siguiente guía:
 
-- BITalino (r)evolution Lab Guide
+- BITalino (r)evolution Lab Guide [1]
   https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide1_EMG.pdf
 
 Una consideración importante es que el paciente se encuentre en una posición cómoda y relajada, sin objetos metálicos que interfieran. Además, al colocar los electrodos sobre la piel, es fundamental asegurar que la zona esté limpia. Asimismo, es necesario seguir las guías para garantizar la correcta ubicación de los electrodos positivo, negativo y de referencia en sus respectivas áreas.
@@ -114,8 +114,8 @@ Por último la zona encerrada por el recuadro púrpura representa la contracció
 
 ***
 ## **Referencias** <a name="id11"></a>
-
-[2] Medicosis Perfectionalis. Electromyography (EMG) Basics, Muscle Hypertrophy, Denervation, Rigor Mortis | Muscle Physiology. (20 de septiembre de 2021). Accedido el 13 de abril de 2024. [Video en línea]. Disponible: https://www.youtube.com/watch?v=sK065oV8_4w
+[1] 
+[2] Medicosis Perfectionalis. Electromyography (EMG) Basics, Muscle Hypertrophy, Denervation, Rigor Mortis | Muscle Physiology. (20 de septiembre de 2021). [Video en línea]. Disponible: https://www.youtube.com/watch?v=sK065oV8_4w
 
 
 
