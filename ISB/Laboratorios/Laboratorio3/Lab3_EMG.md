@@ -10,7 +10,7 @@
      4.1 [Video de la señal y Ploteo de la señal en OpenSignal](#id7)\
      4.2 [Ploteo de la señal en Python](#id8)\
      4.3 [Archivos](#id9)
-
+***
 ## **Introducción** <a name="id1"></a>
 Las señales biomédicas como la electromiografía (EMG) y el electrocardiograma (ECG) son fundamentales para mejorar el diagnóstico médico y mejorar el tratamiento. El laboratorio tiene como objetivo avanzar en la comprensión y el control de estas señales biomédicas utilizando tecnologías avanzadas que permitan una captura y análisis eficientes. Este informe describe el proceso de adquisición de señales EMG utilizando el sistema BiTalino, un dispositivo versátil y fácil de usar diseñado para aplicaciones biomédicas.
 
