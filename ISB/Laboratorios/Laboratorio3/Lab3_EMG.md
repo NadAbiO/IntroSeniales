@@ -56,14 +56,24 @@ Una consideración importante es que el paciente se encuentre en una posición c
 |<video src="https://github.com/NadAbiO/IntroSeniales/blob/49c08082e671159f89028ce6481f36c2898f7b36/Anexos/Laboratorios/Se%C3%B1al_Kim.mp4">|
 
 ### **Ploteo de la señal en Python** <a name="id8"></a>
-#### Prueba 1
+#### Prueba 1 (Álvaro Cigarán)
 <p align="center">
   <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/d89ea89b08f120aeae8d22b9aafe5de57bfd7395/ISB/Laboratorios/Laboratorio3/Se%C3%B1ales_EMG/Alvaro.png">
 </p> 
 
 #OLA COMENTEN LO QUE VEN
-#### Prueba 2
+#### Prueba 2 (Bruno Tello)
 
-#### Prueba 3
+<p align="center">
+  <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/7ffa4febc457ecbf7bccf107111b8ec98c56bbc7/ISB/Laboratorios/Laboratorio3/Se%C3%B1ales_EMG/Bruno.png">
+</p> 
+
+
+#### Prueba 3 (Kimberly Tito)
+
+<p align="center">
+  <img width="460" height="300" src="">
+</p> 
+
 
 ### **Archivos** <a name="id9"></a>
