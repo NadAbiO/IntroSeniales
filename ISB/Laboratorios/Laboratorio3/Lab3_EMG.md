@@ -115,7 +115,8 @@ Por último la zona encerrada por el recuadro púrpura representa la contracció
 
 ***
 ## **Referencias** <a name="id11"></a>
-[1] 
+[1] BITalino (r)evolution Lab Guide
+  https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide1_EMG.pdf 
 [2] Medicosis Perfectionalis. Electromyography (EMG) Basics, Muscle Hypertrophy, Denervation, Rigor Mortis | Muscle Physiology. (20 de septiembre de 2021). [Video en línea]. Disponible: https://www.youtube.com/watch?v=sK065oV8_4w
 
 
