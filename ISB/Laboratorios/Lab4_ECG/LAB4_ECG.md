@@ -28,7 +28,18 @@ En un electrocardiograma (ECG) normal, los latidos del corazón se reflejan a tr
 </p> 
 <em><p align="center">Figura 1. Ondas e Intervalos</p></em>
 
+<div align="center">
 
+|  **Onda/Segmento**  | **Descripción** |
+|:------------:|:---------------:|
+| Onda P | Representa la despolarización de las aurículas, estas se están contrayendo y enviando sangre hacia los ventrículos. La duración normal es menor de 0.10 s y una amplitud máxima de 0.25 mV. Es positiva en casi todas las derivaciones. |
+|Intervalo PR | Distancia entre el inicio de despolarización de la onda P y el inicio del complejo QRS. En condiciones normales, dura entre 0,10 y 0,20 segundos    |
+|Segmento PR   | Es el tramo de la línea basal entre el final de la onda p y el inicio del complejo QRS. Las aurículas terminan de vaciarse y se produce una desaceleración en la transmisión de la corriente eléctrica a través del corazón, justo antes del inicio de la contracción de los ventrículos.    |
+| Complejo QRS | Representa la despolarización ventricular. Los ventrículos se contraen y expulsan su contenido sanguíneo, no debe exceder en duración más de dos cuadrados pequeños.  |
+|  Segmento ST | Representa la despolarización completa del miocardio ventricular. La variación en la posición con respecto a la línea de basal puede sugerir la presencia de ciertas enfermedades.    |
+|     Onda T   |  Representa la repolarización de los ventrículos. Generalmente es de menor amplitud que el complejo QRS.   |
+
+<div align="left">
 ***
 ## **Objetivos** <a name="id2"></a>
 - Adquirir señales biomédicas de ECG.
