@@ -61,10 +61,9 @@ En un electrocardiograma (ECG) normal, los latidos del corazón se reflejan a tr
 Se utilizó la conexión ECG en la placa Bitalino utilizando el sensor ECG de 3 electrodos como se muestra a continuación.
 
 <p align="center">
-  <img width="460" height="300" src="[IntroSeniales\Anexos\triangular.jpeg](https://github.com/NadAbiO/IntroSeniales/blob/1187db58c85022adad9f646b42f19c9eb807d7b0/Anexos/Laboratorios/BITalino.jpeg)">
-
+  <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/04b4b318e89baa6323d34983073915a5d99de282/Anexos/Laboratorios/BITalino.jpeg">
 </p> 
-<em><p align="center">Conexión en BiTalino</p></em>
+<em><p align="center">Figura 2. Conexión en BiTalino</p></em>
 
 1. Conexión BITalino por medio de Bluetooth.
 2. Se colocaron dos electrodos, uno positivo y otro negativo, en el brazo izquierdo y brazo derecho respectivamente.
