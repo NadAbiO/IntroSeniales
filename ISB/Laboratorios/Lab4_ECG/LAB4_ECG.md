@@ -61,7 +61,7 @@ En un electrocardiograma (ECG) normal, los latidos del corazón se reflejan a tr
 Se utilizó la conexión ECG en la placa Bitalino utilizando el sensor ECG de 3 electrodos como se muestra a continuación.
 
 <p align="center">
-  <img width="460" height="300" src="IntroSeniales\Anexos\triangular.jpeg">
+  <img width="460" height="300" src="[IntroSeniales\Anexos\triangular.jpeg](https://github.com/NadAbiO/IntroSeniales/blob/1187db58c85022adad9f646b42f19c9eb807d7b0/Anexos/Laboratorios/BITalino.jpeg)">
 
 </p> 
 <em><p align="center">Conexión en BiTalino</p></em>
