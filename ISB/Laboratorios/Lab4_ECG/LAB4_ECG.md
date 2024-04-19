@@ -22,7 +22,7 @@ La señal del electrocardiograma (ECG) resulta crucial ya que ofrece datos signi
 En un electrocardiograma (ECG) normal, los latidos del corazón se reflejan a través de variaciones en la línea de base, representadas por ángulos, segmentos, ondas e intervalos. Estos elementos forman una imagen característica que se repite de manera regular a lo largo de todo el registro. Un ECG típico muestra una sucesión de deflexiones, conocidas como ondas, que se alternan con la línea basal. Al leer el ECG de izquierda a derecha, se identifican la onda P, el segmento P-R, el complejo QRS, el intervalo QT, el segmento ST y, finalmente, la onda T. Esta disposición puede apreciarse en la imagen adjunta [2].
 
 <p align="center">
-  <img width="460" height="300" src="">
+  <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/e3dd6f5f0a621e8a486cf26a2decd3816548c45b/Anexos/Laboratorios/ECG.png">
 
 </p> 
 <em><p align="center">Figura 1. Ondas e Intervalos</p></em>
