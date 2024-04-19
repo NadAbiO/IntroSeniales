@@ -26,21 +26,21 @@ En un electrocardiograma (ECG) normal, los latidos del corazón se reflejan a tr
   <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/e3dd6f5f0a621e8a486cf26a2decd3816548c45b/Anexos/Laboratorios/ECG.png">
 
 </p> 
-<em><p align="center">Figura 1. Ondas e Intervalos</p></em>
+<em><p align="center">Figura 1. Ondas e Intervalos [2]</p></em>
 
 <div align="center">
 
 |  **Onda/Segmento**  | **Descripción** |
 |:------------:|:---------------:|
-| Onda P | Representa la despolarización de las aurículas, estas se están contrayendo y enviando sangre hacia los ventrículos. La duración normal es menor de 0.10 s y una amplitud máxima de 0.25 mV. Es positiva en casi todas las derivaciones. |
-|Intervalo PR | Distancia entre el inicio de despolarización de la onda P y el inicio del complejo QRS. En condiciones normales, dura entre 0,10 y 0,20 segundos    |
-|Segmento PR   | Es el tramo de la línea basal entre el final de la onda p y el inicio del complejo QRS. Las aurículas terminan de vaciarse y se produce una desaceleración en la transmisión de la corriente eléctrica a través del corazón, justo antes del inicio de la contracción de los ventrículos.    |
-| Complejo QRS | Representa la despolarización ventricular. Los ventrículos se contraen y expulsan su contenido sanguíneo, no debe exceder en duración más de dos cuadrados pequeños.  |
-|  Segmento ST | Representa la despolarización completa del miocardio ventricular. La variación en la posición con respecto a la línea de basal puede sugerir la presencia de ciertas enfermedades.    |
-|     Onda T   |  Representa la repolarización de los ventrículos. Generalmente es de menor amplitud que el complejo QRS.   |
+| Onda P | Representa la despolarización de las aurículas, estas se están contrayendo y enviando sangre hacia los ventrículos. La duración normal es menor de 0.10 s y una amplitud máxima de 0.25 mV. Es positiva en casi todas las derivaciones [2]. |
+|Intervalo PR | Distancia entre el inicio de despolarización de la onda P y el inicio del complejo QRS. En condiciones normales, dura entre 0,10 y 0,20 segundos [2].   |
+|Segmento PR   | Es el tramo de la línea basal entre el final de la onda p y el inicio del complejo QRS. Las aurículas terminan de vaciarse y se produce una desaceleración en la transmisión de la corriente eléctrica a través del corazón, justo antes del inicio de la contracción de los ventrículos [2].    |
+| Complejo QRS | Representa la despolarización ventricular. Los ventrículos se contraen y expulsan su contenido sanguíneo, no debe exceder en duración más de dos cuadrados pequeños [2].  |
+|  Segmento ST | Representa la despolarización completa del miocardio ventricular. La variación en la posición con respecto a la línea de basal puede sugerir la presencia de ciertas enfermedades [2].    |
+|     Onda T   |  Representa la repolarización de los ventrículos. Generalmente es de menor amplitud que el complejo QRS [2].   |
 
 <div align="left">
-***
+
 ## **Objetivos** <a name="id2"></a>
 - Adquirir señales biomédicas de ECG.
 - Hacer una correcta configuración de BiTalino.
