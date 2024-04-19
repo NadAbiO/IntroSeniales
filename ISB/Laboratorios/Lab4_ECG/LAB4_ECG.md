@@ -171,7 +171,4 @@ El marcapasos natural es el nódulo sinoauricular que inicia la despolarización
 
 [4] S. Meek, “ABC of clinical electrocardiography: Introduction. I---Leads, rate, rhythm, and cardiac axis”, BMJ, vol. 324, núm. 7334, pp. 415–418, 2002.
 
-[] BITalino (r)evolution Lab Guide
-  https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide1_EMG.pdf 
-  
-[] Medicosis Perfectionalis. Electromyography (EMG) Basics, Muscle Hypertrophy, Denervation, Rigor Mortis | Muscle Physiology. (20 de septiembre de 2021). [Video en línea]. Disponible: https://www.youtube.com/watch?v=sK065oV8_4w
+
