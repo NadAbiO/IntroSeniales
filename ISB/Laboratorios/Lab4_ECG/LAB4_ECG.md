@@ -104,15 +104,16 @@ Adicionalmente se uso el dispositivo Promsim4 para generar señales que simulaba
 <p align="center">
   <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabECG/mecg.jpg">
 </p> 
+<em><p align="center> Dispositivo de metrologia: Promsim4 </p></em>
 
 <div align="center">
 
 |                 **Simulación**                 | **Toma** |
 |:------------------------------------------:|:---------:|
-|**Simulación de 60lpm - estado basal** </p><img src="/ISB/Laboratorios/Imagenes/entregable4/60lpm_toma1.jpg" width="300" height="300">|<img src="/ISB/Laboratorios/Imagenes/entregable4/60lpm_toma11.jpg" width="300" height="300">|
-| **Simulación de 120lpm - empieza a agitarse**</p><img src="/ISB/Laboratorios/Imagenes/entregable4/120lpm_toma2.jpg" width="300" height="300">|<img src="/ISB/Laboratorios/Imagenes/entregable4/120lpm_toma22.jpg" width="300" height="300">|
-|                **Simulación de 150lpm - haciendo ejercicio**</p><img src="/ISB/Laboratorios/Imagenes/entregable4/150lpm_toma3.jpg" width="300" height="300">|<img src="/ISB/Laboratorios/Imagenes/entregable4/150lpm_toma33.jpg" width="300" height="300"></p>|
-|       **Simulación de 90lpm - reponiendose**</p><img src="/ISB/Laboratorios/Imagenes/entregable4/90lpm_toma4.jpg" width="300" height="300">      |<img src="/ISB/Laboratorios/Imagenes/entregable4/90lpm_toma44.jpg" width="300" height="300"></p>|
+|**Simulación de 60lpm - estado basal** </p><video src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabECG/ecg2.mp4" width="300" height="300">
+| **Simulación de 120lpm - empieza a agitarse** </p><video src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabECG/ecg3.mp4" width="300" height="300">
+|                **Simulación de 150lpm - haciendo ejercicio** </p><video src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabECG/ecg4.mp4" width="300" height="300">
+|       **Simulación de 90lpm - reponiendose** </p><video src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabECG/ecg5.mp4" width="300" height="300">
 
 </div>
 
