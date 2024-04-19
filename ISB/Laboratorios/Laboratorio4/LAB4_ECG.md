@@ -89,6 +89,15 @@ Incluyen picos altos similares a los de la Prueba 2, con algunos periodos de act
 ***
 ## **Discusión** <a name="id9"></a>
 
+La electrocardiografia es una herramienta eficiente y usualmente usada para evaluacion cardivascular. Es una herramienta que ayuda a observar el potencial electrico del corazón y poder diagnosticar, si fuera el caso, cualquier anomalía  en el corazón.
+La contacción muscular rítmica de debe a la despolarización y repolarización de las células del miocardio los cuales son originados por movimiento de iones cargados al interior o exterior de la membrana célular (Na+, Ca 2+, K+).
+Dicho movimiento de iones cargados genera corriente electroca cuantificable por un electrocardiografo.
+El marcapasos natural es el nódulo sinoauricular que inicia la despolarización auricular. El impulso se propaga hasta el nódulo auriculoventricular para posteriormente viajar por el has de His y finalmente llegar a las fibras de Purkinje.
+
+<p align="center">
+  <img height="300" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1122339/bin/ecg01.f1.jpg">
+</p> 
+<em><p align="center">El sistema de conducción His-Purkinje [a] </p></em>
 
 
 
@@ -105,6 +114,8 @@ Incluyen picos altos similares a los de la Prueba 2, con algunos periodos de act
 
 ***
 ## **Referencias** <a name="id11"></a>
+[a] S. Meek, “ABC of clinical electrocardiography: Introduction. I---Leads, rate, rhythm, and cardiac axis”, BMJ, vol. 324, núm. 7334, pp. 415–418, 2002.
+
 [1] BITalino (r)evolution Lab Guide
   https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide1_EMG.pdf 
   
