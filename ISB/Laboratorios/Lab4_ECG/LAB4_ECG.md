@@ -1,19 +1,19 @@
 # Laboratorio 4 - Adquisición señales ECG
 
 ## **Tabla de contenidos**
-1. [Introducción](#id1)
-2. [Objetivos](#id2)
-3. [Metodología](#id3)\
-     3.1 [Materiales y equipos](#id12)\
-     3.2 [Fotos de la conexión](#id4)\
-     3.3 [Guía electromiográfica](#id5)
-5. [Resultados](#id6)\
-     4.1 [Video de la señal y Ploteo de la señal en OpenSignal](#id7)\
-     4.2 [Ploteo de la señal en Python](#id8) <br>
-     4.3 [Señal del Promsim4](#id13) <br>
-6. [Discusión](#id9)
-7. [Archivos](#id10)
-8. [Referencias](#id11)
+- [Introducción](#id1)
+- [Objetivos](#id2)
+- [Metodología](#id3)
+  - [Materiales y equipos](#id12)
+  - [Fotos de la conexión](#id4)
+  - [Guía electromiográfica](#id5)
+- [Resultados](#id6)
+  - [Video de la señal y Ploteo de la señal en OpenSignal](#id7)
+  - [Ploteo de la señal en Python](#id8) <br>
+  [Señal del Promsim4](#id13) <br>
+- [Discusión](#id9)
+- [Archivos](#id10)
+- [Referencias](#id11)
 ***
 ## **Introducción** <a name="id1"></a>
 Las señales biomédicas como la electromiografía (EMG) y el electrocardiograma (ECG) son fundamentales para mejorar el diagnóstico médico y mejorar el tratamiento. El laboratorio tiene como objetivo avanzar en la comprensión y el control de estas señales biomédicas utilizando tecnologías avanzadas que permitan una captura y análisis eficientes. Este informe describe el proceso de adquisición de señales ECG utilizando el sistema BiTalino, un dispositivo versátil y fácil de usar diseñado para aplicaciones biomédicas.
