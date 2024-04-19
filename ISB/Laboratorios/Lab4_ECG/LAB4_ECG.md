@@ -1,12 +1,13 @@
-# Laboratorio 3 - Adquisición señales EMG
+# Laboratorio 4 - Adquisición señales ECG
 
 ## **Tabla de contenidos**
 1. [Introducción](#id1)
 2. [Objetivos](#id2)
 3. [Metodología](#id3)\
-     3.1 [Fotos de la conexión](#id4)\
-     3.2 [Guía electromiográfica](#id5)
-4. [Resultados](#id6)\
+     3.1 [Materiales y equipos](#id12)\
+     3.2 [Fotos de la conexión](#id4)\
+     3.3 [Guía electromiográfica](#id5)
+5. [Resultados](#id6)\
      4.1 [Video de la señal y Ploteo de la señal en OpenSignal](#id7)\
      4.2 [Ploteo de la señal en Python](#id8) <br>
      4.3 [Señal del Promsim4](#id13) <br>
@@ -49,6 +50,13 @@ En un electrocardiograma (ECG) normal, los latidos del corazón se reflejan a tr
 
 ***
 ## **Metodología** <a name="id3"></a>
+
+### **Materiales y equipos** <a name="id12"></a>
+|  **Modelo**  | **Descripción** | **Cantidad** |
+|:------------:|:---------------:|:------------:|
+| (R)EVOLUTION |   Kit BITalino  |       1      |
+|       -      |      Laptop     |       1      |
+
 ### **Fotos de la conexión** <a name="id4"></a>
 Se utilizó la conexión ECG en la placa Bitalino utilizando el sensor ECG de 3 electrodos como se muestra a continuación.
 
