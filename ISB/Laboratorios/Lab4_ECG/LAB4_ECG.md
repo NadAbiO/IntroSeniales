@@ -110,10 +110,10 @@ Adicionalmente se uso el dispositivo Promsim4 para generar señales que simulaba
 
 |                 **Simulación**                 | **Toma** |
 |:------------------------------------------:|:---------:|
-|**Simulación de 60lpm - estado basal** </p><video src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabECG/ecg2.mp4" width="300" height="300">
-| **Simulación de 120lpm - empieza a agitarse** </p><video src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabECG/ecg3.mp4" width="300" height="300">
-|                **Simulación de 150lpm - haciendo ejercicio** </p><video src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabECG/ecg4.mp4" width="300" height="300">
-|       **Simulación de 90lpm - reponiendose** </p><video src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabECG/ecg5.mp4" width="300" height="300">
+|**Simulación etapa 2** </p><video src=" https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/assets/89696355/641c49ba-393f-4526-abcf-1378b20ea820" width="300" height="300">
+| **Simulación etapa 3** </p><video src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabECG/ecg3.mp4" width="300" height="300">
+|                **Simulación etapa 4** </p><video src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabECG/ecg4.mp4" width="300" height="300">
+|       **Simulación etapa 5** </p><video src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabECG/ecg5.mp4" width="300" height="300">
 
 </div>
 
