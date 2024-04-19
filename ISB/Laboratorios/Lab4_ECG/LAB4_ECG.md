@@ -98,6 +98,25 @@ En comparación con la Prueba 1, las contracciones tienen una mayor amplitud, in
 <em><p align="center">3ra Prueba: 4 Contracciones leves y fuertes intercaladas</p></em>
 Incluyen picos altos similares a los de la Prueba 2, con algunos periodos de actividad más constante, demostrando una mezcla de contracciones fuertes y leves.
 
+### **Señal del Promsim4 (dispositivo de metrología que genera una señal patrón)** <a name="id9"></a>
+
+Adicionalmente se uso el dispositivo Promsim4 para generar señales que simulaban las etapas de un paro cardiaco, estas fueron leidas por el Bitalino y mostradas como referencia
+<p align="center">
+  <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabECG/mecg.jpg">
+</p> 
+
+<div align="center">
+
+|                 **Simulación**                 | **Toma** |
+|:------------------------------------------:|:---------:|
+|**Simulación de 60lpm - estado basal** </p><img src="/ISB/Laboratorios/Imagenes/entregable4/60lpm_toma1.jpg" width="300" height="300">|<img src="/ISB/Laboratorios/Imagenes/entregable4/60lpm_toma11.jpg" width="300" height="300">|
+| **Simulación de 120lpm - empieza a agitarse**</p><img src="/ISB/Laboratorios/Imagenes/entregable4/120lpm_toma2.jpg" width="300" height="300">|<img src="/ISB/Laboratorios/Imagenes/entregable4/120lpm_toma22.jpg" width="300" height="300">|
+|                **Simulación de 150lpm - haciendo ejercicio**</p><img src="/ISB/Laboratorios/Imagenes/entregable4/150lpm_toma3.jpg" width="300" height="300">|<img src="/ISB/Laboratorios/Imagenes/entregable4/150lpm_toma33.jpg" width="300" height="300"></p>|
+|       **Simulación de 90lpm - reponiendose**</p><img src="/ISB/Laboratorios/Imagenes/entregable4/90lpm_toma4.jpg" width="300" height="300">      |<img src="/ISB/Laboratorios/Imagenes/entregable4/90lpm_toma44.jpg" width="300" height="300"></p>|
+
+</div>
+
+
 ***
 ## **Discusión** <a name="id9"></a>
 
