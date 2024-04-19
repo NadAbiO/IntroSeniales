@@ -110,10 +110,10 @@ Adicionalmente se uso el dispositivo Promsim4 para generar señales que simulaba
 
 |                 **Simulación**                 | **Toma** |
 |:------------------------------------------:|:---------:|
-|**Simulación etapa 2** </p><video src="https://github.com/NadAbiO/IntroSeniales/assets/89696355/781acdce-e37e-46b7-8329-2d68bbd1109d" width="300" height="300"> |
-| **Simulación etapa 3** <video src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabECG/ecg3.mp4" width="300" height="300">
-|                **Simulación etapa 4** <video src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabECG/ecg4.mp4" width="300" height="300">
-|       **Simulación etapa 5** <video src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabECG/ecg5.mp4" width="300" height="300">
+|**Simulación etapa 2** | <video src="https://github.com/NadAbiO/IntroSeniales/assets/89696355/781acdce-e37e-46b7-8329-2d68bbd1109d" width="300" height="300">
+|**Simulación etapa 3** | <video src="https://github.com/NadAbiO/IntroSeniales/assets/89696355/1c40b38d-92b5-4957-87d6-8a93d2566241" width="300" height="300">
+|**Simulación etapa 4** | <video src="https://github.com/NadAbiO/IntroSeniales/assets/89696355/9cc65281-9d91-4709-a5df-5906f4033834" width="300" height="300"> 
+|**Simulación etapa 5** | <video src="https://github.com/NadAbiO/IntroSeniales/assets/89696355/36ea7989-d1b4-41e2-8d4f-1f8fc71f8317" width="300" height="300">
 
 </div>
 
