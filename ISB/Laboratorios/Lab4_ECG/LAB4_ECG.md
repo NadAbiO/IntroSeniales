@@ -107,17 +107,13 @@ Adicionalmente se uso el dispositivo Promsim4 para generar señales que simulaba
 <em><p align="center> Dispositivo de metrologia: Promsim4 </p></em>
 
 <div align="center">
-     ola 
-<video src="Anexos/Laboratorios/LabECG/ecg2.mp4">
-ola 
-
 
 |                 **Simulación**                 | **Toma** |
 |:------------------------------------------:|:---------:|
-|**Simulación etapa 2** <video src=" https://github.com/Grupo2-IntroduccionSenalesMedicas/S_biomedica/assets/89696355/641c49ba-393f-4526-abcf-1378b20ea820" width="300" height="300">
-| **Simulación etapa 3** </p><video src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabECG/ecg3.mp4" width="300" height="300">
-|                **Simulación etapa 4** </p><video src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabECG/ecg4.mp4" width="300" height="300">
-|       **Simulación etapa 5** </p><video src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabECG/ecg5.mp4" width="300" height="300">
+|**Simulación etapa 2** <video src="https://github.com/NadAbiO/IntroSeniales/assets/89696355/781acdce-e37e-46b7-8329-2d68bbd1109d" width="300" height="300">
+| **Simulación etapa 3** <video src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabECG/ecg3.mp4" width="300" height="300">
+|                **Simulación etapa 4** <video src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabECG/ecg4.mp4" width="300" height="300">
+|       **Simulación etapa 5** <video src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabECG/ecg5.mp4" width="300" height="300">
 
 </div>
 
