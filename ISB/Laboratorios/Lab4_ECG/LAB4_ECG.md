@@ -9,7 +9,8 @@
 4. [Resultados](#id6)\
      4.1 [Video de la señal y Ploteo de la señal en OpenSignal](#id7)\
      4.2 [Ploteo de la señal en Python](#id8)
-5. [Discusión](#id9)
+     4.3 [Señal del Promsim4](#id13)
+6. [Discusión](#id9)
 7. [Archivos](#id10)
 8. [Referencias](#id11)
 ***
@@ -98,7 +99,7 @@ En comparación con la Prueba 1, las contracciones tienen una mayor amplitud, in
 <em><p align="center">3ra Prueba: 4 Contracciones leves y fuertes intercaladas</p></em>
 Incluyen picos altos similares a los de la Prueba 2, con algunos periodos de actividad más constante, demostrando una mezcla de contracciones fuertes y leves.
 
-### **Señal del Promsim4 (dispositivo de metrología que genera una señal patrón)** <a name="id9"></a>
+### **Señal del Promsim4 (dispositivo de metrología que genera una señal patrón)** <a name="id13"></a>
 
 Adicionalmente se uso el dispositivo Promsim4 para generar señales que simulaban las etapas de un paro cardiaco, estas fueron leidas por el Bitalino y mostradas como referencia
 <p align="center">
