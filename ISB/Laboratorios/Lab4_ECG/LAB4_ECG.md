@@ -134,10 +134,8 @@ Adicionalmente se uso el dispositivo Promsim4 para generar señales que simulaba
 |**Simulación etapa 4** | <video src="https://github.com/NadAbiO/IntroSeniales/assets/89696355/9cc65281-9d91-4709-a5df-5906f4033834" width="300" height="300"> 
 |**Simulación etapa 5** | <video src="https://github.com/NadAbiO/IntroSeniales/assets/89696355/36ea7989-d1b4-41e2-8d4f-1f8fc71f8317" width="300" height="300">
 
-</div>
+<div align="left">
 
-
-***
 ## **Discusión** <a name="id9"></a>
 
 La electrocardiografia es una herramienta eficiente y usualmente usada para evaluacion cardivascular. Es una herramienta que ayuda a observar el potencial electrico del corazón y poder diagnosticar, si fuera el caso, cualquier anomalía  en el corazón.
