@@ -75,7 +75,7 @@ Se utilizó la conexión ECG en la placa Bitalino utilizando el sensor ECG de 3 
 
 ### **Guía electrocardiografía** <a name="id5"></a>
 
-Como referencia para la colocación de los electrodos y buenas prácticas durante la toma de datos utilizamos la siguiente guía [1]:
+Como referencia para la colocación de los electrodos y buenas prácticas durante la toma de datos utilizamos la siguiente guía [3]:
 
 - BITalino (r)evolution Lab Guide
   https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide2_ECG.pdf
@@ -166,6 +166,8 @@ El marcapasos natural es el nódulo sinoauricular que inicia la despolarización
 [1] Rafie, Nikita, Anthony H. Kashou, and Peter A. Noseworthy. "ECG Interpretation: Clinical Relevance, Challenges, and Advances." Hearts 2.4 (2021): 505-513. https://www.mdpi.com/2673-3846/2/4/39
 
 [2] Farré Antonio López and C. M. Miguel, Libro de la Salud cardiovascular del hospital clínico san carlos Y la fundación BBVA. Barcelona: Fundación BBVA, 2009.
+
+[3] M. Proença, & K. Mrotzeck. (2021, 15 de febrero). EXPERIMENTAL GUIDES TO MEET & LEARN YOUR BIOSIGNALS. Support PLUX Biosignals official – Official PLUX support and biosignals knowledge base. https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide2_ECG.pdf
 
 [a] S. Meek, “ABC of clinical electrocardiography: Introduction. I---Leads, rate, rhythm, and cardiac axis”, BMJ, vol. 324, núm. 7334, pp. 415–418, 2002.
 
