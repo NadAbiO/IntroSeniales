@@ -47,7 +47,7 @@ Se utilizó la conexión ECG en la placa Bitalino utilizando el sensor ECG de 3 
 Como referencia para la colocación de los electrodos y buenas prácticas durante la toma de datos utilizamos la siguiente guía [1]:
 
 - BITalino (r)evolution Lab Guide
-  https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide1_EMG.pdf 
+  https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide2_ECG.pdf
 
 Una consideración importante es que el paciente se encuentre en una posición cómoda y relajada, sin objetos metálicos que interfieran. Además, al colocar los electrodos sobre la piel, es fundamental asegurar que la zona esté limpia. Asimismo, es necesario seguir las guías para garantizar la correcta ubicación de los electrodos positivo, negativo y de referencia en sus respectivas áreas.
 ***
