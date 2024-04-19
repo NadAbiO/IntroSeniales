@@ -16,6 +16,18 @@
 ## **Introducción** <a name="id1"></a>
 Las señales biomédicas como la electromiografía (EMG) y el electrocardiograma (ECG) son fundamentales para mejorar el diagnóstico médico y mejorar el tratamiento. El laboratorio tiene como objetivo avanzar en la comprensión y el control de estas señales biomédicas utilizando tecnologías avanzadas que permitan una captura y análisis eficientes. Este informe describe el proceso de adquisición de señales ECG utilizando el sistema BiTalino, un dispositivo versátil y fácil de usar diseñado para aplicaciones biomédicas.
 
+### La señal de ECG
+La señal del electrocardiograma (ECG) resulta crucial ya que ofrece datos significativos sobre el rendimiento del corazón del paciente. Este examen, no intrusivo, registra la actividad eléctrica cardíaca mediante electrodos adosados a la piel. Su utiliza habitualmente en la detección y diagnóstico de diversas afecciones cardíacas, incluyendo arritmias, infarto de miocardio, hipertrofia ventricular, y otros problemas que influyen en la función cardiaca [1].
+
+En un electrocardiograma (ECG) normal, los latidos del corazón se reflejan a través de variaciones en la línea de base, representadas por ángulos, segmentos, ondas e intervalos. Estos elementos forman una imagen característica que se repite de manera regular a lo largo de todo el registro. Un ECG típico muestra una sucesión de deflexiones, conocidas como ondas, que se alternan con la línea basal. Al leer el ECG de izquierda a derecha, se identifican la onda P, el segmento P-R, el complejo QRS, el intervalo QT, el segmento ST y, finalmente, la onda T. Esta disposición puede apreciarse en la imagen adjunta [2].
+
+<p align="center">
+  <img width="460" height="300" src="">
+
+</p> 
+<em><p align="center">Figura 1. Ondas e Intervalos</p></em>
+
+
 ***
 ## **Objetivos** <a name="id2"></a>
 - Adquirir señales biomédicas de ECG.
@@ -114,9 +126,13 @@ El marcapasos natural es el nódulo sinoauricular que inicia la despolarización
 
 ***
 ## **Referencias** <a name="id11"></a>
+[1] Rafie, Nikita, Anthony H. Kashou, and Peter A. Noseworthy. "ECG Interpretation: Clinical Relevance, Challenges, and Advances." Hearts 2.4 (2021): 505-513. https://www.mdpi.com/2673-3846/2/4/39
+
+[2] Farré Antonio López and C. M. Miguel, Libro de la Salud cardiovascular del hospital clínico san carlos Y la fundación BBVA. Barcelona: Fundación BBVA, 2009.
+
 [a] S. Meek, “ABC of clinical electrocardiography: Introduction. I---Leads, rate, rhythm, and cardiac axis”, BMJ, vol. 324, núm. 7334, pp. 415–418, 2002.
 
-[1] BITalino (r)evolution Lab Guide
+[] BITalino (r)evolution Lab Guide
   https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide1_EMG.pdf 
   
-[2] Medicosis Perfectionalis. Electromyography (EMG) Basics, Muscle Hypertrophy, Denervation, Rigor Mortis | Muscle Physiology. (20 de septiembre de 2021). [Video en línea]. Disponible: https://www.youtube.com/watch?v=sK065oV8_4w
+[] Medicosis Perfectionalis. Electromyography (EMG) Basics, Muscle Hypertrophy, Denervation, Rigor Mortis | Muscle Physiology. (20 de septiembre de 2021). [Video en línea]. Disponible: https://www.youtube.com/watch?v=sK065oV8_4w
