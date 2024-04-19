@@ -146,7 +146,7 @@ El marcapasos natural es el nódulo sinoauricular que inicia la despolarización
 <p align="center">
   <img height="300" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1122339/bin/ecg01.f1.jpg">
 </p> 
-<em><p align="center">El sistema de conducción His-Purkinje [a] </p></em>
+<em><p align="center">Figura 3. El sistema de conducción His-Purkinje [4] </p></em>
 
 
 
@@ -155,7 +155,7 @@ El marcapasos natural es el nódulo sinoauricular que inicia la despolarización
 ***
 ## **Archivos** <a name="id10"></a>
 
-- [Documentos (.txt)](https://github.com/NadAbiO/IntroSeniales/tree/d3b35c0b271c22b37876451e3511eb8a77f34da4/ISB/Laboratorios/Laboratorio3/Se%C3%B1ales_EMG)
+- [Documentos (.txt/.png)](https://github.com/NadAbiO/IntroSeniales/tree/062579d29b1ff90dda9f222c8a9d4834159bf05e/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG)
 
   **Código para el ploteo de la señal:**
 - [Ploteo de la señal (.py)](https://github.com/NadAbiO/IntroSeniales/blob/062579d29b1ff90dda9f222c8a9d4834159bf05e/ISB/Laboratorios/Lab4_ECG/adq_ECG.py)
@@ -169,7 +169,7 @@ El marcapasos natural es el nódulo sinoauricular que inicia la despolarización
 
 [3] M. Proença, & K. Mrotzeck. (2021, 15 de febrero). EXPERIMENTAL GUIDES TO MEET & LEARN YOUR BIOSIGNALS. Support PLUX Biosignals official – Official PLUX support and biosignals knowledge base. https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide2_ECG.pdf
 
-[a] S. Meek, “ABC of clinical electrocardiography: Introduction. I---Leads, rate, rhythm, and cardiac axis”, BMJ, vol. 324, núm. 7334, pp. 415–418, 2002.
+[4] S. Meek, “ABC of clinical electrocardiography: Introduction. I---Leads, rate, rhythm, and cardiac axis”, BMJ, vol. 324, núm. 7334, pp. 415–418, 2002.
 
 [] BITalino (r)evolution Lab Guide
   https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide1_EMG.pdf 
