@@ -141,6 +141,9 @@ Ahora mostraremos las ondas características en la señal:
 
 <div align="left">
 
+La identificación de los complejos QRS es esencial en la interpretación de un ECG. El intervalo RR, definido como el periodo entre dos ondas R sucesivas, es un indicador del ritmo cardíaco. Para calcular la frecuencia cardíaca, se mide la duración del intervalo RR y se establece la cantidad de estos intervalos que se presentan en un lapso de un minuto.(XA)
+
+Al examinar la imagen del ECG tomada en un estado de reposo, se observa que la cantidad de intervalos RR dentro del período de tiempo analizado es inferior en comparación con el número observado después de realizar actividad física. Esto es coherente con la respuesta fisiológica del cuerpo durante la actividad física, en los cuales se incrementa la frecuencia cardíaca para satisfacer la elevada demanda de oxígeno y energía requerida por los músculos.
 
 
   
