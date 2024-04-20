@@ -91,7 +91,13 @@ Una consideración importante es que el paciente se encuentre en una posición c
 ## **Resultados** <a name="id6"></a>
 ### **Video de la señal y Ploteo de la señal en OpenSignal** <a name="id7"></a>
 
-En la prueba 1 (Bruno Tello) 
+Para la captura de señales, se seleccionaron dos integrantes del grupo: Bruno Tello (Sujeto 1) y Alvaro Cigarán (Sujeto 2). A ambos se les realizó la medición de la señal ECG en tres diferentes estados:
+  * Estado basal: Evaluamos cuando los sujetos se encuentra en un estado de reposo.
+  * Luego de Actividad física: Evaluamos la señal luego de que hayan realizando ejercicios anaeróbicos, específicamente burpees durante dos minutos.
+  * Manteniendo la respiración: Evaluamos la señal ECG luego de mantener la respiración por 10 segundos.
+  
+
+Sujeto 1 (Bruno Tello) 
 #### En reposo
 
 |                 **Modelo**                 | **Video** |
