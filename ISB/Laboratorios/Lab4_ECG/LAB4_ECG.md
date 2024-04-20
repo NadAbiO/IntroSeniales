@@ -112,17 +112,17 @@ VIDEO
 
 
 ### **Ploteo de la señal en Python** <a name="id8"></a>
-#### Prueba 1 (Álvaro Cigarán)
+#### Prueba 1 (Bruno Tello)
 
 <div align="center">
 
 | En reposo |Luego de actividad física |
 |----------|----------|
-| <img src="ruta/a/imagen1.png" alt="Reposo" width="200"/> | <img src="ruta/a/imagen1.png" alt="Act física" width="200"/> |
+| <img src="https://github.com/NadAbiO/IntroSeniales/blob/5c85583a9b5cf33baa9b7887dd699a4260c71fd5/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG/bruno_reposo.png" alt="Reposo" width="200"/> | <img src="ruta/a/imagen1.png" alt="Act física" width="200"/> |
 
 <div align="left">
 
-#### Prueba 2 (Bruno Tello)
+#### Prueba 2 (Alvaro Cigarán)
 
 <div align="center">
 
