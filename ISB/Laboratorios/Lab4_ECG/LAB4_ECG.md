@@ -176,18 +176,20 @@ Adicionalmente se uso el dispositivo Promsim4 para generar señales que simulaba
 
 <div align="left">
 
-* Etapa 2: Actividad electrica sin pulso
+* __Etapa 2:__  Actividad electrica sin pulso
   
   La Actividad Eléctrica sin Pulso (AESP) representa el 20% de los casos de paro cardíaco y es el ritmo más común en paros cardiorrespiratorios observados en pacientes hospitalizados.[XB]
   
 * __Etapa 3:__  Taquicardia ventricular
+* 
   La taquicardia ventricular sin pulso es un trastorno del ritmo cardíaco provocado por señales eléctricas anómalas que aceleran el corazón de manera descoordinada, impidiendo que bombee adecuadamente la sangre necesaria para satisfacer las demandas del cuerpo. [XC][XD][XE]
   
 * __Etapa 4:__  Fibración ventricular
+* 
   La fibrilación ventricular es el ritmo de paro más frecuente en pacientes que presentan enfermedades coronarias. [XC][XD][XE]
   
 * __Etapa 5:__  Asistolia
-
+* 
   La asistolia, que se presenta en el electrocardiograma como una línea isoeléctrica, suele ser una fase avanzada de la fibrilación ventricular no tratada. En el registro del electrocardiograma, se puede observar un movimiento muy sutil, aunque no se detecte actividad eléctrica cardíaca significativa.[XC][XD][XE]
   
 ## **Discusión** <a name="id11"></a>
