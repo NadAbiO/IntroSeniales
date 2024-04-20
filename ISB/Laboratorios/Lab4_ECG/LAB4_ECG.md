@@ -93,12 +93,13 @@ Una consideración importante es que el paciente se encuentre en una posición c
 
 En la prueba 1 (Bruno Tello) 
 #### En reposo
-VIDEO
-<video src="" ></video>
 
-#### Luego de hacer ejercicio
-VIDEO
-<video src="" ></video>
+|                 **Modelo**                 | **Video** |
+|:------------------------------------------:|:---------:|
+|                **Estado Basal**                ||
+| **Manteniendo la respiración por 10 segundos** ||
+|                **Reposo basal**                ||
+|       **Después de la actividad física**       ||
 
 En la prueba 2 (Alvaro Cigaran)
 
