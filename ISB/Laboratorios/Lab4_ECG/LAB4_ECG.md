@@ -96,7 +96,7 @@ En la prueba 1 (Bruno Tello)
 
 |                 **Modelo**                 | **Video** |
 |:------------------------------------------:|:---------:|
-|                **Estado Basal**                |<video src=""></video>|
+|                **Estado Basal**                |<video src="Anexos/Laboratorios/LabECG/Bru_Ejercicio.mp4"></video>|
 | **Manteniendo la respiración por 10 segundos** ||
 |                **Reposo basal**                ||
 |       **Después de la actividad física**       ||
