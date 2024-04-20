@@ -137,7 +137,7 @@ Ahora mostraremos las ondas características en la señal:
 
 | En reposo |Luego de actividad física |
 |----------|----------|
-| <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG/En_reposo_analizado.png" alt="Reposo" width="800"/> | <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG/Analisis_Onda_ejercicio.png" alt="Act física" width="800"/> |
+| <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG/En_reposo_RR.png"/> | <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG/Analisis_Onda_ejercicio.png" alt="Act física" width="800"/> |
 
 <div align="left">
 
