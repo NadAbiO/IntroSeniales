@@ -112,7 +112,7 @@ VIDEO
 <video src="" ></video>
 
 
-## **Archivos** <a name="id8"></a>
+### **Archivos** <a name="id8"></a>
 
 - [Documentos (.txt/.png)](https://github.com/NadAbiO/IntroSeniales/tree/062579d29b1ff90dda9f222c8a9d4834159bf05e/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG)
   
