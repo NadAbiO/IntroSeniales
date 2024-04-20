@@ -77,10 +77,12 @@ Se utilizó la conexión ECG en la placa Bitalino utilizando el sensor ECG de 3 
 
 Como referencia para la colocación de los electrodos y buenas prácticas durante la toma de datos utilizamos la siguiente guía [3]:
 
+<div align="center">
 | Posición electrodos | Posición electrodos  |
 |----------|----------|
-| <img src="ruta/a/imagen1.png" alt="Bruno Tello" width="200"/> | <img src="ruta/a/imagen2.png" alt="Álvaro Cigarán" width="200"/> |
+| <img src="ruta/a/imagen1.png" alt="Bruno Tello" width="200"/> | <img src="https://github.com/NadAbiO/IntroSeniales/blob/c6e77fb34350850608bde48b88fe8e13443ee5f6/Anexos/Laboratorios/BITalino_ECG.jpg" alt="Álvaro Cigarán" width="200"/> |
 
+<div align="left">
 
 
 Una consideración importante es que el paciente se encuentre en una posición cómoda y relajada, sin objetos metálicos que interfieran. Además, al colocar los electrodos sobre la piel, es fundamental asegurar que la zona esté limpia. Asimismo, es necesario seguir las guías para garantizar la correcta ubicación de los electrodos positivo, negativo y de referencia en sus respectivas áreas.
