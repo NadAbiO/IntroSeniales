@@ -140,7 +140,7 @@ INTERPRETAR
 | <img src="https://github.com/NadAbiO/IntroSeniales/blob/adf04d42ebb891f3f3b926e116f092bfe72e73dd/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG/Alvaro_reposo.png" alt="Reposo" width="800"/> | <img src="https://github.com/NadAbiO/IntroSeniales/blob/adf04d42ebb891f3f3b926e116f092bfe72e73dd/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG/Alvaro_ejercicio.png" alt="Act física" width="800"/> |
 
 <div align="left">
-INTERPRETAR
+A continuación mostraremos las ondas características que se observan en ambas señales:
 
 ### **Señal del Promsim4 (dispositivo de metrología que genera una señal patrón)** <a name="id10"></a>
 
