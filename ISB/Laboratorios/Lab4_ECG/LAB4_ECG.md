@@ -121,17 +121,18 @@ VIDEO
 | <img src="https://github.com/NadAbiO/IntroSeniales/blob/5c85583a9b5cf33baa9b7887dd699a4260c71fd5/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG/bruno_reposo.png" alt="Reposo" width="800"/> | <img src="https://github.com/NadAbiO/IntroSeniales/blob/ac29a71b2dc66c97656ff5e1c41172f96f8174a7/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG/bruno_ejercicio.png" alt="Act física" width="800"/> |
 
 <div align="left">
-
+INTERPRETAR
+  
 #### Prueba 2 (Alvaro Cigarán)
 
 <div align="center">
 
 | En reposo |Luego de actividad física |
 |----------|----------|
-| <img src="ruta/a/imagen1.png" alt="Reposo" width="200"/> | <img src="ruta/a/imagen1.png" alt="Act física" width="200"/> |
+| <img src="https://github.com/NadAbiO/IntroSeniales/blob/adf04d42ebb891f3f3b926e116f092bfe72e73dd/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG/Alvaro_reposo.png" alt="Reposo" width="800"/> | <img src="https://github.com/NadAbiO/IntroSeniales/blob/adf04d42ebb891f3f3b926e116f092bfe72e73dd/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG/Alvaro_ejercicio.png" alt="Act física" width="800"/> |
 
 <div align="left">
-
+INTERPRETAR
 
 ### **Señal del Promsim4 (dispositivo de metrología que genera una señal patrón)** <a name="id13"></a>
 
@@ -151,7 +152,8 @@ Adicionalmente se uso el dispositivo Promsim4 para generar señales que simulaba
 |**Simulación etapa 5** | <video src="https://github.com/NadAbiO/IntroSeniales/assets/89696355/36ea7989-d1b4-41e2-8d4f-1f8fc71f8317" width="300" height="300">
 
 <div align="left">
-
+INTERPRETAR ETAPAS
+  
 ## **Discusión** <a name="id9"></a>
 
 La electrocardiografia es una herramienta eficiente y usualmente usada para evaluacion cardivascular. Es una herramienta que ayuda a observar el potencial electrico del corazón y poder diagnosticar, si fuera el caso, cualquier anomalía  en el corazón.
