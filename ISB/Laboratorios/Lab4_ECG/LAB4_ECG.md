@@ -93,7 +93,8 @@ Una consideración importante es que el paciente se encuentre en una posición c
 
 En la prueba 1 (Bruno Tello) 
 #### En reposo
-<video controls width="250"> <source src="ruta/al/video.mp4" type="video/mp4"> </video> 
+<video src="" ></video>
+
 
 #### Luego de hacer ejercicio
 <video controls width="250"> <source src="ruta/al/video.mp4" type="video/mp4"> </video> 
@@ -109,6 +110,7 @@ En la prueba 2 (Alvaro Cigaran)
 
 ### **Ploteo de la señal en Python** <a name="id8"></a>
 #### Prueba 1 (Álvaro Cigarán)
+
 <div align="center">
 
 | En reposo |Luego de actividad física |
@@ -118,6 +120,8 @@ En la prueba 2 (Alvaro Cigaran)
 <div align="left">
 
 #### Prueba 2 (Bruno Tello)
+
+<div align="center">
 
 | En reposo |Luego de actividad física |
 |----------|----------|
