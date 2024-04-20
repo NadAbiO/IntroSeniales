@@ -175,8 +175,11 @@ Adicionalmente se uso el dispositivo Promsim4 para generar señales que simulaba
 |**Simulación etapa 5** | <video src="https://github.com/NadAbiO/IntroSeniales/assets/89696355/36ea7989-d1b4-41e2-8d4f-1f8fc71f8317" width="300" height="300">
 
 <div align="left">
-INTERPRETAR ETAPAS
-  
+
+* __Etapa 2:__  Actividad electrica sin pulso
+* __Etapa 3:__  Taquicardia ventricular
+* __Etapa 4:__  Fibración ventricular
+* __Etapa 5:__  Asistolia
 ## **Discusión** <a name="id11"></a>
 
 La electrocardiografia es una herramienta eficiente y usualmente usada para evaluacion cardivascular. Es una herramienta que ayuda a observar el potencial electrico del corazón y poder diagnosticar, si fuera el caso, cualquier anomalía  en el corazón.
