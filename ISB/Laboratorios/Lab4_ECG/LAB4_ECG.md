@@ -172,9 +172,8 @@ El marcapasos natural es el nódulo sinoauricular que inicia la despolarización
 ## **Archivos** <a name="id10"></a>
 
 - [Documentos (.txt/.png)](https://github.com/NadAbiO/IntroSeniales/tree/062579d29b1ff90dda9f222c8a9d4834159bf05e/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG)
-
-  **Código para el ploteo de la señal:**
-- [Ploteo de la señal (.py)](https://github.com/NadAbiO/IntroSeniales/blob/062579d29b1ff90dda9f222c8a9d4834159bf05e/ISB/Laboratorios/Lab4_ECG/adq_ECG.py)
+  
+- [Código para el ploteo de la señal (.py)](https://github.com/NadAbiO/IntroSeniales/blob/062579d29b1ff90dda9f222c8a9d4834159bf05e/ISB/Laboratorios/Lab4_ECG/adq_ECG.py)
 
 
 ***
