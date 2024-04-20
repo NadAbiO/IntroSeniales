@@ -118,7 +118,7 @@ Para la captura de señales, se seleccionaron dos integrantes del grupo: Bruno T
 
 
 ### **Ploteo de la señal en Python** <a name="id9"></a>
-
+Se han graficado las señales en Python para analizar segmentos de tiempo específicos que permiten identificar las ondas características de un ECG, así como para evaluar la frecuencia cardíaca.
 
 #### Sujeto 1 (Bruno Tello) 
 
@@ -126,10 +126,12 @@ Para la captura de señales, se seleccionaron dos integrantes del grupo: Bruno T
 
 | En reposo |Luego de actividad física |
 |----------|----------|
-| <img src="https://github.com/NadAbiO/IntroSeniales/blob/5c85583a9b5cf33baa9b7887dd699a4260c71fd5/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG/bruno_reposo.png" alt="Reposo" width="800"/> | <img src="https://github.com/NadAbiO/IntroSeniales/blob/ac29a71b2dc66c97656ff5e1c41172f96f8174a7/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG/bruno_ejercicio.png" alt="Act física" width="800"/> |
+| <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG/En_reposo_analizado.png" alt="Reposo" width="800"/> | <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG/Analisis_Onda_ejercicio.png" alt="Act física" width="800"/> |
 
 <div align="left">
-INTERPRETAR
+
+
+
   
 #### Prueba 2 (Alvaro Cigarán)
 
