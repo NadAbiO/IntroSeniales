@@ -81,7 +81,7 @@ Como referencia para la colocación de los electrodos y buenas prácticas durant
 
 | Posición electrodos | Posición electrodos  |
 |----------|----------|
-| <img src="ruta/a/imagen1.png" alt="Bruno Tello" width="200"/> | <img src="https://github.com/NadAbiO/IntroSeniales/blob/c6e77fb34350850608bde48b88fe8e13443ee5f6/Anexos/Laboratorios/BITalino_ECG.jpg" alt="Alvaro Cigarán" width="200"/> |
+| <img src="https://github.com/NadAbiO/IntroSeniales/blob/9e31d08736b7bf9f26c583b039839ee0c7fbafc4/Anexos/Laboratorios/electrodos_bruno.jpg" alt="Bruno Tello" width="200"/> | <img src="https://github.com/NadAbiO/IntroSeniales/blob/c6e77fb34350850608bde48b88fe8e13443ee5f6/Anexos/Laboratorios/BITalino_ECG.jpg" alt="Alvaro Cigarán" width="200"/> |
 
 <div align="left">
 
