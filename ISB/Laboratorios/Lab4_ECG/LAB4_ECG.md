@@ -204,6 +204,10 @@ El marcapasos natural es el nódulo sinoauricular que inicia la despolarización
 </p> 
 <em><p align="center">Figura 3. El sistema de conducción His-Purkinje [4] </p></em>
 
+El artículo Electrocardiogram – StatPearls [XF], da una revisión detallada sobre la importancia del electrocardiograma (ECG) en la evaluación inicial de pacientes con problemas cardíacos. El artículo destaca el sistema de conducción eléctrica del corazón, así como las indicaciones del ECG, la preparación, la técnica y la importancia clínica de esta prueba. 
+La interpretación de las ondas del electrocardiograma es crucial para el diagnóstico de diversas enfermedades cardiacas. La forma de onda del ECG representa la actividad eléctrica del corazón, y su análisis puede revelar información importante sobre el estado del corazón. Esto lo hemos experimentado en este laboratorio mediante la generación de señales con el dispositivo Promsim4. Ya que hemos podido simular ritmos de un paro cardiaco y hemos podido visualizar sus ECG característicos, los cuales dan mucha información sobre la fisiología de la patología. Sin embargo, uno de los principales desafíos del ECG es la interpretación de esta señal, ya que puede llegar a resultar complicada de analizar debido a diversos factores como el ruido.
+
+
 
 ***
 ## **Referencias** <a name="id12"></a>
