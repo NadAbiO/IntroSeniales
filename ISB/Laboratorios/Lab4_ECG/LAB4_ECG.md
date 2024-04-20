@@ -98,7 +98,7 @@ En la prueba 1 (Bruno Tello)
 |:------------------------------------------:|:---------:|
 |                **Estado Basal**                |<video src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabECG/Bru_Ejercicio.mp4"></video>|
 | **Manteniendo la respiración por 10 segundos** ||
-|                **Reposo basal**                ||
+|                **Reposo basal**                |<img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG/Alvaro_anomalia.png?raw=true" alt="Bruno Tello" width="200"/> |
 |       **Después de la actividad física**       ||
 
 En la prueba 2 (Alvaro Cigaran)
