@@ -106,11 +106,7 @@ Para la captura de señales, se seleccionaron dos integrantes del grupo: Bruno T
 
 |                 **Modelo**                 | **Video** |
 |:------------------------------------------:|:---------:|
-|                **Estado Reposo**             |<video src
-
-
-
-="" ></video>|
+|                **Estado Reposo**             |<video src="" ></video>|
 |         **Luego de Actividad física**        |<video src="" ></video>|
 
 
