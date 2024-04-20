@@ -176,7 +176,7 @@ Adicionalmente se uso el dispositivo Promsim4 para generar señales que simulaba
 
 <div align="left">
 
-*Etapa 2: Actividad electrica sin pulso
+* Etapa 2: Actividad electrica sin pulso
   
   La Actividad Eléctrica sin Pulso (AESP) representa el 20% de los casos de paro cardíaco y es el ritmo más común en paros cardiorrespiratorios observados en pacientes hospitalizados.(XB)
 * __Etapa 3:__  Taquicardia ventricular
