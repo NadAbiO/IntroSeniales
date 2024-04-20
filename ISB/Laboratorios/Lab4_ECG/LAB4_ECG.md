@@ -100,13 +100,17 @@ Para la captura de señales, se seleccionaron dos integrantes del grupo: Bruno T
 |                 **Modelo**                 | **Video** |
 |:------------------------------------------:|:---------:|
 |                **Estado Reposo**             |<video src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/6585d81d-4a68-416d-b5d7-641f86064411">
-|         **Luego de Actividad física**        |<video src="" ></video>|
+|         **Luego de Actividad física**        |<video src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/d3a7d6b6-2bb7-4cab-93e6-8b32946f425d" ></video>|
 
 #### Sujeto 2 (Alvaro Cigarán) 
 
 |                 **Modelo**                 | **Video** |
 |:------------------------------------------:|:---------:|
-|                **Estado Reposo**             |<video src="" ></video>|
+|                **Estado Reposo**             |<video src
+
+
+
+="" ></video>|
 |         **Luego de Actividad física**        |<video src="" ></video>|
 
 
