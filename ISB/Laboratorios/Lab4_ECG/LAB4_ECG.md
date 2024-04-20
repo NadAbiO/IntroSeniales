@@ -144,10 +144,8 @@ Ahora mostraremos las ondas características en la señal:
 La identificación de los complejos QRS es esencial en la interpretación de un ECG. El intervalo RR, definido como el periodo entre dos ondas R sucesivas, es un indicador del ritmo cardíaco. Para calcular la frecuencia cardíaca, se mide la duración del intervalo RR y se establece la cantidad de estos intervalos que se presentan en un lapso de un minuto.(XA)
 
 Al examinar la imagen del ECG tomada en un estado de reposo, se observa que la cantidad de intervalos RR dentro del período de tiempo analizado es inferior en comparación con el número observado después de realizar actividad física. Esto es coherente con la respuesta fisiológica del cuerpo durante la actividad física, en los cuales se incrementa la frecuencia cardíaca para satisfacer la elevada demanda de oxígeno y energía requerida por los músculos.
-
-
   
-#### Prueba 2 (Alvaro Cigarán)
+#### Sujeto 2 (Alvaro Cigarán)
 
 <div align="center">
 
@@ -156,7 +154,8 @@ Al examinar la imagen del ECG tomada en un estado de reposo, se observa que la c
 | <img src="https://github.com/NadAbiO/IntroSeniales/blob/adf04d42ebb891f3f3b926e116f092bfe72e73dd/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG/Alvaro_reposo.png" alt="Reposo" width="800"/> | <img src="https://github.com/NadAbiO/IntroSeniales/blob/adf04d42ebb891f3f3b926e116f092bfe72e73dd/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG/Alvaro_ejercicio.png" alt="Act física" width="800"/> |
 
 <div align="left">
-A continuación mostraremos las ondas características que se observan en ambas señales:
+
+En los electrocardiogramas obtenidos se observa una cantidad considerable de ruido. Sospechamos que las causas podrían ser interferencias electromagnéticas o posibles fallos en los electrodos empleados. Se necesita  realizar una investigación más profunda para determinar con precisión la fuente del problema. En general, el ruido compromete la claridad de una señal ECG, lo que obstaculiza su correcta interpretación.
 
 ### **Señal del Promsim4 (dispositivo de metrología que genera una señal patrón)** <a name="id10"></a>
 
