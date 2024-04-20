@@ -9,11 +9,11 @@
   - [Guía electrocardiográfica](#id5)
 - [Resultados](#id6)
   - [Video de la señal y Ploteo de la señal en OpenSignal](#id7)
-  - [Ploteo de la señal en Python](#id8) <br>
-  - [Señal del Promsim4](#id13) <br>
-- [Discusión](#id9)
-- [Archivos](#id10)
-- [Referencias](#id11)
+  - [Archivos](#id8)
+  - [Ploteo de la señal en Python](#id9) <br>
+  - [Señal del Promsim4](#id10) <br>
+- [Discusión](#id11)
+- [Referencias](#id12)
 ***
 ## **Introducción** <a name="id1"></a>
 Las señales biomédicas como la electromiografía (EMG) y el electrocardiograma (ECG) son fundamentales para mejorar el diagnóstico médico y mejorar el tratamiento. El laboratorio tiene como objetivo avanzar en la comprensión y el control de estas señales biomédicas utilizando tecnologías avanzadas que permitan una captura y análisis eficientes. Este informe describe el proceso de adquisición de señales ECG utilizando el sistema BiTalino, un dispositivo versátil y fácil de usar diseñado para aplicaciones biomédicas.
@@ -112,7 +112,14 @@ VIDEO
 <video src="" ></video>
 
 
-### **Ploteo de la señal en Python** <a name="id8"></a>
+## **Archivos** <a name="id8"></a>
+
+- [Documentos (.txt/.png)](https://github.com/NadAbiO/IntroSeniales/tree/062579d29b1ff90dda9f222c8a9d4834159bf05e/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG)
+  
+- [Código para el ploteo de la señal (.py)](https://github.com/NadAbiO/IntroSeniales/blob/062579d29b1ff90dda9f222c8a9d4834159bf05e/ISB/Laboratorios/Lab4_ECG/adq_ECG.py)
+
+
+### **Ploteo de la señal en Python** <a name="id9"></a>
 #### Prueba 1 (Bruno Tello)
 
 <div align="center">
@@ -135,7 +142,7 @@ INTERPRETAR
 <div align="left">
 INTERPRETAR
 
-### **Señal del Promsim4 (dispositivo de metrología que genera una señal patrón)** <a name="id13"></a>
+### **Señal del Promsim4 (dispositivo de metrología que genera una señal patrón)** <a name="id10"></a>
 
 Adicionalmente se uso el dispositivo Promsim4 para generar señales que simulaban las etapas de un paro cardiaco, estas fueron leidas por el Bitalino y mostradas como referencia
 <p align="center">
@@ -155,7 +162,7 @@ Adicionalmente se uso el dispositivo Promsim4 para generar señales que simulaba
 <div align="left">
 INTERPRETAR ETAPAS
   
-## **Discusión** <a name="id9"></a>
+## **Discusión** <a name="id11"></a>
 
 La electrocardiografia es una herramienta eficiente y usualmente usada para evaluacion cardivascular. Es una herramienta que ayuda a observar el potencial electrico del corazón y poder diagnosticar, si fuera el caso, cualquier anomalía  en el corazón.
 La contacción muscular rítmica de debe a la despolarización y repolarización de las células del miocardio los cuales son originados por movimiento de iones cargados al interior o exterior de la membrana célular (Na+, Ca 2+, K+).
@@ -169,15 +176,7 @@ El marcapasos natural es el nódulo sinoauricular que inicia la despolarización
 
 
 ***
-## **Archivos** <a name="id10"></a>
-
-- [Documentos (.txt/.png)](https://github.com/NadAbiO/IntroSeniales/tree/062579d29b1ff90dda9f222c8a9d4834159bf05e/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG)
-  
-- [Código para el ploteo de la señal (.py)](https://github.com/NadAbiO/IntroSeniales/blob/062579d29b1ff90dda9f222c8a9d4834159bf05e/ISB/Laboratorios/Lab4_ECG/adq_ECG.py)
-
-
-***
-## **Referencias** <a name="id11"></a>
+## **Referencias** <a name="id12"></a>
 [1] Rafie, Nikita, Anthony H. Kashou, and Peter A. Noseworthy. "ECG Interpretation: Clinical Relevance, Challenges, and Advances." Hearts 2.4 (2021): 505-513. https://www.mdpi.com/2673-3846/2/4/39
 
 [2] Farré Antonio López and C. M. Miguel, Libro de la Salud cardiovascular del hospital clínico san carlos Y la fundación BBVA. Barcelona: Fundación BBVA, 2009.
