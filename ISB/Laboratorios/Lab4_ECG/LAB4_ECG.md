@@ -141,7 +141,7 @@ Ahora mostraremos las ondas características en la señal:
 
 <div align="left">
 
-La identificación de los complejos QRS es esencial en la interpretación de un ECG. El intervalo RR, definido como el periodo entre dos ondas R sucesivas, es un indicador del ritmo cardíaco. Para calcular la frecuencia cardíaca, se mide la duración del intervalo RR y se establece la cantidad de estos intervalos que se presentan en un lapso de un minuto.[XA]
+La identificación de los complejos QRS es esencial en la interpretación de un ECG. El intervalo RR, definido como el periodo entre dos ondas R sucesivas, es un indicador del ritmo cardíaco. Para calcular la frecuencia cardíaca, se mide la duración del intervalo RR y se establece la cantidad de estos intervalos que se presentan en un lapso de un minuto.[5]
 
 Al examinar la imagen del ECG tomada en un estado de reposo, se observa que la cantidad de intervalos RR dentro del período de tiempo analizado es inferior en comparación con el número observado después de realizar actividad física. Esto es coherente con la respuesta fisiológica del cuerpo durante la actividad física, en los cuales se incrementa la frecuencia cardíaca para satisfacer la elevada demanda de oxígeno y energía requerida por los músculos.
   
@@ -178,19 +178,19 @@ Adicionalmente se uso el dispositivo Promsim4 para generar señales que simulaba
 
 * __Etapa 2:__  Actividad electrica sin pulso
   
-  La Actividad Eléctrica sin Pulso (AESP) representa el 20% de los casos de paro cardíaco y es el ritmo más común en paros cardiorrespiratorios observados en pacientes hospitalizados.[XB]
+  La Actividad Eléctrica sin Pulso (AESP) representa el 20% de los casos de paro cardíaco y es el ritmo más común en paros cardiorrespiratorios observados en pacientes hospitalizados.[6]
   
 * __Etapa 3:__  Taquicardia ventricular
 * 
-  La taquicardia ventricular sin pulso es un trastorno del ritmo cardíaco provocado por señales eléctricas anómalas que aceleran el corazón de manera descoordinada, impidiendo que bombee adecuadamente la sangre necesaria para satisfacer las demandas del cuerpo. [XC][XD][XE]
+  La taquicardia ventricular sin pulso es un trastorno del ritmo cardíaco provocado por señales eléctricas anómalas que aceleran el corazón de manera descoordinada, impidiendo que bombee adecuadamente la sangre necesaria para satisfacer las demandas del cuerpo. [7][8][9]
   
 * __Etapa 4:__  Fibración ventricular
 * 
-  La fibrilación ventricular es el ritmo de paro más frecuente en pacientes que presentan enfermedades coronarias. [XC][XD][XE]
+  La fibrilación ventricular es el ritmo de paro más frecuente en pacientes que presentan enfermedades coronarias. [7][8][9]
   
 * __Etapa 5:__  Asistolia
 * 
-  La asistolia, que se presenta en el electrocardiograma como una línea isoeléctrica, suele ser una fase avanzada de la fibrilación ventricular no tratada. En el registro del electrocardiograma, se puede observar un movimiento muy sutil, aunque no se detecte actividad eléctrica cardíaca significativa.[XC][XD][XE]
+  La asistolia, que se presenta en el electrocardiograma como una línea isoeléctrica, suele ser una fase avanzada de la fibrilación ventricular no tratada. En el registro del electrocardiograma, se puede observar un movimiento muy sutil, aunque no se detecte actividad eléctrica cardíaca significativa.[7][8][9]
   
 ## **Discusión** <a name="id11"></a>
 
@@ -204,7 +204,7 @@ El marcapasos natural es el nódulo sinoauricular que inicia la despolarización
 </p> 
 <em><p align="center">Figura 3. El sistema de conducción His-Purkinje [4] </p></em>
 
-El artículo Electrocardiogram – StatPearls [XF], da una revisión detallada sobre la importancia del electrocardiograma (ECG) en la evaluación inicial de pacientes con problemas cardíacos. El artículo destaca el sistema de conducción eléctrica del corazón, así como las indicaciones del ECG, la preparación, la técnica y la importancia clínica de esta prueba. 
+El artículo Electrocardiogram – StatPearls [10], da una revisión detallada sobre la importancia del electrocardiograma (ECG) en la evaluación inicial de pacientes con problemas cardíacos. El artículo destaca el sistema de conducción eléctrica del corazón, así como las indicaciones del ECG, la preparación, la técnica y la importancia clínica de esta prueba. 
 La interpretación de las ondas del electrocardiograma es crucial para el diagnóstico de diversas enfermedades cardiacas. La forma de onda del ECG representa la actividad eléctrica del corazón, y su análisis puede revelar información importante sobre el estado del corazón. Esto lo hemos experimentado en este laboratorio mediante la generación de señales con el dispositivo Promsim4. Ya que hemos podido simular ritmos de un paro cardiaco y hemos podido visualizar sus ECG característicos, los cuales dan mucha información sobre la fisiología de la patología. Sin embargo, uno de los principales desafíos del ECG es la interpretación de esta señal, ya que puede llegar a resultar complicada de analizar debido a diversos factores como el ruido.
 
 
@@ -219,4 +219,19 @@ La interpretación de las ondas del electrocardiograma es crucial para el diagn�
 
 [4] S. Meek, “ABC of clinical electrocardiography: Introduction. I---Leads, rate, rhythm, and cardiac axis”, BMJ, vol. 324, núm. 7334, pp. 415–418, 2002.
 
+[5] J. R. Montoya, «Detección de picos R en ECGs y su aplicación en serie de tiempos RR», INNOVA UNTREF, vol. 1, n.º 2, abr. 2021.
+
+[6] E. Contreras Zúñiga, J. E. Gómez Mesa, and S. X. Zuluaga Martínez, “Actividad eléctrica sin pulso manejada con circulación extracorpórea: Descripción de un caso clínico,” Revista Mexicana de Cardiología , vol. 19, no. 2, pp. 93–97, Jun. 2008. Accessed: Apr. 20, 2024. [Online]. Available: https://www.medigraphic.com/pdfs/cardio/h-2008/h082f.pdf
+
+[7] P. Duff et al., “2018 American Heart Association Focused Update on Pediatric Advanced Life Support: An Update to the American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care,” Circulation, vol. 138, no. 23, Dec. 2018, doi: https://doi.org/10.1161/cir.0000000000000612.
+
+[8] “European Resuscitation Council Guidelines for Resuscitation 2015: Section 4. Cardiac arrest in special circumstances | ERC Guidelines for resuscitation 2015,” ercguidelines.elsevierresource.com. https://ercguidelines.elsevierresource.com/european-resuscitation-council-guidelines-resuscitation-2015-section-4-cardiac-arrest-special
+
+[9] 2EVS, “¿Cuáles son los ritmos electrocardiográficos que se pueden identificar en un paro cardíaco?,” 2EVS - Educación Especializada Virtual en Salud, Feb. 18, 2023. https://2evs.co/ritmos-electrocardiograficos-en-paro-cardiaco/#fibrilacion-ventricular (accessed Apr. 20, 2024).
+
+[10] Y. Sattar and L. Chhabra, “Electrocardiogram,” National Library of Medicine, 2023. https://www.ncbi.nlm.nih.gov/books/NBK549803/
+‌‌
+‌
+‌
+‌
 
