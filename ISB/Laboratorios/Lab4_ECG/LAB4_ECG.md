@@ -141,7 +141,7 @@ Ahora mostraremos las ondas características en la señal:
 
 <div align="left">
 
-La identificación de los complejos QRS es esencial en la interpretación de un ECG. El intervalo RR, definido como el periodo entre dos ondas R sucesivas, es un indicador del ritmo cardíaco. Para calcular la frecuencia cardíaca, se mide la duración del intervalo RR y se establece la cantidad de estos intervalos que se presentan en un lapso de un minuto.(XA)
+La identificación de los complejos QRS es esencial en la interpretación de un ECG. El intervalo RR, definido como el periodo entre dos ondas R sucesivas, es un indicador del ritmo cardíaco. Para calcular la frecuencia cardíaca, se mide la duración del intervalo RR y se establece la cantidad de estos intervalos que se presentan en un lapso de un minuto.[XA]
 
 Al examinar la imagen del ECG tomada en un estado de reposo, se observa que la cantidad de intervalos RR dentro del período de tiempo analizado es inferior en comparación con el número observado después de realizar actividad física. Esto es coherente con la respuesta fisiológica del cuerpo durante la actividad física, en los cuales se incrementa la frecuencia cardíaca para satisfacer la elevada demanda de oxígeno y energía requerida por los músculos.
   
@@ -178,11 +178,18 @@ Adicionalmente se uso el dispositivo Promsim4 para generar señales que simulaba
 
 * Etapa 2: Actividad electrica sin pulso
   
-  La Actividad Eléctrica sin Pulso (AESP) representa el 20% de los casos de paro cardíaco y es el ritmo más común en paros cardiorrespiratorios observados en pacientes hospitalizados.(XB)
+  La Actividad Eléctrica sin Pulso (AESP) representa el 20% de los casos de paro cardíaco y es el ritmo más común en paros cardiorrespiratorios observados en pacientes hospitalizados.[XB]
+  
 * __Etapa 3:__  Taquicardia ventricular
+  La taquicardia ventricular sin pulso es un trastorno del ritmo cardíaco provocado por señales eléctricas anómalas que aceleran el corazón de manera descoordinada, impidiendo que bombee adecuadamente la sangre necesaria para satisfacer las demandas del cuerpo. [XC][XD][XE]
   
 * __Etapa 4:__  Fibración ventricular
+  La fibrilación ventricular es el ritmo de paro más frecuente en pacientes que presentan enfermedades coronarias. [XC][XD][XE]
+  
 * __Etapa 5:__  Asistolia
+
+  La asistolia, que se presenta en el electrocardiograma como una línea isoeléctrica, suele ser una fase avanzada de la fibrilación ventricular no tratada. En el registro del electrocardiograma, se puede observar un movimiento muy sutil, aunque no se detecte actividad eléctrica cardíaca significativa.[XC][XD][XE]
+  
 ## **Discusión** <a name="id11"></a>
 
 La electrocardiografia es una herramienta eficiente y usualmente usada para evaluacion cardivascular. Es una herramienta que ayuda a observar el potencial electrico del corazón y poder diagnosticar, si fuera el caso, cualquier anomalía  en el corazón.
