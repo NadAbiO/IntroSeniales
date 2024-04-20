@@ -78,9 +78,10 @@ Se utilizó la conexión ECG en la placa Bitalino utilizando el sensor ECG de 3 
 Como referencia para la colocación de los electrodos y buenas prácticas durante la toma de datos utilizamos la siguiente guía [3]:
 
 <div align="center">
+
 | Posición electrodos | Posición electrodos  |
 |----------|----------|
-| <img src="ruta/a/imagen1.png" alt="Bruno Tello" width="200"/> | <img src="https://github.com/NadAbiO/IntroSeniales/blob/c6e77fb34350850608bde48b88fe8e13443ee5f6/Anexos/Laboratorios/BITalino_ECG.jpg" alt="Álvaro Cigarán" width="200"/> |
+| <img src="ruta/a/imagen1.png" alt="Bruno Tello" width="200"/> | <img src="https://github.com/NadAbiO/IntroSeniales/blob/c6e77fb34350850608bde48b88fe8e13443ee5f6/Anexos/Laboratorios/BITalino_ECG.jpg" alt="Alvaro Cigarán" width="200"/> |
 
 <div align="left">
 
@@ -90,37 +91,40 @@ Una consideración importante es que el paciente se encuentre en una posición c
 ## **Resultados** <a name="id6"></a>
 ### **Video de la señal y Ploteo de la señal en OpenSignal** <a name="id7"></a>
 
-En la prueba 1 (Alvaro Cigarán) se tomaron señales del reposo y contraccion del brazo, realizando un total de 5 contracciones intentando mantener el mismo nivel de intensidad<video src="https://github.com/NadAbiO/IntroSeniales/assets/89696355/fc7d09d6-4187-4c49-ad28-0e2f5665a451">
+En la prueba 1 (Bruno Tello) 
+#### En reposo
+<video controls width="250"> <source src="ruta/al/video.mp4" type="video/mp4"> </video> 
 
-En la prueba 2 (Bruno Tello) se tomaron señales del reposo y contraccion del brazo, realizando un total de 4 contracciones, las 2 iniciales siendo leves y posteriormente 2 con mayor intensidad <video src="https://github.com/NadAbiO/IntroSeniales/assets/89696355/342fb4fb-9379-489e-8dab-4b2a8ff090d1">
+#### Luego de hacer ejercicio
+<video controls width="250"> <source src="ruta/al/video.mp4" type="video/mp4"> </video> 
 
-En la prueba 3 (Kimberly Tito) se tomaron señales del reposo y contraccion del brazo, realizando un total de 4 contracciones intercalando el nivel de intensidad entre estas <video src="https://github.com/NadAbiO/IntroSeniales/assets/89696355/b20587c5-c154-42e3-ab5c-d82674526e56">
+En la prueba 2 (Alvaro Cigaran)
+
+#### En reposo
+<video controls width="250"> <source src="ruta/al/video.mp4" type="video/mp4"> </video> 
+
+#### Luego de hacer ejercicio
+<video controls width="250"> <source src="ruta/al/video.mp4" type="video/mp4"> </video> 
 
 
 ### **Ploteo de la señal en Python** <a name="id8"></a>
 #### Prueba 1 (Álvaro Cigarán)
-<p align="center">
-  <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/d89ea89b08f120aeae8d22b9aafe5de57bfd7395/ISB/Laboratorios/Laboratorio3/Se%C3%B1ales_EMG/Alvaro.png">
-</p> 
-<em><p align="center">1era Prueba: 5 Contracciones leves</p></em>
+<div align="center">
 
-La señal fluctúa entre períodos de menor y mayor actividad eléctrica, reflejando diferentes intensidades en la contracción del músculo.
+| En reposo |Luego de actividad física |
+|----------|----------|
+| <img src="ruta/a/imagen1.png" alt="Reposo" width="200"/> | <img src="ruta/a/imagen1.png" alt="Act física" width="200"/> |
+
+<div align="left">
 
 #### Prueba 2 (Bruno Tello)
 
-<p align="center">
-  <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/7ffa4febc457ecbf7bccf107111b8ec98c56bbc7/ISB/Laboratorios/Laboratorio3/Se%C3%B1ales_EMG/Bruno.png">
-</p> 
-<em><p align="center">2da Prueba: 2 contracciones leves y 2 contracciones fuertes</p></em>
-En comparación con la Prueba 1, las contracciones tienen una mayor amplitud, indicando una contracción más fuerte o una mayor respuesta del músculo.
+| En reposo |Luego de actividad física |
+|----------|----------|
+| <img src="ruta/a/imagen1.png" alt="Reposo" width="200"/> | <img src="ruta/a/imagen1.png" alt="Act física" width="200"/> |
 
-#### Prueba 3 (Kimberly Tito)
+<div align="left">
 
-<p align="center">
-  <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/27c27fcf60a2edf8676019d2ac410a710b6506e7/ISB/Laboratorios/Laboratorio3/Se%C3%B1ales_EMG/Kim.png">
-</p> 
-<em><p align="center">3ra Prueba: 4 Contracciones leves y fuertes intercaladas</p></em>
-Incluyen picos altos similares a los de la Prueba 2, con algunos periodos de actividad más constante, demostrando una mezcla de contracciones fuertes y leves.
 
 ### **Señal del Promsim4 (dispositivo de metrología que genera una señal patrón)** <a name="id13"></a>
 
