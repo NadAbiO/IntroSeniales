@@ -93,19 +93,22 @@ Una consideración importante es que el paciente se encuentre en una posición c
 
 En la prueba 1 (Bruno Tello) 
 #### En reposo
+VIDEO
 <video src="" ></video>
 
-
 #### Luego de hacer ejercicio
-<video controls width="250"> <source src="ruta/al/video.mp4" type="video/mp4"> </video> 
+VIDEO
+<video src="" ></video>
 
 En la prueba 2 (Alvaro Cigaran)
 
 #### En reposo
-<video controls width="250"> <source src="ruta/al/video.mp4" type="video/mp4"> </video> 
+VIDEO
+<video src="" ></video>
 
 #### Luego de hacer ejercicio
-<video controls width="250"> <source src="ruta/al/video.mp4" type="video/mp4"> </video> 
+VIDEO
+<video src="" ></video>
 
 
 ### **Ploteo de la señal en Python** <a name="id8"></a>
@@ -160,9 +163,6 @@ El marcapasos natural es el nódulo sinoauricular que inicia la despolarización
   <img height="300" src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1122339/bin/ecg01.f1.jpg">
 </p> 
 <em><p align="center">Figura 3. El sistema de conducción His-Purkinje [4] </p></em>
-
-
-
 
 
 ***
