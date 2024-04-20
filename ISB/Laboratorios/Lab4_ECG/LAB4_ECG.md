@@ -95,25 +95,19 @@ Para la captura de señales, se seleccionaron dos integrantes del grupo: Bruno T
   * Estado reposo: Evaluamos cuando los sujetos se encuentra en un estado de inactividad.
   * Luego de Actividad física: Evaluamos la señal luego de que hayan realizando ejercicios anaeróbicos, específicamente burpees durante dos minutos.
   
-Sujeto 1 (Bruno Tello) 
-#### En reposo
+#### Sujeto 1 (Bruno Tello) 
 
 |                 **Modelo**                 | **Video** |
 |:------------------------------------------:|:---------:|
-|                **Estado Reposo**                |<video src="" ></video>|
-| **Luego de Actividad física** | |
-|                **Reposo basal**                | |
-|       **Después de la actividad física**       ||
+|                **Estado Reposo**             |<video src="" ></video>|
+|         **Luego de Actividad física**        |<video src="" ></video>|
 
-En la prueba 2 (Alvaro Cigaran)
+#### Sujeto 2 (Alvaro Cigarán) 
 
-#### En reposo
-VIDEO
-<video src="" ></video>
-
-#### Luego de hacer ejercicio
-VIDEO
-<video src="" ></video>
+|                 **Modelo**                 | **Video** |
+|:------------------------------------------:|:---------:|
+|                **Estado Reposo**             |<video src="" ></video>|
+|         **Luego de Actividad física**        |<video src="" ></video>|
 
 
 ### **Archivos** <a name="id8"></a>
@@ -124,7 +118,9 @@ VIDEO
 
 
 ### **Ploteo de la señal en Python** <a name="id9"></a>
-#### Prueba 1 (Bruno Tello)
+
+
+#### Sujeto 1 (Bruno Tello) 
 
 <div align="center">
 
