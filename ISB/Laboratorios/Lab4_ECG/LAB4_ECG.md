@@ -106,11 +106,12 @@ Para la captura de señales, se seleccionaron dos integrantes del grupo: Bruno T
 
 |                 **Modelo**                 | **Video** |
 |:------------------------------------------:|:---------:|
-|                **Estado Reposo**             |<video src="" ></video>|
-|         **Luego de Actividad física**        |<video src="" ></video>|
+|                **Estado Reposo**             |<video src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/64cf5bc4-4a2b-47b5-ac9c-10b419e1422d" ></video>|
+|         **Luego de Actividad física**        |<video src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/93385517-0de6-4c60-8b5b-a2926b161da5" ></video>|
 
 
 ### **Archivos** <a name="id8"></a>
+
 
 - [Documentos (.txt/.png)](https://github.com/NadAbiO/IntroSeniales/tree/062579d29b1ff90dda9f222c8a9d4834159bf05e/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG)
   
