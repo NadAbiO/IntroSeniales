@@ -91,27 +91,25 @@ Una consideración importante es que el paciente se encuentre en una posición c
 ## **Resultados** <a name="id6"></a>
 ### **Video de la señal y Ploteo de la señal en OpenSignal** <a name="id7"></a>
 
-Para la captura de señales, se seleccionaron dos integrantes del grupo: Bruno Tello (Sujeto 1) y Alvaro Cigarán (Sujeto 2). A ambos se les realizó la medición de la señal ECG en tres diferentes estados:
-  * Estado basal: Evaluamos cuando los sujetos se encuentra en un estado de reposo.
+Para la captura de señales, se seleccionaron dos integrantes del grupo: Bruno Tello (Sujeto 1) y Alvaro Cigarán (Sujeto 2). A ambos se les realizó la medición de la señal ECG en dos diferentes estados:
+  * Estado reposo: Evaluamos cuando los sujetos se encuentra en un estado de inactividad.
   * Luego de Actividad física: Evaluamos la señal luego de que hayan realizando ejercicios anaeróbicos, específicamente burpees durante dos minutos.
-  * Manteniendo la respiración: Evaluamos la señal ECG luego de mantener la respiración por 10 segundos.
   
-
 Sujeto 1 (Bruno Tello) 
 #### En reposo
 
 |                 **Modelo**                 | **Video** |
 |:------------------------------------------:|:---------:|
-|                **Estado Basal**                |<video src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabECG/Bru_Ejercicio.mp4"></video>|
-| **Manteniendo la respiración por 10 segundos** ||
-|                **Reposo basal**                |<img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG/Alvaro_anomalia.png?raw=true" alt="Bruno Tello" width="200"/> |
+|                **Estado Reposo**                |<video src="" ></video>|
+| **Luego de Actividad física** | |
+|                **Reposo basal**                | |
 |       **Después de la actividad física**       ||
 
 En la prueba 2 (Alvaro Cigaran)
 
 #### En reposo
 VIDEO
-<video src="https://github.com/NadAbiO/IntroSeniales/raw/main/ISB/Laboratorios/Lab4_ECG/Videos_ECG/Alvaro_Reposo.mp4" ></video>
+<video src="" ></video>
 
 #### Luego de hacer ejercicio
 VIDEO
