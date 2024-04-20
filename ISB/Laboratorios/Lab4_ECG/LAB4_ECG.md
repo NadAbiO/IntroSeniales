@@ -118,7 +118,7 @@ VIDEO
 
 | En reposo |Luego de actividad física |
 |----------|----------|
-| <img src="https://github.com/NadAbiO/IntroSeniales/blob/5c85583a9b5cf33baa9b7887dd699a4260c71fd5/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG/bruno_reposo.png" alt="Reposo" width="200"/> | <img src="ruta/a/imagen1.png" alt="Act física" width="200"/> |
+| <img src="https://github.com/NadAbiO/IntroSeniales/blob/5c85583a9b5cf33baa9b7887dd699a4260c71fd5/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG/bruno_reposo.png" alt="Reposo" width="800"/> | <img src="https://github.com/NadAbiO/IntroSeniales/blob/ac29a71b2dc66c97656ff5e1c41172f96f8174a7/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG/bruno_ejercicio.png" alt="Act física" width="800"/> |
 
 <div align="left">
 
