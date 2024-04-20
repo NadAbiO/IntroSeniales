@@ -122,6 +122,17 @@ Se han graficado las señales en Python para analizar segmentos de tiempo espec�
 
 #### Sujeto 1 (Bruno Tello) 
 
+A continuación, se presenta el ECG del sujeto 1, visualizado mediante Python. Las gráficas muestran un intervalo de tres segundos en dos estados diferentes: en reposo y después de realizar actividad física. 
+<div align="center">
+
+| En reposo |Luego de actividad física |
+|----------|----------|
+| <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG/bruno_reposo.png" alt="Reposo" width="800"/> | <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG/bruno_ejercicio.png" alt="Act física" width="800"/> |
+
+<div align="left">
+
+
+Ahora mostraremos las ondas características en la señal: 
 <div align="center">
 
 | En reposo |Luego de actividad física |
