@@ -4,7 +4,7 @@
 - [Introducción](#id1)
 - [Objetivos](#id2)
 - [Metodología](#id3)
-  - [Materiales y equipos](#id12)
+  - [Materiales y equipos](#id13)
   - [Fotos de la conexión](#id4)
   - [Guía electrocardiográfica](#id5)
 - [Resultados](#id6)
@@ -51,7 +51,7 @@ En un electrocardiograma (ECG) normal, los latidos del corazón se reflejan a tr
 ***
 ## **Metodología** <a name="id3"></a>
 
-### **Materiales y equipos** <a name="id12"></a>
+### **Materiales y equipos** <a name="id13"></a>
 |  **Modelo**  | **Descripción** | **Cantidad** |
 |:------------:|:---------------:|:------------:|
 | (R)EVOLUTION |   Kit BITalino  |       1      |
