@@ -99,7 +99,7 @@ Para la captura de señales, se seleccionaron dos integrantes del grupo: Bruno T
 
 |                 **Modelo**                 | **Video** |
 |:------------------------------------------:|:---------:|
-|                **Estado Reposo**             |<video src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabECG/Burpees.mp4">
+|                **Estado Reposo**             |<video src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/6585d81d-4a68-416d-b5d7-641f86064411">
 |         **Luego de Actividad física**        |<video src="" ></video>|
 
 #### Sujeto 2 (Alvaro Cigarán) 
@@ -130,6 +130,7 @@ A continuación, se presenta el ECG del sujeto 1, visualizado mediante Python. L
 | <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG/bruno_reposo.png" alt="Reposo" width="800"/> | <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab4_ECG/Se%C3%B1ales_ECG/bruno_ejercicio.png" alt="Act física" width="800"/> |
 
 <div align="left">
+
 
 
 Ahora mostraremos las ondas características en la señal: 
