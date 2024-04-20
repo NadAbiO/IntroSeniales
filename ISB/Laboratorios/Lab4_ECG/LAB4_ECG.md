@@ -99,7 +99,7 @@ Para la captura de señales, se seleccionaron dos integrantes del grupo: Bruno T
 
 |                 **Modelo**                 | **Video** |
 |:------------------------------------------:|:---------:|
-|                **Estado Reposo**             |<video src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabECG/Burpees.mp4" ></video>|
+|                **Estado Reposo**             |<video src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabECG/Burpees.mp4">
 |         **Luego de Actividad física**        |<video src="" ></video>|
 
 #### Sujeto 2 (Alvaro Cigarán) 
