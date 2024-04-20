@@ -105,7 +105,7 @@ En la prueba 2 (Alvaro Cigaran)
 
 #### En reposo
 VIDEO
-<video src="" ></video>
+<video src="https://github.com/NadAbiO/IntroSeniales/raw/main/ISB/Laboratorios/Lab4_ECG/Videos_ECG/Alvaro_Reposo.mp4" ></video>
 
 #### Luego de hacer ejercicio
 VIDEO
