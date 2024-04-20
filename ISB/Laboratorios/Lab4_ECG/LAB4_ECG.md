@@ -6,11 +6,11 @@
 - [Metodología](#id3)
   - [Materiales y equipos](#id12)
   - [Fotos de la conexión](#id4)
-  - [Guía electromiográfica](#id5)
+  - [Guía electrocardiográfica](#id5)
 - [Resultados](#id6)
   - [Video de la señal y Ploteo de la señal en OpenSignal](#id7)
   - [Ploteo de la señal en Python](#id8) <br>
-  [Señal del Promsim4](#id13) <br>
+  - [Señal del Promsim4](#id13) <br>
 - [Discusión](#id9)
 - [Archivos](#id10)
 - [Referencias](#id11)
@@ -73,12 +73,15 @@ Se utilizó la conexión ECG en la placa Bitalino utilizando el sensor ECG de 3 
 8. Se detuvo la grabación y se guardaron los datos obtenidos.
 9. Con el programa python se graficó las imágenes en las cuales se pueden observar diferencias significativas.
 
-### **Guía electrocardiografía** <a name="id5"></a>
+### **Guía electrocardigráfica** <a name="id5"></a>
 
 Como referencia para la colocación de los electrodos y buenas prácticas durante la toma de datos utilizamos la siguiente guía [3]:
 
-- BITalino (r)evolution Lab Guide
-  https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide2_ECG.pdf
+| Posición electrodos | Posición electrodos  |
+|----------|----------|
+| <img src="ruta/a/imagen1.png" alt="Bruno Tello" width="200"/> | <img src="ruta/a/imagen2.png" alt="Álvaro Cigarán" width="200"/> |
+
+
 
 Una consideración importante es que el paciente se encuentre en una posición cómoda y relajada, sin objetos metálicos que interfieran. Además, al colocar los electrodos sobre la piel, es fundamental asegurar que la zona esté limpia. Asimismo, es necesario seguir las guías para garantizar la correcta ubicación de los electrodos positivo, negativo y de referencia en sus respectivas áreas.
 ***
