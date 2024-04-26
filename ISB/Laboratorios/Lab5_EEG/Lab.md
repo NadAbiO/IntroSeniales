@@ -24,9 +24,21 @@
 <em><p align="center">Señales del EEG [2]</p></em> 
 
 
+## **Marco Teorico** <a name="marco"></a>
+---
+
+
+
+
+
+## **Objetivos** <a name="obj"></a>
+---
+- Capturar señales biomédicas mediante el uso de EEG y configurar correctamente los dispositivos BiTalino y Ultracortex Mark IV.
+- Extraer y analizar la información obtenida de estas señales utilizando el software OpenBCI GUI y Open Signal.
 
 
 ## **Referencias** <a name="ref"></a>
+---
 [1] D. L. Schomer and L. da S. F. Henrique, Niedermeyer’s Electroencephalography: Basic Principles, Clinical Applications, and Related Fields. New York: Oxford University Press, 2018. <br>
 [2] S. Liu, “Generating simulated EEG signals and data,” Medium, https://selinnaaliu.medium.com/generating-simulated-eeg-signals-and-data-b755363fcc3 (accessed Apr. 26, 2024). 
 
