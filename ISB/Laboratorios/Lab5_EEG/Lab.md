@@ -19,3 +19,15 @@
 
 <p align=justify"> El EEG se utiliza ampliamente para investigar y diagnosticar trastornos neurológicos, especialmente en la evaluación de la epilepsia y otros trastornos convulsivos. También es fundamental en el diagnóstico de trastornos del sueño y encefalopatías, así como para la monitorización en cirugías cerebrales y durante la administración de anestesia .</p>
 
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:741/1*vd7YUOZFzdT7QMu0vcDfIQ.jpeg"  width="300" height="200"> </p>
+<em><p align="center">Señales del EEG [2]</p></em> 
+
+
+
+
+## **Referencias** <a name="ref"></a>
+[1] D. L. Schomer and L. da S. F. Henrique, Niedermeyer’s Electroencephalography: Basic Principles, Clinical Applications, and Related Fields. New York: Oxford University Press, 2018. <br>
+[2] S. Liu, “Generating simulated EEG signals and data,” Medium, https://selinnaaliu.medium.com/generating-simulated-eeg-signals-and-data-b755363fcc3 (accessed Apr. 26, 2024). 
+
+
