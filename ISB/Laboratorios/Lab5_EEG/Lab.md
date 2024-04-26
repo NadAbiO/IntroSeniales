@@ -4,14 +4,17 @@
 2. [Marco teórico](#marco)
 3. [Objetivos](#obj)
 4. [Materiales y equipos](#mat)
-5. [Resultados](#resul)\
-     5.1 [Fotos de la conexión usada](#conex)\
-     5.2 [Explicación del protocolo seguido](#senal)\
-     5.3 [Ploteo de la señal en OpenBCI GUI](#plot)\
-     5.4 [Archivos](#arch)\
-     5.5 [Ploteo de la señal en Python](#plote)
-6. [Conclusiones](#conclu)
-7. [Referencias](#ref)
+5. [Procedimiento](#proc)
+     5.1 [Registro de EEG con Bitalino](#regbit)
+     5.2 [Registro de EEG con Ultracortex](#regUlt)
+7. [Resultados](#resul)\
+     6.1 [Fotos de la conexión usada](#conex)\
+     6.2 [Explicación del protocolo seguido](#senal)\
+     6.3 [Ploteo de la señal en OpenBCI GUI](#plot)\
+     6.4 [Archivos](#arch)\
+     6.5 [Ploteo de la señal en Python](#plote)
+8. [Conclusiones](#conclu)
+9. [Referencias](#ref)
 
 ## **Contexto** <a name="context"></a>
 ---
@@ -27,7 +30,29 @@
 ## **Marco Teorico** <a name="marco"></a>
 ---
 
+### **Materiales y equipos** <a name="mat"></a>
+---
+|  **Modelo**  | **Descripción** | **Cantidad** |
+|:------------:|:---------------:|:------------:|
+| (R)EVOLUTION |   Kit BITalino  |       1      |
+|       -      |      Ultracortex Mark IV EEG    |       1      |
+|       -      |      Electrodos    |       3      |
+|       -      |      Cable de 3 derivaciones    |       1      |
+|       -      |      Laptop    |       1      |
 
+## **Procedimiento** <a name="proc"></a>
+---
+
+
+### **Registro de EEG con Bitalino** <a name="regBit"></a>
+
+
+### **Registro de EEG con Ultracortex** <a name="regUlt"></a>
+
+
+
+## **Resultados** <a name="resul"></a>
+---
 
 
 
