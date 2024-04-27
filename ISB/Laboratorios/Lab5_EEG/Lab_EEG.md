@@ -1,4 +1,4 @@
-# Laboratorio 4: Procedimiento de registro EEG
+# Laboratorio 5: Procedimiento de registro EEG
 
 1. [Contexto](#context)
 2. [Marco teórico](#marco)
