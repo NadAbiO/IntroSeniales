@@ -168,7 +168,32 @@ Estos pasos se repitieron para el UltraCortex y los resultados fueron los siguie
 |**4. Serie de ejercicios matemáticos** | <video src="https://github.com/NadAbiO/IntroSeniales/assets/89696355/6b05e323-6197-4621-a14b-f3e10a6a1e63">
 
 ### **Ploteo de la señal en OpenBCI GUI** <a name="plot"></a>
+
 ### **Ploteo de la señal en Python** <a name="plote"></a>
+#### Prueba 1 (Bruno Tello)
+<p align="center">
+  <img width="460" height="300" src="">
+</p> 
+<em><p align="center">1era Prueba: Ojos cerrados</p></em>
+
+#### Prueba 2 (Bruno Tello)
+<p align="center">
+  <img width="460" height="300" src="">
+</p> 
+<em><p align="center">2da Prueba:  Ciclo Ojos cerrados - Ojos abiertos</p></em>
+
+#### Prueba 3 (Bruno Tello)
+<p align="center">
+  <img width="460" height="300" src="">
+</p> 
+<em><p align="center">3era Prueba:  Ojos cerrados </p></em>
+
+#### Prueba 4 (Bruno Tello)
+<p align="center">
+  <img width="460" height="300" src="">
+</p> 
+<em><p align="center">4ta Prueba:  Preguntas </p></em>
+
 ### **Archivos** <a name="arch"></a>
 
 ## **Conclusiones** <a name="conclu"></a>
