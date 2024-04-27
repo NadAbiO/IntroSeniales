@@ -7,14 +7,13 @@
 5. [Procedimiento](#proc)<br>
      5.1 [Registro de EEG con Bitalino](#regBit)<br>
      5.2 [Registro de EEG con Ultracortex](#regUlt)<br>
-7. [Resultados](#resul)\
-     6.1 [Fotos de la conexión usada](#conex)\
-     6.2 [Explicación del protocolo seguido](#senal)\
-     6.3 [Ploteo de la señal en OpenBCI GUI](#plot)\
-     6.4 [Archivos](#arch)\
-     6.5 [Ploteo de la señal en Python](#plote)
-8. [Conclusiones](#conclu)
-9. [Referencias](#ref)
+6. [Resultados](#resul)\
+     6.1 [Fotos y videos del protocolo seguido](#senal)\
+     6.2 [Ploteo de la señal en OpenBCI GUI](#plot)\
+     6.3 [Archivos](#arch)\
+     6.4 [Ploteo de la señal en Python](#plote)
+7. [Conclusiones](#conclu)
+8. [Referencias](#ref)
 
 ## **Contexto** <a name="context"></a>
 ---
@@ -87,6 +86,8 @@ Para el punto 4 se realizaron la siguientes preguntas[4]:
 
 ## **Resultados** <a name="resul"></a>
 ---
+### **Fotos y videos del protocolo seguido** <a name="senal"></a>
+
 Los resultados del registro de EEG con el Bitalino fueron los siguientes 
 |                 **Paso**                 | **Registro del Bitalino** |
 |:------------------------------------------:|:---------:|
