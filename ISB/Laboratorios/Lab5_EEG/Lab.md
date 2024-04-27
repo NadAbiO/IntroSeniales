@@ -30,6 +30,11 @@
 ## **Marco Teorico** <a name="marco"></a>
 ---
 
+## **Objetivos** <a name="obj"></a>
+---
+- Capturar señales biomédicas mediante el uso de EEG y configurar correctamente los dispositivos BiTalino y Ultracortex Mark IV.
+- Extraer y analizar la información obtenida de estas señales utilizando el software OpenBCI GUI y Open Signal.
+
 ### **Materiales y equipos** <a name="mat"></a>
 ---
 |  **Modelo**  | **Descripción** | **Cantidad** |
@@ -42,8 +47,6 @@
 
 ## **Procedimiento** <a name="proc"></a>
 ---
-
-
 ### **Registro de EEG con Bitalino** <a name="regBit"></a>
 Como referencia para la colocación de los electrodos y buenas prácticas durante la toma de datos utilizamos la guía proporcionada por el mismo sitio web de Bitalino [3]:
 
@@ -59,11 +62,13 @@ Como referencia para la colocación de los electrodos y buenas prácticas durant
 
 Posterior a la conexion se realizo la toma de medicion utilizando la siguiente metodologia:
 
-     1. Registrar una línea base de señal con poco ruido y sin movimientos (respiración normal,sin movimientos oculares/ojos cerrados) durante          30 segundos.
+     1. Registrar una línea base de señal con poco ruido y sin movimientos (respiración normal,sin movimientos oculares/ojos cerrados) 
+     durante 30 segundos.
      2. Repetir un ciclo de OJOS ABIERTOS - OJOS CERRADOS cinco veces, manteniendo ambasfases durante cinco segundos.
      3. Registre otra fase de referencia de 30 segundos (paso 1).
-     4. Un integrante del grupo lea en voz alta una serie de ejercicios matemáticos (verindicaciones abajo) y resuelve cada uno de ellos                mentalmente enfocando tu mirada en unpunto específico para evitar artefactos.
-     5. Detenga la grabación y guarde sus datos
+     4. Un integrante del grupo lea en voz alta una serie de ejercicios matemáticos (verindicaciones abajo) y resuelve cada uno de 
+     ellos mentalmente enfocando tu mirada en unpunto específico para evitar artefactos.
+     5. Detener la grabación y guardar los datos
 
 Para el punto 4 se realizaron la siguientes preguntas[4]:
 
@@ -82,13 +87,17 @@ Para el punto 4 se realizaron la siguientes preguntas[4]:
 
 ## **Resultados** <a name="resul"></a>
 ---
+Los resultados del registro de EEG con el Bitalino fueron los siguientes 
+|                 **Paso**                 | **Registro del Bitalino** |
+|:------------------------------------------:|:---------:|
+|**1. Línea base de señal con poco ruido y sin movimientos** | <video src="https://github.com/NadAbiO/IntroSeniales/assets/89696355/a5db2a9f-8574-4e26-a086-f40897bcbabd">
+|**2. Ciclo de OJOS ABIERTOS - OJOS CERRADOS cinco veces** | <video src="https://github.com/NadAbiO/IntroSeniales/assets/89696355/10e379ed-d79f-4410-a6ea-10499f0e65c0">
+|**3. Otra fase de referencia** | <video src="https://github.com/NadAbiO/IntroSeniales/assets/89696355/6d01ed8f-d07c-4c07-86b0-509114b743ce"> 
+|**4. Serie de ejercicios matemáticos** | <video src="https://github.com/NadAbiO/IntroSeniales/assets/89696355/36ea7989-d1b4-41e2-8d4f-1f8fc71f8317">
 
 
 
-## **Objetivos** <a name="obj"></a>
----
-- Capturar señales biomédicas mediante el uso de EEG y configurar correctamente los dispositivos BiTalino y Ultracortex Mark IV.
-- Extraer y analizar la información obtenida de estas señales utilizando el software OpenBCI GUI y Open Signal.
+
 
 
 ## **Referencias** <a name="ref"></a>
