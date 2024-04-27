@@ -50,12 +50,31 @@ Como referencia para la colocación de los electrodos y buenas prácticas durant
 <p align="center">
   <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabEEG/ReferenciaBitalito.png">
 </p> 
-<em><p width="300" height="400" align="center">Figura 2. Posicionamiento de Electrodos en posicion FP1 [3]</p></em>
+<em><p align="center">Figura 2. Posicionamiento de Electrodos en posicion FP1 [3]</p></em>
 
 <p align="center">
-  <img  src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabEEG/BruConexion.jpg">
+  <img width="300" height="400" src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabEEG/BruConexion.jpg">
 </p> 
 <em><p align="center">Figura 3. Conexion final en Integrante</p></em>
+
+Posterior a la conexion se realizo la toma de medicion utilizando la siguiente metodologia:
+
+     1. Registrar una línea base de señal con poco ruido y sin movimientos (respiración normal,sin movimientos oculares/ojos cerrados) durante          30 segundos.
+     2. Repetir un ciclo de OJOS ABIERTOS - OJOS CERRADOS cinco veces, manteniendo ambasfases durante cinco segundos.
+     3. Registre otra fase de referencia de 30 segundos (paso 1).
+     4. Un integrante del grupo lea en voz alta una serie de ejercicios matemáticos (verindicaciones abajo) y resuelve cada uno de ellos                mentalmente enfocando tu mirada en unpunto específico para evitar artefactos.
+     5. Detenga la grabación y guarde sus datos
+
+Para el punto 4 se realizaron la siguientes preguntas[4]:
+
+| Categoría           | Ejemplo                                                                                                                                                       |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Ejemplo Sencillo    | - Hay 3 pájaros en un árbol; Llegan 7 más. ¿Cuántas aves hay ahora?     |                                                                                      
+|                     | - Jonas tiene 5 manzanas y Mary tiene 4. ¿Cuántas manzanas tienen en total?    |                                                                                    
+|                     | - Hanna tiene 9 dólares pero gastó 4. ¿Cuántos dólares le quedan?            |                                                                                  
+| Ejemplo Complejo    | - John anotó 45 puntos para su equipo; 10 más que José. Marie anotó 13 puntos más que John y Joseph juntos. ¿Cuántos puntos obtuvieron en total?              |
+|                     | - El Grupo A tiene 24 estudiantes; 13 menos que el grupo B. El grupo C tiene 12 estudiantes más que los grupos A y B combinados. ¿Cuál es el número total de estudiantes? |
+|                     | - Una tienda vendía 21 refrescos por la mañana y 13 más que por la tarde. Por la noche vendió 10 más que por la mañana y por la tarde juntas. ¿Cuántos refrescos se vendieron en total?               |
 
 ### **Registro de EEG con Ultracortex** <a name="regUlt"></a>
 
@@ -77,5 +96,5 @@ Como referencia para la colocación de los electrodos y buenas prácticas durant
 [1] D. L. Schomer and L. da S. F. Henrique, Niedermeyer’s Electroencephalography: Basic Principles, Clinical Applications, and Related Fields. New York: Oxford University Press, 2018. <br>
 [2] S. Liu, “Generating simulated EEG signals and data,” Medium, https://selinnaaliu.medium.com/generating-simulated-eeg-signals-and-data-b755363fcc3 (accessed Apr. 26, 2024). 
 [3] Bitalino (r)evolution lab guide, https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf (accessed Apr. 26, 2024). 
-
+[4] J. M. del R&iacute;o, M. A. Guevara, M. H. Gonz&aacute;lez, R. M. H. Aguirre, and M. A. C. Aguilar, “EEG correlation during the solving of simple and complex logical–mathematical problems - cognitive, affective, & behavioral neuroscience,” SpringerLink, https://link.springer.com/article/10.3758/s13415-019-00703-5/tables/1 (accessed Apr. 26, 2024). 
 
