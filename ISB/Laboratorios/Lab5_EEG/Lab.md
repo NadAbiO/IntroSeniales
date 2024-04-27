@@ -109,7 +109,7 @@ Estos pasos se repitieron para el UltraCortex y los resultados fueron los siguie
 ## **Referencias** <a name="ref"></a>
 ---
 [1] D. L. Schomer and L. da S. F. Henrique, Niedermeyer’s Electroencephalography: Basic Principles, Clinical Applications, and Related Fields. New York: Oxford University Press, 2018. <br>
-[2] S. Liu, “Generating simulated EEG signals and data,” Medium, https://selinnaaliu.medium.com/generating-simulated-eeg-signals-and-data-b755363fcc3 (accessed Apr. 26, 2024). 
-[3] Bitalino (r)evolution lab guide, https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf (accessed Apr. 26, 2024). 
+[2] S. Liu, “Generating simulated EEG signals and data,” Medium, https://selinnaaliu.medium.com/generating-simulated-eeg-signals-and-data-b755363fcc3 (accessed Apr. 26, 2024). <br>
+[3] Bitalino (r)evolution lab guide, https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf (accessed Apr. 26, 2024). <br>
 [4] J. M. del R&iacute;o, M. A. Guevara, M. H. Gonz&aacute;lez, R. M. H. Aguirre, and M. A. C. Aguilar, “EEG correlation during the solving of simple and complex logical–mathematical problems - cognitive, affective, & behavioral neuroscience,” SpringerLink, https://link.springer.com/article/10.3758/s13415-019-00703-5/tables/1 (accessed Apr. 26, 2024). 
 
