@@ -98,12 +98,12 @@ Como referencia para la colocación de los electrodos y buenas prácticas durant
 <p align="center">
   <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabEEG/ReferenciaBitalito.png">
 </p> 
-<em><p align="center">Figura 2. Posicionamiento de Electrodos en posicion FP1 [3]</p></em>
+<em><p align="center">Figura 3. Posicionamiento de Electrodos en posicion FP1 [3]</p></em>
 
 <p align="center">
   <img width="300" height="400" src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabEEG/BruConexion.jpg">
 </p> 
-<em><p align="center">Figura 3. Conexion final en Integrante</p></em>
+<em><p align="center">Figura 4. Conexion final en Integrante</p></em>
 
 Posterior a la conexion se realizo la toma de medicion utilizando la siguiente metodologia:
 
@@ -128,6 +128,23 @@ Para el punto 4 se realizaron la siguientes preguntas[4]:
 
 ### **Registro de EEG con Ultracortex** <a name="regUlt"></a>
 
+<p align="justify"> El sistema internacional 10-20 es ampliamente reconocido para describir las posiciones de los electrodos en el cuero cabelludo. Se basa en distancias proporcionales entre puntos clave, como el nasion y el inion. Cada posición se identifica con una letra y un número que describen la ubicación en los lóbulos cerebrales y el hemisferio. Los números impares se refieren al hemisferio izquierdo (en rojo), mientras que los pares al derecho (en azul). La línea media se representa con la letra "z" de cero (en negro).[3]
+
+<div align="center">
+
+| Vista superior | Vista lateral |
+|----------|----------|
+| <img src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/7363b9c8-fec1-4913-91fe-4202bf97d567" alt="superior" width="200"/> | <img src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/c422a465-c922-477f-9f70-efd335f4fbf5" alt="lateral" width="200"/> |
+
+<em><p align="center">Figura 5. Posicionamiento de Electrodos 10-20 [3]</p></em>
+
+<div align="left">
+
+
+<p align="center">
+  <img width="300" height="400" src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/8db0a778-d73c-43a5-9ec4-5445f65c9cf9">
+</p> 
+<em><p align="center">Figura 6. Conexión final en Integrante</p></em>
 
 
 ## **Resultados** <a name="resul"></a>
