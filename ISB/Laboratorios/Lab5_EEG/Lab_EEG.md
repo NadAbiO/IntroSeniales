@@ -172,29 +172,35 @@ Estos pasos se repitieron para el UltraCortex y los resultados fueron los siguie
 ### **Ploteo de la señal en Python** <a name="plote"></a>
 #### Prueba 1 (Bruno Tello)
 <p align="center">
-  <img width="460" height="300" src="">
+  <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/446698ff298e360f24d8ca553e308076eaa7cf19/ISB/Laboratorios/Lab5_EEG/Lab5_EEG/Se%C3%B1ales_EEG/bruno1.png">
 </p> 
-<em><p align="center">1era Prueba: Ojos cerrados</p></em>
+<em><p align="center">Figura 7. Ojos cerrados</p></em>
 
 #### Prueba 2 (Bruno Tello)
 <p align="center">
-  <img width="460" height="300" src="">
+  <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/446698ff298e360f24d8ca553e308076eaa7cf19/ISB/Laboratorios/Lab5_EEG/Lab5_EEG/Se%C3%B1ales_EEG/bruno2.png">
 </p> 
-<em><p align="center">2da Prueba:  Ciclo Ojos cerrados - Ojos abiertos</p></em>
+<em><p align="center">Figura 8. Ciclo Ojos cerrados - Ojos abiertos</p></em>
 
 #### Prueba 3 (Bruno Tello)
 <p align="center">
-  <img width="460" height="300" src="">
+  <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/446698ff298e360f24d8ca553e308076eaa7cf19/ISB/Laboratorios/Lab5_EEG/Lab5_EEG/Se%C3%B1ales_EEG/bruno3.png">
 </p> 
-<em><p align="center">3era Prueba:  Ojos cerrados </p></em>
+<em><p align="center">Figura 9. Ojos cerrados </p></em>
 
 #### Prueba 4 (Bruno Tello)
 <p align="center">
-  <img width="460" height="300" src="">
+  <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/446698ff298e360f24d8ca553e308076eaa7cf19/ISB/Laboratorios/Lab5_EEG/Lab5_EEG/Se%C3%B1ales_EEG/bruno4.png">
 </p> 
-<em><p align="center">4ta Prueba:  Preguntas </p></em>
+<em><p align="center">Figura 10. Preguntas </p></em>
 
 ### **Archivos** <a name="arch"></a>
+
+- [Documentos (.txt)]()
+
+  **Código para el ploteo de la señal:**
+- [Ploteo de la señal (.py)]()
+
 
 ## **Conclusiones** <a name="conclu"></a>
 
