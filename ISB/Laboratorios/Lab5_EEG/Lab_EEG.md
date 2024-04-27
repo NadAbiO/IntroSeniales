@@ -4,9 +4,9 @@
 2. [Marco teórico](#marco)
 3. [Objetivos](#obj)
 4. [Materiales y equipos](#mat)
-5. [Procedimiento](#proc)<br>
-     5.1 [Registro de EEG con Bitalino](#regBit)<br>
-     5.2 [Registro de EEG con Ultracortex](#regUlt)<br>
+5. [Procedimiento](#proc)\
+     5.1 [Registro de EEG con Bitalino](#regBit)\
+     5.2 [Registro de EEG con Ultracortex](#regUlt)
 6. [Resultados](#resul)\
      6.1 [Fotos y videos del protocolo seguido](#senal)\
      6.2 [Ploteo de la señal en OpenBCI GUI](#plot)\
