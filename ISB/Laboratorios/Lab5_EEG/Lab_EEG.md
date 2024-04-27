@@ -196,10 +196,10 @@ Estos pasos se repitieron para el UltraCortex y los resultados fueron los siguie
 
 ### **Archivos** <a name="arch"></a>
 
-- [Documentos (.txt)]()
+- [Documentos (.txt)](https://github.com/NadAbiO/IntroSeniales/tree/059ca0ee345fdd8a566c558e600a6609b48ffcaf/ISB/Laboratorios/Lab5_EEG/Lab5_EEG/Se%C3%B1ales_EEG)
 
   **Código para el ploteo de la señal:**
-- [Ploteo de la señal (.py)]()
+- [Ploteo de la señal (.py)](https://github.com/NadAbiO/IntroSeniales/blob/059ca0ee345fdd8a566c558e600a6609b48ffcaf/ISB/Laboratorios/Lab5_EEG/Lab5_EEG/adq_ECG.py)
 
 
 ## **Conclusiones** <a name="conclu"></a>
