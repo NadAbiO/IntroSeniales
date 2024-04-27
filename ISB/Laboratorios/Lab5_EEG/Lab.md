@@ -4,9 +4,9 @@
 2. [Marco teórico](#marco)
 3. [Objetivos](#obj)
 4. [Materiales y equipos](#mat)
-5. [Procedimiento](#proc)
-     5.1 [Registro de EEG con Bitalino](#regbit)
-     5.2 [Registro de EEG con Ultracortex](#regUlt)
+5. [Procedimiento](#proc)<br>
+     5.1 [Registro de EEG con Bitalino](#regBit)<br>
+     5.2 [Registro de EEG con Ultracortex](#regUlt)<br>
 7. [Resultados](#resul)\
      6.1 [Fotos de la conexión usada](#conex)\
      6.2 [Explicación del protocolo seguido](#senal)\
@@ -24,7 +24,7 @@
 
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:741/1*vd7YUOZFzdT7QMu0vcDfIQ.jpeg"  width="300" height="200"> </p>
-<em><p align="center">Señales del EEG [2]</p></em> 
+<em><p align="center">Figura 1. Señales del EEG [2]</p></em> 
 
 
 ## **Marco Teorico** <a name="marco"></a>
@@ -45,7 +45,17 @@
 
 
 ### **Registro de EEG con Bitalino** <a name="regBit"></a>
+Como referencia para la colocación de los electrodos y buenas prácticas durante la toma de datos utilizamos la guía proporcionada por el mismo sitio web de Bitalino [3]:
 
+<p align="center">
+  <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabEEG/ReferenciaBitalito.png">
+</p> 
+<em><p width="300" height="400" align="center">Figura 2. Posicionamiento de Electrodos en posicion FP1 [3]</p></em>
+
+<p align="center">
+  <img  src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabEEG/BruConexion.jpg">
+</p> 
+<em><p align="center">Figura 3. Conexion final en Integrante</p></em>
 
 ### **Registro de EEG con Ultracortex** <a name="regUlt"></a>
 
@@ -66,5 +76,6 @@
 ---
 [1] D. L. Schomer and L. da S. F. Henrique, Niedermeyer’s Electroencephalography: Basic Principles, Clinical Applications, and Related Fields. New York: Oxford University Press, 2018. <br>
 [2] S. Liu, “Generating simulated EEG signals and data,” Medium, https://selinnaaliu.medium.com/generating-simulated-eeg-signals-and-data-b755363fcc3 (accessed Apr. 26, 2024). 
+[3] Bitalino (r)evolution lab guide, https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf (accessed Apr. 26, 2024). 
 
 
