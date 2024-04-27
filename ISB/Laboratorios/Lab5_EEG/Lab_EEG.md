@@ -27,6 +27,52 @@
 
 
 ## **Marco Teorico** <a name="marco"></a>
+<p align="justify"> El electroencefalograma (EEG) es un procedimiento que analiza la actividad eléctrica del cerebro. Esta actividad es generada por la interacción de las neuronas y se manifiesta como señales electroquímicas. Los distintos estados del cerebro indican diversos patrones de ondas cerebrales. Estas ondas cerebrales dan diferentes estados del cerebro como los sentimientos, las emociones, el estado de ánimo o cualquier posición mental.[5]
+
+TIPOS DE ONDAS CEREBRALES CON RANGO DE FRECUENCIAS:
+
+<p align="center"> 
+    
+| **_Tipos de Frecuencia_** | **_Frecuencia (Hz)_** |Estado del cerebro|
+|:---------------------------------------------:|:---------------------:|:------------:|
+|                     Delta                     |      0.50 - 4.00      |Dormir|
+|                     Theta                     |      4.00 - 8.00      |Relajamiento profundo y enfoque |
+|                     Alpha                     | 8.00 - 13.00          |Muy relajado y atento|
+|                      Beta                     | 13.00 - 22.00         |Ansioso,activo|
+|                     Gamma                     | 22.00 - 30.00         |Concentrado|
+
+</p>
+
+1. **Delta**:
+    - Se observa durante el sueño profundo y es prominente en las regiones frontocentrales de la cabeza.
+    - En casos de encefalopatía generalizada y disfunción cerebral focal, puede presentarse incluso durante la vigilia.
+
+2. **Theta**:
+    - Asociado con somnolencia y las primeras etapas del sueño (N1 y N2).
+    - Más prominente en las regiones frontocentrales y reemplaza el ritmo alfa debido a la somnolencia temprana.
+    - Estados emocionales elevados también pueden aumentar el ritmo theta frontal.
+    - La actividad theta focal durante la vigilia sugiere disfunción cerebral focal.
+
+3. **Alfa**:
+    - Característico en registros de EEG normales despiertos en la región occipital.
+    - Definitorio del ritmo de fondo en adultos.
+    - Persiste hasta la vejez en individuos sanos.
+    - Ralentización del alfa puede indicar disfunción cerebral generalizada.
+
+4. **Beta**:
+    - Común en adultos y niños normales.
+    - Más prominente en regiones frontal y central.
+    - Amplitud típica: 10-20 microvoltios.
+
+5. **Gamma**:
+    - Ondas de alta frecuencia.
+    - Importantes para funciones cognitivas.
+    - Pueden ayudar en la detección temprana de desmielinización y otros trastornos corticales.[6]
+      
+<p align="center"> <img src="https://i0.wp.com/neurodoza.com/wp-content/uploads/2023/05/tipos_de_ondas_cerebrales_6440_600-webp-600%C3%97400-.png?resize=368%2C286&ssl=1" width="60%" /> </p>
+<p align="center"> Figura 2. Ondas cerebrales.</p>
+   
+
 ---
 
 ## **Objetivos** <a name="obj"></a>
@@ -113,4 +159,6 @@ Estos pasos se repitieron para el UltraCortex y los resultados fueron los siguie
 [2] S. Liu, “Generating simulated EEG signals and data,” Medium, https://selinnaaliu.medium.com/generating-simulated-eeg-signals-and-data-b755363fcc3 (accessed Apr. 26, 2024). <br>
 [3] Bitalino (r)evolution lab guide, https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf (accessed Apr. 26, 2024). <br>
 [4] J. M. del R&iacute;o, M. A. Guevara, M. H. Gonz&aacute;lez, R. M. H. Aguirre, and M. A. C. Aguilar, “EEG correlation during the solving of simple and complex logical–mathematical problems - cognitive, affective, & behavioral neuroscience,” SpringerLink, https://link.springer.com/article/10.3758/s13415-019-00703-5/tables/1 (accessed Apr. 26, 2024). 
+[5] J. M. Kumar and V. K. Mittal, "EEG Data Acquisition System and Analysis of EEG Signals," 2021 2nd International Conference for Emerging Technology (INCET), Belagavi, India, 2021, pp. 1-5, doi: 10.1109/INCET51464.2021.9456431.
+[6] C. S. Nayak and A. C. Anilkumar, “EEG Normal Waveforms,” Nih.gov, Jan. 21, 2023. https://www.ncbi.nlm.nih.gov/books/NBK539805/#:~:text=However%2C%20the%20most%20frequently%20used,beta%20(13%20to%2030Hz)
 
