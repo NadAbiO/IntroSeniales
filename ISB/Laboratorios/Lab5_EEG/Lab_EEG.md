@@ -208,7 +208,14 @@ Un estudio reveló que la actividad cerebral es significativamente más intensa 
 
 Un estudio adicional que explora la relación entre la actividad cerebral y el estado de los ojos (abiertos o cerrados) evaluó la tasa de parpadeo y reveló que, al realizar tareas cognitivas con los ojos abiertos, se activan más áreas del cerebro. Este incremento de actividad es particularmente notable en las regiones asociadas con la percepción y atención visual, manifestándose en fluctuaciones más marcadas en los lóbulos frontal y occipital. Por otro lado, durante los períodos de descanso con los ojos cerrados, se observó una disminución en la actividad cerebral general y en la variabilidad de la tasa de parpadeo, lo que sugiere una menor carga cognitiva y un estado de mayor relajación.[8]
 
+En relación con las señales EEG durante la resolución de problemas matemáticos, un estudio destacó un incremento en la potencia absoluta y una mayor correlación EEG en las bandas de alpha y en frecuencias rápidas entre las cortezas frontal izquierda y parietal cuando se enfrentan problemas complejos. En contraste, para problemas más simples, se observa típicamente una activación cerebral menor, reflejo de las demandas cognitivas reducidas.
 
+El estudio identificó específicamente varias regiones corticales clave en la resolución de problemas matemáticos:
+- **Corteza Prefrontal**: Fundamental en la memoria de trabajo, esta área es crucial para manipular información durante la solución de problemas matemáticos.
+- **Corteza Parietal**: El surco intraparietal, juega un papel activo en la manipulación de números y operaciones matemáticas, evidenciando una mayor activación en problemas que requieren múltiples dígitos o varios pasos de cálculo.
+- **Corteza Temporal**: Comúnmente vinculada al procesamiento de texto y lenguaje, su activación tiende a disminuir en tareas matemáticas.
+
+Además, el estudio subraya que el razonamiento matemático demanda no solo el funcionamiento de áreas especializadas en cálculos y números, sino también una coordinación efectiva entre estas y otras áreas que gestionan la memoria y la atención.
 
 
 
