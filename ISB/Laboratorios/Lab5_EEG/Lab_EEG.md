@@ -11,7 +11,7 @@
      6.1 [Fotos y videos del protocolo seguido](#senal)\
      6.2 [Ploteo de la señal en Python](#plote)\
      6.3 [Archivos](#arch)
-7. [Conclusiones](#conclu)
+7. [Discusión](#conclu)
 8. [Referencias](#ref)
 
 ## **Contexto** <a name="context"></a>
@@ -198,8 +198,8 @@ Estos pasos se repitieron para el UltraCortex y los resultados fueron los siguie
   **Código para el ploteo de la señal:**
 - [Ploteo de la señal (.py)](https://github.com/NadAbiO/IntroSeniales/blob/059ca0ee345fdd8a566c558e600a6609b48ffcaf/ISB/Laboratorios/Lab5_EEG/Lab5_EEG/adq_ECG.py)
 
-
-## **Conclusiones** <a name="conclu"></a>
+***
+## **Discusión** <a name="conclu"></a>
 
 ## **Referencias** <a name="ref"></a>
 ---
