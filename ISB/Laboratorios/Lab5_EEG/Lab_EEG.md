@@ -217,6 +217,8 @@ El estudio identificó específicamente varias regiones corticales clave en la r
 
 Además, el estudio subraya que el razonamiento matemático demanda no solo el funcionamiento de áreas especializadas en cálculos y números, sino también una coordinación efectiva entre estas y otras áreas que gestionan la memoria y la atención [9].
 
+El EEG es una herramienta para comprender la actividad del cerebro durante diversas tareas cognitivas, el uso del EEG ha demostrado ser importante para identificar la activación de áreas específicas del cerebro, las mediciones de EEG permiten observar cómo las variaciones en la actividad cerebral se correlacionan con los procesos de percepción y atención visual.
+
 
 
 ## **Referencias** <a name="ref"></a>
@@ -227,4 +229,8 @@ Además, el estudio subraya que el razonamiento matemático demanda no solo el f
 [4] J. M. del R&iacute;o, M. A. Guevara, M. H. Gonz&aacute;lez, R. M. H. Aguirre, and M. A. C. Aguilar, “EEG correlation during the solving of simple and complex logical–mathematical problems - cognitive, affective, & behavioral neuroscience,” SpringerLink, https://link.springer.com/article/10.3758/s13415-019-00703-5/tables/1 (accessed Apr. 26, 2024). <br>
 [5] J. M. Kumar and V. K. Mittal, "EEG Data Acquisition System and Analysis of EEG Signals," 2021 2nd International Conference for Emerging Technology (INCET), Belagavi, India, 2021, pp. 1-5, doi: 10.1109/INCET51464.2021.9456431. (accessed Apr. 26, 2024). <br>
 [6] C. S. Nayak and A. C. Anilkumar, “EEG Normal Waveforms,” Nih.gov, Jan. 21, 2023. https://www.ncbi.nlm.nih.gov/books/NBK539805/#:~:text=However%2C%20the%20most%20frequently%20used,beta%20(13%20to%2030Hz) (accessed Apr. 26, 2024).<br>
+[7] M. Haak, S. Bos, S. Panic, and L. Rothkrantz, “DETECTING STRESS USING EYE BLINKS AND BRAIN ACTIVITY FROM EEG SIGNALS,” Semantic Scholar, 2009. https://www.semanticscholar.org/paper/DETECTING-STRESS-USING-EYE-BLINKS-AND-BRAIN-FROM-Haak-Bos/1d2e8e97e4c0477d087d03c549534073e49921f4 (accessed Apr. 28, 2024).
+[8] R. Paprocki and A. Lenskiy, “What Does Eye-Blink Rate Variability Dynamics Tell Us About Cognitive Performance?,” Frontiers in Human Neuroscience, vol. 11, Dec. 2017, doi: https://doi.org/10.3389/fnhum.2017.00620.
+[9] J. Molina del Río, M. A. Guevara, M. Hernández González, R. M. Hidalgo Aguirre, and M. A. Cruz Aguilar, “EEG correlation during the solving of simple and complex logical–mathematical problems,” Cognitive, Affective, & Behavioral Neuroscience, vol. 19, no. 4, pp. 1036–1046, Feb. 2019, doi: https://doi.org/10.3758/s13415-019-00703-5.
+‌
 
