@@ -204,6 +204,10 @@ En este caso, la señal aparece más compacta y muestra una frecuencia elevada d
 ***
 ## **Discusión** <a name="conclu"></a>
 
+Un estudio reveló que la actividad cerebral es significativamente más intensa durante la realización de cálculos mentales con los ojos abiertos en comparación con realizarlos con los ojos cerrados. Se observó que mantener los ojos abiertos durante actividades mentales conduce a una mayor intensidad en la actividad cerebral. Esto indica que el cerebro podría estar procesando información visual de manera subconsciente, incluso cuando la atención del participante no está directamente enfocada en el entorno de su alrededor. Durante los cálculos mentales con los ojos abiertos, se registró una notable activación del lóbulo occipital, responsable de la visión, mientras que con los ojos cerrados, esta actividad se reduce, mostrando una disminución en la carga de procesamiento visual.[7]
+
+
+
 ## **Referencias** <a name="ref"></a>
 ---
 [1] D. L. Schomer and L. da S. F. Henrique, Niedermeyer’s Electroencephalography: Basic Principles, Clinical Applications, and Related Fields. New York: Oxford University Press, 2018. <br>
