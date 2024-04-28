@@ -172,12 +172,14 @@ Estos pasos se repitieron para el UltraCortex y los resultados fueron los siguie
   <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/446698ff298e360f24d8ca553e308076eaa7cf19/ISB/Laboratorios/Lab5_EEG/Lab5_EEG/Se%C3%B1ales_EEG/bruno1.png">
 </p> 
 <em><p align="center">Figura 7. Ojos cerrados</p></em>
+En la fase con los ojos cerrados, la señal muestra una amplitud relativamente constante, con intervalos claros y definidos entre las ondas. Se percibe poca variabilidad en la señal, lo cual podría atribuirse a la reducción de la actividad cognitiva o física, ya que el cerebro no está comprometido en tareas activas durante este período.
 
 #### Prueba 2 (Bruno Tello)
 <p align="center">
   <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/446698ff298e360f24d8ca553e308076eaa7cf19/ISB/Laboratorios/Lab5_EEG/Lab5_EEG/Se%C3%B1ales_EEG/bruno2.png">
 </p> 
 <em><p align="center">Figura 8. Ciclo Ojos cerrados - Ojos abiertos</p></em>
+En esta etapa, se observa que la señal presenta variaciones más significativas en su amplitud. Es probable que durante el ciclo con los ojos abiertos, la amplitud aumente debido a la estimulación visual. Este cambio en la amplitud permite diferenciar claramente entre las dos etapas: ojos cerrados y ojos abiertos.
 
 #### Prueba 3 (Bruno Tello)
 <p align="center">
@@ -190,6 +192,7 @@ Estos pasos se repitieron para el UltraCortex y los resultados fueron los siguie
   <img width="460" height="300" src="https://github.com/NadAbiO/IntroSeniales/blob/446698ff298e360f24d8ca553e308076eaa7cf19/ISB/Laboratorios/Lab5_EEG/Lab5_EEG/Se%C3%B1ales_EEG/bruno4.png">
 </p> 
 <em><p align="center">Figura 10. Preguntas </p></em>
+En este caso, la señal aparece más compacta y muestra una frecuencia elevada de picos que mantienen una amplitud similar. Cuando una persona se encuentra realizando un esfuerzo mental, como resolver problemas matemáticos, se espera observar variaciones en la señal EEG que reflejen un aumento en la actividad cognitiva.
 
 ### **Archivos** <a name="arch"></a>
 ***
