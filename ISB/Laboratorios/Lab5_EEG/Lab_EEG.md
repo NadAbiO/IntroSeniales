@@ -9,9 +9,8 @@
      5.2 [Registro de EEG con Ultracortex](#regUlt)
 6. [Resultados](#resul)\
      6.1 [Fotos y videos del protocolo seguido](#senal)\
-     6.2 [Ploteo de la señal en OpenBCI GUI](#plot)\
-     6.3 [Ploteo de la señal en Python](#plote)\
-     6.4 [Archivos](#arch)
+     6.2 [Ploteo de la señal en Python](#plote)\
+     6.3 [Archivos](#arch)
 7. [Conclusiones](#conclu)
 8. [Referencias](#ref)
 
@@ -166,8 +165,6 @@ Estos pasos se repitieron para el UltraCortex y los resultados fueron los siguie
 |**1. Fase de referencia inicial** | <img width="680" height="460" src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabEEG/ReposoEEg.jpg">
 |**2. Ciclo de OJOS ABIERTOS - OJOS CERRADOS cinco veces** | <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/LabEEG/CicloEEg.jpg"> 
 |**4. Serie de ejercicios matemáticos** | <video src="https://github.com/NadAbiO/IntroSeniales/assets/89696355/6b05e323-6197-4621-a14b-f3e10a6a1e63">
-
-### **Ploteo de la señal en OpenBCI GUI** <a name="plot"></a>
 
 ### **Ploteo de la señal en Python** <a name="plote"></a>
 #### Prueba 1 (Bruno Tello)
