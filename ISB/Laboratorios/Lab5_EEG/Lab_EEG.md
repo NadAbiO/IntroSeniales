@@ -195,6 +195,7 @@ Estos pasos se repitieron para el UltraCortex y los resultados fueron los siguie
 <em><p align="center">Figura 10. Preguntas </p></em>
 
 ### **Archivos** <a name="arch"></a>
+***
 
 - [Documentos (.txt)](https://github.com/NadAbiO/IntroSeniales/tree/059ca0ee345fdd8a566c558e600a6609b48ffcaf/ISB/Laboratorios/Lab5_EEG/Lab5_EEG/Se%C3%B1ales_EEG)
 
