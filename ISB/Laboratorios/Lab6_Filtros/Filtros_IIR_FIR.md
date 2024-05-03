@@ -1,0 +1,1 @@
+# Laboratorio 7: Procedimiento de registro EEG
