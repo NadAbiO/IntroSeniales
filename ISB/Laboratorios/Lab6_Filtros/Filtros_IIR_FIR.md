@@ -1,1 +1,1 @@
-# Laboratorio 7: Procedimiento de registro EEG
+# Laboratorio 7: DISEÑO DE FILTROS IIR y FIR
