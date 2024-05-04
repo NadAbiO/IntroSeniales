@@ -80,9 +80,9 @@ Además, se diseñaron filtro IIR y FIR de acuerdo a lo visto en clase.
 
 | | SEÑAL| 
 | ------------ | ------------ | 
-|Señal cruda|  | 
-| FIR|  |  
-| IIR |  | 
+|Señal cruda| <img width="500" height="200" src=""> | 
+| FIR|  <img width="500" height="200" src=""> |  
+| IIR |  <img width="500" height="200" src=""> | 
 
 ### Resumen y explicación final
 #### EEG
