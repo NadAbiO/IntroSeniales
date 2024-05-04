@@ -58,7 +58,7 @@ Los sistemas LTI se dividen en dos categorías principales[1]:
 |:-----------:|:-----:|
 |Este filtro tiene una respuesta finita al impulso y que se caracterizan por ser sistemas no recursivos. |Un filtro IIR es aquel que tiene una respuesta infinita al impulso y que se caracterizan por tener una retroalimentación de la señal de salida. |       
 ---
-### Metodología
+## Metodología
 #### EEG
 Para el filtrado de señales provenientes del electroencefalograma realizado tras distintas actividades (resposo, parpadeo, razonamiento matemático), se tomó como base los filtros vistos en clase.
 Para la definición de las frecuencias de corte, primero se obtuvo la gráfica de las magnitudes vs frecuencia de cada señal; asumiendo que la frecuencia con mayor mayor magnitud es la de interés, se filtraron las demás frecuencias.
