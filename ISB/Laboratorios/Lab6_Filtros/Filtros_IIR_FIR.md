@@ -95,5 +95,5 @@ Para un correcto procesamiento se requieren distintas etapas y conocimiento acer
 ## Bibliografía 
 [1] J. M. Marín de la Rosa. “FUNDAMENTOS TEÓRICOS”. Test Page for the HTTP Server on Red Hat Enterprise Linux. [En línea]. Disponible: https://biblus.us.es/bibing/proyectos/abreproy/11375/fichero/MEMORIA%2FFundamentos+teoricos.pdf
 
-[2] A. de Cheveigné y I. Nelken, “Filters: When, why, and how (not) to use them”, Neuron, vol. 102, núm. 2, pp. 280–293, 2019.
+[2] A. de Cheveigné y I. Nelken, “Filters: When, why, and how (not) to use them”, Neuron, vol. 102, núm. 2, pp. 280–293, 2019. DOI: https://doi.org/10.1016/j.neuron.2019.02.039
 
