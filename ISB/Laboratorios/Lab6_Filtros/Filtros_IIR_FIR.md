@@ -83,7 +83,13 @@ Además, se diseñaron filtro IIR y FIR de acuerdo a lo visto en clase.
 | FIR|  <img width="920" alt="FILTRO_FIR" src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/1ec61161-6f2f-4a59-b00c-5deab0c3bbce"> |  
 | IIR |  <img width="932" alt="filtro_IIR" src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/8ba5275c-4fb5-4a08-9cce-ba441eef4b69"> | 
 
+#### ECG
 
+| | Campo | Señal cruda | Filtro IIR | Filtro FIR Ventana Hamming|Filtro FIR Ventana Rectangular |
+| ------------ | ------------ | ------------ | ------------ | ------------ |------------ |
+| Reposo |
+| Respiración |
+| Post Ejercicio |
 
 ---
 ### Resumen y explicación final
