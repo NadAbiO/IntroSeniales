@@ -87,9 +87,9 @@ Además, se diseñaron filtro IIR y FIR de acuerdo a lo visto en clase.
 
 || Campo | Señal cruda | Filtro IIR | Filtro FIR Ventana Hamming|Filtro FIR Ventana Rectangular |
 | ------------ | ------------ | ------------ | ------------ | ------------ |------------ |
-| Reposo |
-| Respiración |
-| Post Ejercicio |
+|| Reposo |
+| |Respiración |
+| |Post Ejercicio |
 
 ---
 ### Resumen y explicación final
