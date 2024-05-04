@@ -17,7 +17,7 @@
   * Filtrar las señales EMG para eliminar ruido y artefactos, y aislar la actividad muscular efectiva.
   * Filtrar señales EEG para reducir el ruido y extraer características de interés como ondas cerebrales específicas.
   * Filtrar señales ECG para eliminar el ruido.
-
+---
 ## Materiales y equipos:
 1. Adquisición de señales en laboratoiros anteriores:
 
@@ -33,7 +33,7 @@
 |Cantidad|Material o equipo|Uso|
 |:-----------:|:-----:|:-------:|
 |1|Laptop|Visualización y procesamiento de las señales con lenguaje de programación|
-
+---
 ## Entregable:
 <p align="justify">En laboratorios pasados, obtuvimos las señales ECG, EMG y EEG a las que se le aplicarán los filtros diseñados.
 
@@ -59,7 +59,7 @@ Los sistemas LTI se dividen en dos categorías principales[1]:
 |:-----------:|:-----:|
 |Este filtro tiene una respuesta finita al impulso y que se caracterizan por ser sistemas no recursivos. |Un filtro IIR es aquel que tiene una respuesta infinita al impulso y que se caracterizan por tener una retroalimentación de la señal de salida. |       
 
-
+---
 ### Metodología
 #### EEG
 Para el filtrado de señales provenientes del electroencefalograma realizado tras distintas actividades (resposo, parpadeo, razonamiento matemático), se tomó como base los filtros vistos en clase.
@@ -68,7 +68,7 @@ Para la definición de las frecuencias de corte, primero se obtuvo la gráfica d
 #### EMG
 Para el filtrado de las seales electromiográficas, se utilizaron las señales adquiridas en laboratorios anteriores.
 Además, se diseñaron filtro IIR y FIR de acuerdo a lo visto en clase.
-
+---
 ### Gráficos de resultados
 #### EEG
 | | 1er Reposo | Pestañeo | 2do Reposo | Resolución de ejercicios |
@@ -84,7 +84,7 @@ Además, se diseñaron filtro IIR y FIR de acuerdo a lo visto en clase.
 | FIR|  <img width="920" alt="FILTRO_FIR" src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/1ec61161-6f2f-4a59-b00c-5deab0c3bbce"> |  
 | IIR |  <img width="932" alt="filtro_IIR" src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/8ba5275c-4fb5-4a08-9cce-ba441eef4b69"> | 
 
-
+--
 ### Resumen y explicación final
 #### EEG
 Como se observa en las imágenes de los resultados, al aplicar filtros IIR, la representación de la señal filtrada en el dominio del tiempo es mejor que la señal filtrada con filtro FIR; sin embargo, debido al escaso procesamiento de laseñal, dichas representaciones pueden ser información no útil o distorcionada.
@@ -97,7 +97,7 @@ Para un correcto procesamiento se requieren distintas etapas y conocimiento acer
 #### EMG
 
 
-
+---
 ### Archivos
 #### EEG
 |FIR|IIR|
@@ -106,7 +106,8 @@ Para un correcto procesamiento se requieren distintas etapas y conocimiento acer
 
 #### EMG
 - [Ploteo de la señal (.py)](https://github.com/NadAbiO/IntroSeniales/blob/e98997f596b04235cb52582e697b4858334fdf60/ISB/Laboratorios/Lab6_Filtros/EMG_filtered.py)
-
+  
+---
 ## Bibliografía 
 [1] J. M. Marín de la Rosa. “FUNDAMENTOS TEÓRICOS”. Test Page for the HTTP Server on Red Hat Enterprise Linux. [En línea]. Disponible: https://biblus.us.es/bibing/proyectos/abreproy/11375/fichero/MEMORIA%2FFundamentos+teoricos.pdf
 
