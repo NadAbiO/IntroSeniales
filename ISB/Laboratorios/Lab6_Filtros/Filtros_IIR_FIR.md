@@ -105,7 +105,7 @@ Para un correcto procesamiento se requieren distintas etapas y conocimiento acer
 |[Abrir filtro FIR (Google Collab)](https://colab.research.google.com/drive/10l-gRCAlV1tx8irrjU6R-cUOdud9RAXe?usp=sharing) | [Abrir filtro IIR (Google Collab)](https://colab.research.google.com/drive/1DYxeyBe8zKtgBCG9q7QG4aXB8l4qfcVC?usp=sharing)|
 
 #### EMG
-- [Ploteo de la señal (.py)]()
+- [Ploteo de la señal (.py)](https://github.com/NadAbiO/IntroSeniales/blob/e98997f596b04235cb52582e697b4858334fdf60/ISB/Laboratorios/Lab6_Filtros/EMG_filtered.py)
 
 ## Bibliografía 
 [1] J. M. Marín de la Rosa. “FUNDAMENTOS TEÓRICOS”. Test Page for the HTTP Server on Red Hat Enterprise Linux. [En línea]. Disponible: https://biblus.us.es/bibing/proyectos/abreproy/11375/fichero/MEMORIA%2FFundamentos+teoricos.pdf
