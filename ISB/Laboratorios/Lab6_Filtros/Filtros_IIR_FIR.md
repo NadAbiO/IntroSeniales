@@ -79,6 +79,9 @@ Los sistemas LTI se dividen en dos categorías principales[1]:
 
 ### Archivos
 #### EEG
+|FIR|IIR|
+|:-----------:|:-----:|
+|[Abrir filtro FIR (Google Collab)](https://colab.research.google.com/drive/10l-gRCAlV1tx8irrjU6R-cUOdud9RAXe?usp=sharing) | [Abrir filtro IIR (Google Collab)](https://colab.research.google.com/drive/1DYxeyBe8zKtgBCG9q7QG4aXB8l4qfcVC?usp=sharing)|
 
 ## Bibliografía 
 [1] J. M. Marín de la Rosa. “FUNDAMENTOS TEÓRICOS”. Test Page for the HTTP Server on Red Hat Enterprise Linux. [En línea]. Disponible: https://biblus.us.es/bibing/proyectos/abreproy/11375/fichero/MEMORIA%2FFundamentos+teoricos.pdf
