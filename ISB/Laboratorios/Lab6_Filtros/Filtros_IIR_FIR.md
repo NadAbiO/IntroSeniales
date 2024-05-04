@@ -71,8 +71,7 @@ Además, se diseñaron filtro IIR y FIR de acuerdo a lo visto en clase.
 Para el filtrado de las señales de electrocardiograma, se utilizaron las señales obtenidas en laboratorios pasados, las cuales fueron tomadas en tres estados distintos (reposo, respiración y post ejercicio). Se diseñaron filtros IIR y FIR, usando de base las características de diseño sugeridas en clase, utilizamos la bibliografía para la selección del tipo de ventana para los filtros FIR y también para la selección del tipo de filtro IIR.
 
 ---
-### Gráficos de resultados
-***
+## Gráficos de resultados
 #### EEG
 | | 1er Reposo | Pestañeo | 2do Reposo | Resolución de ejercicios |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -98,8 +97,7 @@ Para una mejor visualización de las gráficas, entrar al archivo "ECG_filter.ip
 
 
 ---
-### Archivos
-***
+## Archivos
 #### EEG
 |FIR|IIR|
 |:-----------:|:-----:|
@@ -109,8 +107,7 @@ Para una mejor visualización de las gráficas, entrar al archivo "ECG_filter.ip
 - [Ploteo de la señal (.py)](https://github.com/NadAbiO/IntroSeniales/blob/e98997f596b04235cb52582e697b4858334fdf60/ISB/Laboratorios/Lab6_Filtros/EMG_filtered.py)
   
 ---
-### Discusión
-***
+## Discusión
 #### EEG
 Como se observa en las imágenes de los resultados, al aplicar filtros IIR, la representación de la señal filtrada en el dominio del tiempo es mejor que la señal filtrada con filtro FIR; sin embargo, debido al escaso procesamiento de laseñal, dichas representaciones pueden ser información no útil o distorcionada.
 Como se sabe, el filtro IIR no tiene una fase lineal, por lo cual puede desfasar la señal y alterar los resultados; además, para el filtrado  de señales en este laboratorio no se tomó en cuenta todos los factores que pueden afectar a la obtención de la señal, ni se evaluó a modo detallado los filtros usados.
