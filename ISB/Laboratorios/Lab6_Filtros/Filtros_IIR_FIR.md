@@ -65,6 +65,8 @@ Los sistemas LTI se dividen en dos categorías principales[1]:
 
 ### Metodología
 #### EEG
+Para el filtrado de señales provenientes del electroencefalograma realizado tras distintas actividades (resposo, parpadeo, razonamiento matemático), se tomó como base los filtros vistos en clase.
+Para la definición de las frecuencias de corte, primero se obtuvo la gráfica de las magnitudes vs frecuencia de cada señal; asumiendo que la frecuencia con mayor mayor magnitud es la de interés, se filtraron las demás frecuencias.
 
 
 ### Gráficos de resultados
@@ -76,6 +78,13 @@ Los sistemas LTI se dividen en dos categorías principales[1]:
 
 ### Resumen y explicación final
 #### EEG
+Como se observa en las imágenes de los resultados, al aplicar filtros IIR, la representación de la señal filtrada en el dominio del tiempo es mejor que la señal filtrada con filtro FIR; sin embargo, debido al escaso procesamiento de laseñal, dichas representaciones pueden ser información no útil o distorcionada.
+Como se sabe, el filtro IIR no tiene una fase lineal, por lo cual puede desfasar la señal y alterar los resultados; además, para el filtrado  de señales en este laboratorio no se tomó en cuenta todos los factores que pueden afectar a la obtención de la señal, ni se evaluó a modo detallado los filtros usados.
+Para un correcto procesamiento de señales de EEG se tiene que tomar en cuenta el rango de frecuencias de ondas a evaluar (alfa, betha, etc), los ruidos provenientes de movimiento muscular o de la impedancia de los electrodos, el ruido de la corriente eléctrica, entre otro tipo de distorcionadores de señal.
+Para un correcto procesamiento se requieren distintas etapas y conocimiento acerca de las limitantes del mismo electroencefalógrafo.
+
+![procedimiento](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhx6_dI5JR4Cnmw2S2_I317l-QK8k12f2rJhBZSNJtkyqAKJCM)
+
 
 ### Archivos
 #### EEG
@@ -85,4 +94,6 @@ Los sistemas LTI se dividen en dos categorías principales[1]:
 
 ## Bibliografía 
 [1] J. M. Marín de la Rosa. “FUNDAMENTOS TEÓRICOS”. Test Page for the HTTP Server on Red Hat Enterprise Linux. [En línea]. Disponible: https://biblus.us.es/bibing/proyectos/abreproy/11375/fichero/MEMORIA%2FFundamentos+teoricos.pdf
+
+[2] A. de Cheveigné y I. Nelken, “Filters: When, why, and how (not) to use them”, Neuron, vol. 102, núm. 2, pp. 280–293, 2019.
 
