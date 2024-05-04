@@ -85,7 +85,7 @@ Además, se diseñaron filtro IIR y FIR de acuerdo a lo visto en clase.
 
 #### ECG
 
-| | Campo | Señal cruda | Filtro IIR | Filtro FIR Ventana Hamming|Filtro FIR Ventana Rectangular |
+| Campo | Señal cruda | Filtro IIR | Filtro FIR Ventana Hamming|Filtro FIR Ventana Rectangular |
 | ------------ | ------------ | ------------ | ------------ | ------------ |------------ |
 | Reposo |
 | Respiración |
