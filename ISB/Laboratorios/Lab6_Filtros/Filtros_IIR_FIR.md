@@ -72,6 +72,7 @@ Para el filtrado de las señales de electrocardiograma, se utilizaron las señal
 
 ---
 ### Gráficos de resultados
+***
 #### EEG
 | | 1er Reposo | Pestañeo | 2do Reposo | Resolución de ejercicios |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -87,6 +88,7 @@ Para el filtrado de las señales de electrocardiograma, se utilizaron las señal
 | IIR |  <img width="932" alt="filtro_IIR" src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/8ba5275c-4fb5-4a08-9cce-ba441eef4b69"> | 
 
 #### ECG
+Para una mejor visualización de las gráficas, entrar al archivo "ECG_filter.ipynb" que se encuentra en la sección de archivos.
 
 || Campo | Señal cruda | Filtro IIR | Filtro FIR Ventana Hamming|Filtro FIR Ventana Rectangular |
 | ------------ | ------------ | ------------ | ------------ | ------------ |------------ |
@@ -97,6 +99,7 @@ Para el filtrado de las señales de electrocardiograma, se utilizaron las señal
 
 ---
 ### Archivos
+***
 #### EEG
 |FIR|IIR|
 |:-----------:|:-----:|
@@ -107,6 +110,7 @@ Para el filtrado de las señales de electrocardiograma, se utilizaron las señal
   
 ---
 ### Discusión
+***
 #### EEG
 Como se observa en las imágenes de los resultados, al aplicar filtros IIR, la representación de la señal filtrada en el dominio del tiempo es mejor que la señal filtrada con filtro FIR; sin embargo, debido al escaso procesamiento de laseñal, dichas representaciones pueden ser información no útil o distorcionada.
 Como se sabe, el filtro IIR no tiene una fase lineal, por lo cual puede desfasar la señal y alterar los resultados; además, para el filtrado  de señales en este laboratorio no se tomó en cuenta todos los factores que pueden afectar a la obtención de la señal, ni se evaluó a modo detallado los filtros usados.
