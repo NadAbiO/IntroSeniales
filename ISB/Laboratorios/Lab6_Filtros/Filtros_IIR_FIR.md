@@ -9,7 +9,6 @@
   * [Gráficos de resultados](#gráficos-de-resultados)
   * [Resumen y explicación final](#resumen-y-explicación-final)
   * [Archivos](#archivos)
-* [Conclusiones](#conclusiones)
 * [Bibliografía](#bibliografía)
 
 ## Objetivos:
@@ -96,6 +95,7 @@ Para un correcto procesamiento se requieren distintas etapas y conocimiento acer
 
 #### EMG
 En la investigación, realizada por **Roger G. T. Mello, Liliam F. Oliveira y Jurandir Nadal**, presentan un filtro digital (Butterworth) diseñado específicamente para delimitar la banda de frecuencias de los electromiogramas de superficie (EMG) y eliminar el ruido de red y sus armónicos. El enfoque se centra en el análisis de la señal durante la actividad muscular reducida [3].
+
 **Resultados Clave:**
 - El filtro demostró una eficaz eliminación de los componentes de ruido de red, con atenuaciones superiores al 96,6%.
 - La atenuación selectiva a frecuencias inferiores a 15 Hz y a 60 Hz causó solo una pequeña reducción en la potencia total, preservando así el espectro original.
