@@ -71,8 +71,8 @@ Los sistemas LTI se dividen en dos categorías principales[1]:
 #### EEG
 | | 1er Reposo | Pestañeo | 2do Reposo | Resolución de ejercicios |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
-| FIR | ![fir1]() | ![fir2] | ![fir3] | ![fir4] | 
-| IIR | ![iir1]() | ![iir2] | ![iir3] | ![iir4] | 
+| FIR | ![fir1](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab6_Filtros/EEG/img/ej1_FIR.png?raw=true) | ![fir2](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab6_Filtros/EEG/img/ej2_FIR.png?raw=true) | ![fir3](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab6_Filtros/EEG/img/ej3_FIR.png?raw=true) | ![fir4](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab6_Filtros/EEG/img/ej4_FIR.png?raw=true) | 
+| IIR | ![iir1](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab6_Filtros/EEG/img/ejercicio1_IIR.png?raw=true) | ![iir2](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab6_Filtros/EEG/img/ejercicio2_IIR.png?raw=true) | ![iir3](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab6_Filtros/EEG/img/ejercicio3_IIR.png?raw=true) | ![iir4](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab6_Filtros/EEG/img/ejercicio4_IIR.png?raw=true) | 
 
 ### Resumen y explicación final
 #### EEG
