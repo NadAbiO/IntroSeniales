@@ -88,8 +88,8 @@ Además, se diseñaron filtro IIR y FIR de acuerdo a lo visto en clase.
 || Campo | Señal cruda | Filtro IIR | Filtro FIR Ventana Hamming|Filtro FIR Ventana Rectangular |
 | ------------ | ------------ | ------------ | ------------ | ------------ |------------ |
 || Reposo |<img width="927" alt="sin filtro" src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/1.png"> | <img width="927" alt="sin filtro" src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/1.png">|<img width="927" alt="sin filtro" src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/1.png">|<img width="927" alt="sin filtro" src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/1.png">|
-| |Respiración |
-| |Post Ejercicio |
+| |Respiración |<img width="927" alt="sin filtro" src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/1.png"> | <img width="927" alt="sin filtro" src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/1.png">|<img width="927" alt="sin filtro" src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/1.png">|<img width="927" alt="sin filtro" src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/1.png">|
+| |Post Ejercicio |<img width="927" alt="sin filtro" src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/1.png"> | <img width="927" alt="sin filtro" src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/1.png">|<img width="927" alt="sin filtro" src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/1.png">|<img width="927" alt="sin filtro" src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/1.png">|
 
 ---
 ### Resumen y explicación final
