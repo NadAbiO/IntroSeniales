@@ -105,6 +105,9 @@ Para una mejor visualización de las gráficas, entrar al archivo "ECG_filter.ip
 
 #### EMG
 - [Ploteo de la señal (.py)](https://github.com/NadAbiO/IntroSeniales/blob/e98997f596b04235cb52582e697b4858334fdf60/ISB/Laboratorios/Lab6_Filtros/EMG_filtered.py)
+
+#### ECG
+- [Ploteo de la señales y aplicación de los filtros](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab6_Filtros/ECG_filter.ipynb)
   
 ---
 ## Discusión
