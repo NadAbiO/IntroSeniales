@@ -59,15 +59,15 @@ Los sistemas LTI se dividen en dos categorías principales[1]:
 |:-----------:|:-----:|
 |Este filtro tiene una respuesta finita al impulso y que se caracterizan por ser sistemas no recursivos. |Un filtro IIR es aquel que tiene una respuesta infinita al impulso y que se caracterizan por tener una retroalimentación de la señal de salida. |       
 
-  - #### *FIR*:
-
-  - #### *IIR*:
 
 ### Metodología
 #### EEG
 Para el filtrado de señales provenientes del electroencefalograma realizado tras distintas actividades (resposo, parpadeo, razonamiento matemático), se tomó como base los filtros vistos en clase.
 Para la definición de las frecuencias de corte, primero se obtuvo la gráfica de las magnitudes vs frecuencia de cada señal; asumiendo que la frecuencia con mayor mayor magnitud es la de interés, se filtraron las demás frecuencias.
 
+#### EMG
+Para el filtrado de las seales electromiográficas, se utilizaron las señales adquiridas en laboratorios anteriores.
+Además, se diseñaron filtro IIR y FIR de acuerdo a lo visto en clase.
 
 ### Gráficos de resultados
 #### EEG
@@ -75,6 +75,14 @@ Para la definición de las frecuencias de corte, primero se obtuvo la gráfica d
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 | FIR | ![fir1](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab6_Filtros/EEG/img/ej1_FIR.png?raw=true) | ![fir2](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab6_Filtros/EEG/img/ej2_FIR.png?raw=true) | ![fir3](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab6_Filtros/EEG/img/ej3_FIR.png?raw=true) | ![fir4](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab6_Filtros/EEG/img/ej4_FIR.png?raw=true) | 
 | IIR | ![iir1](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab6_Filtros/EEG/img/ejercicio1_IIR.png?raw=true) | ![iir2](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab6_Filtros/EEG/img/ejercicio2_IIR.png?raw=true) | ![iir3](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab6_Filtros/EEG/img/ejercicio3_IIR.png?raw=true) | ![iir4](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab6_Filtros/EEG/img/ejercicio4_IIR.png?raw=true) | 
+
+#### EMG
+
+| | SEÑAL| 
+| ------------ | ------------ | 
+|Señal cruda|  | 
+| FIR|  |  
+| IIR |  | 
 
 ### Resumen y explicación final
 #### EEG
@@ -85,12 +93,18 @@ Para un correcto procesamiento se requieren distintas etapas y conocimiento acer
 
 ![procedimiento](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhx6_dI5JR4Cnmw2S2_I317l-QK8k12f2rJhBZSNJtkyqAKJCM)
 
+#### EMG
+
+
 
 ### Archivos
 #### EEG
 |FIR|IIR|
 |:-----------:|:-----:|
 |[Abrir filtro FIR (Google Collab)](https://colab.research.google.com/drive/10l-gRCAlV1tx8irrjU6R-cUOdud9RAXe?usp=sharing) | [Abrir filtro IIR (Google Collab)](https://colab.research.google.com/drive/1DYxeyBe8zKtgBCG9q7QG4aXB8l4qfcVC?usp=sharing)|
+
+#### EMG
+
 
 ## Bibliografía 
 [1] J. M. Marín de la Rosa. “FUNDAMENTOS TEÓRICOS”. Test Page for the HTTP Server on Red Hat Enterprise Linux. [En línea]. Disponible: https://biblus.us.es/bibing/proyectos/abreproy/11375/fichero/MEMORIA%2FFundamentos+teoricos.pdf
