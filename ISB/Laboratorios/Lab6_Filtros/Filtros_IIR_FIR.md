@@ -58,7 +58,6 @@ Los sistemas LTI se dividen en dos categorías principales[1]:
 |FIR|IIR|
 |:-----------:|:-----:|
 |Este filtro tiene una respuesta finita al impulso y que se caracterizan por ser sistemas no recursivos. |Un filtro IIR es aquel que tiene una respuesta infinita al impulso y que se caracterizan por tener una retroalimentación de la señal de salida. |       
-
 ---
 ### Metodología
 #### EEG
@@ -68,6 +67,7 @@ Para la definición de las frecuencias de corte, primero se obtuvo la gráfica d
 #### EMG
 Para el filtrado de las seales electromiográficas, se utilizaron las señales adquiridas en laboratorios anteriores.
 Además, se diseñaron filtro IIR y FIR de acuerdo a lo visto en clase.
+
 ---
 ### Gráficos de resultados
 #### EEG
@@ -84,7 +84,7 @@ Además, se diseñaron filtro IIR y FIR de acuerdo a lo visto en clase.
 | FIR|  <img width="920" alt="FILTRO_FIR" src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/1ec61161-6f2f-4a59-b00c-5deab0c3bbce"> |  
 | IIR |  <img width="932" alt="filtro_IIR" src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/8ba5275c-4fb5-4a08-9cce-ba441eef4b69"> | 
 
---
+---
 ### Resumen y explicación final
 #### EEG
 Como se observa en las imágenes de los resultados, al aplicar filtros IIR, la representación de la señal filtrada en el dominio del tiempo es mejor que la señal filtrada con filtro FIR; sin embargo, debido al escaso procesamiento de laseñal, dichas representaciones pueden ser información no útil o distorcionada.
