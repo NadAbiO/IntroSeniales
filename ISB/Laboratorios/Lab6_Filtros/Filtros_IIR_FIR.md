@@ -80,9 +80,10 @@ Además, se diseñaron filtro IIR y FIR de acuerdo a lo visto en clase.
 
 | | SEÑAL| 
 | ------------ | ------------ | 
-|Señal cruda| <img width="500" height="200" src=""> | 
-| FIR|  <img width="500" height="200" src=""> |  
-| IIR |  <img width="500" height="200" src=""> | 
+|Señal cruda| <img width="927" alt="sin filtro" src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/8cc9fd7e-6423-45ca-b339-e12476e124c8"> | 
+| FIR|  <img width="920" alt="FILTRO_FIR" src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/1ec61161-6f2f-4a59-b00c-5deab0c3bbce"> |  
+| IIR |  <img width="932" alt="filtro_IIR" src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/8ba5275c-4fb5-4a08-9cce-ba441eef4b69"> | 
+
 
 ### Resumen y explicación final
 #### EEG
