@@ -129,6 +129,8 @@ En la investigación, realizada por **Roger G. T. Mello, Liliam F. Oliveira y Ju
   
 Además, la correcta supresión de la fluctuación de la línea de base (BLF) es un aspecto crucial al registrar señales EMG, ya que su omisión puede afectar negativamente la calidad de la señal y distorsionar tanto el análisis cualitativo como el cuantitativo. Para ello se diseñó un filtro FIR que logre atenuar el BLF.[4]
 
+#### ECG
+
 ---
 ## Bibliografía 
 [1] J. M. Marín de la Rosa. “FUNDAMENTOS TEÓRICOS”. Test Page for the HTTP Server on Red Hat Enterprise Linux. [En línea]. Disponible: https://biblus.us.es/bibing/proyectos/abreproy/11375/fichero/MEMORIA%2FFundamentos+teoricos.pdf
