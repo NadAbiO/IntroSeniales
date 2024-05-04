@@ -35,7 +35,7 @@
 |1|Laptop|Visualización y procesamiento de las señales con lenguaje de programación|
 
 ## Entregable:
-<p align="justify">En laboratorios pasados, obtuvimos las señales ECG,EMG y EEG a las que se le aplicarán los filtros diseñados.
+<p align="justify">En laboratorios pasados, obtuvimos las señales ECG, EMG y EEG a las que se le aplicarán los filtros diseñados.
 
 ### Introducción
 #### ¿ Qué es un filtro?
@@ -62,6 +62,23 @@ Los sistemas LTI se dividen en dos categorías principales[1]:
   - #### *FIR*:
 
   - #### *IIR*:
+
+### Metodología
+#### EEG
+
+
+### Gráficos de resultados
+#### EEG
+| | 1er Reposo | Pestañeo | 2do Reposo | Resolución de ejercicios |
+| ------------ | ------------ | ------------ | ------------ | ------------ |
+| FIR | ![fir1]() | ![fir2] | ![fir3] | ![fir4] | 
+| IIR | ![iir1]() | ![iir2] | ![iir3] | ![iir4] | 
+
+### Resumen y explicación final
+#### EEG
+
+### Archivos
+#### EEG
 
 ## Bibliografía 
 [1] J. M. Marín de la Rosa. “FUNDAMENTOS TEÓRICOS”. Test Page for the HTTP Server on Red Hat Enterprise Linux. [En línea]. Disponible: https://biblus.us.es/bibing/proyectos/abreproy/11375/fichero/MEMORIA%2FFundamentos+teoricos.pdf
