@@ -95,14 +95,13 @@ Para un correcto procesamiento se requieren distintas etapas y conocimiento acer
 ![procedimiento](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhx6_dI5JR4Cnmw2S2_I317l-QK8k12f2rJhBZSNJtkyqAKJCM)
 
 #### EMG
-En la investigación, realizada por **Roger G. T. Mello, Liliam F. Oliveira y Jurandir Nadal**, presentan un filtro digital (Butterworth) diseñado específicamente para delimitar la banda de frecuencias de los electromiogramas de superficie (EMG) y eliminar el ruido de red y sus armónicos. El enfoque se centra en el análisis de la señal durante la actividad muscular reducida. [3]
+En la investigación, realizada por **Roger G. T. Mello, Liliam F. Oliveira y Jurandir Nadal**, presentan un filtro digital (Butterworth) diseñado específicamente para delimitar la banda de frecuencias de los electromiogramas de superficie (EMG) y eliminar el ruido de red y sus armónicos. El enfoque se centra en el análisis de la señal durante la actividad muscular reducida [3].
 **Resultados Clave:**
 - El filtro demostró una eficaz eliminación de los componentes de ruido de red, con atenuaciones superiores al 96,6%.
 - La atenuación selectiva a frecuencias inferiores a 15 Hz y a 60 Hz causó solo una pequeña reducción en la potencia total, preservando así el espectro original.
 - Dada su eficacia, el filtro resulta adecuado para la aplicación propuesta.
-
-
-
+  
+Además, la correcta supresión de la fluctuación de la línea de base (BLF) es un aspecto crucial al registrar señales EMG, ya que su omisión puede afectar negativamente la calidad de la señal y distorsionar tanto el análisis cualitativo como el cuantitativo. Para ello se diseñó un filtro FIR que logre atenuar el BLF.[4]
 
 ---
 ### Archivos
@@ -120,5 +119,7 @@ En la investigación, realizada por **Roger G. T. Mello, Liliam F. Oliveira y Ju
 
 [2] A. de Cheveigné y I. Nelken, “Filters: When, why, and how (not) to use them”, Neuron, vol. 102, núm. 2, pp. 280–293, 2019. DOI: https://doi.org/10.1016/j.neuron.2019.02.039
 
-[3] Mello, R. G. T., Oliveira, L. F., & Nadal, J. (2007). "Digital Butterworth filter for subtracting noise from low magnitude surface electromyogram". Computer Methods and Programs in Biomedicine, 87(1), 28–35. https://doi.org/10.1016/j.cmpb.2007.04.004
+[3] Mello, R. G. T., Oliveira, L. F., & Nadal, J. (2007). "Digital Butterworth filter for subtracting noise from low magnitude surface electromyogram". Computer Methods and Programs in Biomedicine, 87(1), 28–35. https://doi.org/10.1016/j.cmpb.2007.04.004.
+
+[4] Rodríguez-Carreño, I., Malanda-Trigueros, A., Gila-Useros, L., Navallas-Irujo, J., & Rodríguez-Falces, J. (2006). Filter design for cancellation of baseline-fluctuation in needle EMG recordings. Computer Methods and Programs in Biomedicine, 81(1), 79–93. https://doi.org/10.1016/j.cmpb.2005.11.002. 
 
