@@ -7,8 +7,8 @@
   * [Introducción](#introducción)
   * [Metodología](#metodología)
   * [Gráficos de resultados](#gráficos-de-resultados)
-  * [Resumen y explicación final](#resumen-y-explicación-final)
   * [Archivos](#archivos)
+* [Discusión](#discusión)
 * [Bibliografía](#bibliografía)
 
 ## Objetivos:
@@ -67,6 +67,9 @@ Para la definición de las frecuencias de corte, primero se obtuvo la gráfica d
 Para el filtrado de las seales electromiográficas, se utilizaron las señales adquiridas en laboratorios anteriores.
 Además, se diseñaron filtro IIR y FIR de acuerdo a lo visto en clase.
 
+#### ECG
+Para el filtrado de las señales de electrocardiograma, se utilizaron las señales obtenidas en laboratorios pasados, las cuales fueron tomadas en tres estados distintos (reposo, respiración y post ejercicio). Se diseñaron filtros IIR y FIR, usando de base las características de diseño sugeridas en clase, utilizamos la bibliografía para la selección del tipo de ventana para los filtros FIR y también para la selección del tipo de filtro IIR.
+
 ---
 ### Gráficos de resultados
 #### EEG
@@ -91,8 +94,19 @@ Además, se diseñaron filtro IIR y FIR de acuerdo a lo visto en clase.
 | |Respiración |<img width="927" alt="sin filtro" src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/ecg_aguantando_respiracion.png"> | <img width="927" alt="sin filtro" src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/ecg_respiracion_IIR.png">|<img width="927" alt="sin filtro" src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/ecg_respiracion_hamming.png">|<img width="927" alt="sin filtro" src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/ecg_respiracion_rectangular.png">|
 | |Post Ejercicio |<img width="927" alt="sin filtro" src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/ecg_post_ejercicio.png"> | <img width="927" alt="sin filtro" src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/ecg_post_iir.png">|<img width="927" alt="sin filtro" src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/ecg_post_hamming.png">|<img width="927" alt="sin filtro" src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/ecg_post_rectangular.png">|
 
+
 ---
-### Resumen y explicación final
+### Archivos
+#### EEG
+|FIR|IIR|
+|:-----------:|:-----:|
+|[Abrir filtro FIR (Google Collab)](https://colab.research.google.com/drive/10l-gRCAlV1tx8irrjU6R-cUOdud9RAXe?usp=sharing) | [Abrir filtro IIR (Google Collab)](https://colab.research.google.com/drive/1DYxeyBe8zKtgBCG9q7QG4aXB8l4qfcVC?usp=sharing)|
+
+#### EMG
+- [Ploteo de la señal (.py)](https://github.com/NadAbiO/IntroSeniales/blob/e98997f596b04235cb52582e697b4858334fdf60/ISB/Laboratorios/Lab6_Filtros/EMG_filtered.py)
+  
+---
+### Discusión
 #### EEG
 Como se observa en las imágenes de los resultados, al aplicar filtros IIR, la representación de la señal filtrada en el dominio del tiempo es mejor que la señal filtrada con filtro FIR; sin embargo, debido al escaso procesamiento de laseñal, dichas representaciones pueden ser información no útil o distorcionada.
 Como se sabe, el filtro IIR no tiene una fase lineal, por lo cual puede desfasar la señal y alterar los resultados; además, para el filtrado  de señales en este laboratorio no se tomó en cuenta todos los factores que pueden afectar a la obtención de la señal, ni se evaluó a modo detallado los filtros usados.
@@ -111,16 +125,6 @@ En la investigación, realizada por **Roger G. T. Mello, Liliam F. Oliveira y Ju
   
 Además, la correcta supresión de la fluctuación de la línea de base (BLF) es un aspecto crucial al registrar señales EMG, ya que su omisión puede afectar negativamente la calidad de la señal y distorsionar tanto el análisis cualitativo como el cuantitativo. Para ello se diseñó un filtro FIR que logre atenuar el BLF.[4]
 
----
-### Archivos
-#### EEG
-|FIR|IIR|
-|:-----------:|:-----:|
-|[Abrir filtro FIR (Google Collab)](https://colab.research.google.com/drive/10l-gRCAlV1tx8irrjU6R-cUOdud9RAXe?usp=sharing) | [Abrir filtro IIR (Google Collab)](https://colab.research.google.com/drive/1DYxeyBe8zKtgBCG9q7QG4aXB8l4qfcVC?usp=sharing)|
-
-#### EMG
-- [Ploteo de la señal (.py)](https://github.com/NadAbiO/IntroSeniales/blob/e98997f596b04235cb52582e697b4858334fdf60/ISB/Laboratorios/Lab6_Filtros/EMG_filtered.py)
-  
 ---
 ## Bibliografía 
 [1] J. M. Marín de la Rosa. “FUNDAMENTOS TEÓRICOS”. Test Page for the HTTP Server on Red Hat Enterprise Linux. [En línea]. Disponible: https://biblus.us.es/bibing/proyectos/abreproy/11375/fichero/MEMORIA%2FFundamentos+teoricos.pdf
