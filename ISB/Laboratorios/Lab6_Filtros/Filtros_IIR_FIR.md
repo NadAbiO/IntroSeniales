@@ -130,6 +130,10 @@ En la investigación, realizada por **Roger G. T. Mello, Liliam F. Oliveira y Ju
 Además, la correcta supresión de la fluctuación de la línea de base (BLF) es un aspecto crucial al registrar señales EMG, ya que su omisión puede afectar negativamente la calidad de la señal y distorsionar tanto el análisis cualitativo como el cuantitativo. Para ello se diseñó un filtro FIR que logre atenuar el BLF.[4]
 
 #### ECG
+En la investigación llevada a cabo por Priyanka y Gurjit Kaur, se exploró la eliminación de ruido en señales de ECG mediante el uso de diversas técnicas de ventanas en filtros FIR. Se enfocaron en reducir varios tipos de ruido, como la interferencia de línea eléctrica, ruido muscular y ruido EMG. Utilizaron diferentes métodos de ventanas, tales como Kaiser, Rectangular, Hamming, Hanning y Welch, y evaluaron los resultados con base en parámetros de rendimiento como el Mean Square Error (MSE), la Signal to Noise Ratio (SNR), Positive Peak y Total Harmonic Distortion (THD). Un filtro bien diseñado debería mejorar el SNR, reducir el MSE y minimizar el THD. El estudio concluyó que la ventana Kaiser ofrece el mejor rendimiento en la eliminación de ruido, seguido por la ventana rectangular. La ventana Hamming también mostró una efectividad notable, particularmente en la eliminación de ruido muscular en las señales de ECG, aunque su rendimiento generalmente no alcanza el de las ventanas Kaiser o Rectangular, pero aun así presenta resultados satisfactorios [5]. 
+
+Para el diseño de nuestro filtro, optamos por utilizar un filtro FIR empleando ventanas Rectangular y Hamming. Según la literatura revisada, estas ventanas son efectivas para atenuar el ruido en señales de ECG. Aunque la ventana Kaiser fue identificada como la mejor opción para este propósito, no fue considerada porque no estaba dentro de las opciones disponibles. Al analizar los gráficos resultantes de nuestro proceso de filtrado, es evidente que el filtro FIR con ventana rectangular reduce el ruido de manera más significativa en comparación con el uso de la ventana Hamming.
+
 
 ---
 ## Bibliografía 
@@ -140,4 +144,6 @@ Además, la correcta supresión de la fluctuación de la línea de base (BLF) es
 [3] Mello, R. G. T., Oliveira, L. F., & Nadal, J. (2007). "Digital Butterworth filter for subtracting noise from low magnitude surface electromyogram". Computer Methods and Programs in Biomedicine, 87(1), 28–35. https://doi.org/10.1016/j.cmpb.2007.04.004.
 
 [4] Rodríguez-Carreño, I., Malanda-Trigueros, A., Gila-Useros, L., Navallas-Irujo, J., & Rodríguez-Falces, J. (2006). Filter design for cancellation of baseline-fluctuation in needle EMG recordings. Computer Methods and Programs in Biomedicine, 81(1), 79–93. https://doi.org/10.1016/j.cmpb.2005.11.002. 
+
+[5] “Noise Removal in ECG Signal using Windowing Technique and its Optimization,” Advances in Biotechnology & Microbiology, vol. 6, no. 1, Aug. 2017, doi: https://doi.org/10.19080/aibm.2017.06.555676.
 
