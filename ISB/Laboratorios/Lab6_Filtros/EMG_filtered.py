@@ -81,9 +81,9 @@ emg_filtered = lfilter(filtro_fir_emg, 1, signalemg)
 
 
 
-plt.figure(figsize=(10, 8))  # Increase the figure size for better visibility
+plt.figure(figsize=(10, 8))  # Tamaño de la figura
 
-# Plot the first graph
+# Ploteo de la primera grafica
 plt.subplot(3, 1, 1)  # (rows, columns, panel number)
 plt.plot(t_emg, signalemg, label="señal")     
 plt.grid(linestyle=":")
@@ -92,22 +92,20 @@ plt.ylabel("Amplitud")
 plt.legend(loc="upper right")
 plt.title("Señal EMG - Kim - Sin Filtrar")
 
-# Plot the second graph
+# Ploteo de la segunda grafica
 plt.subplot(3, 1, 2)
-plt.plot(t_emg, emg_filtered, 'r', label='Señal de EMG Sujeto Femenino filtrada')
+plt.plot(t_emg, emg_filtered, 'r', label='Señal de EMG Filtrada')
 plt.title('Señal EMG - Kim - Filtro IIR Butterworth Bandpass')
 plt.xlabel('Tiempo (s)')
 plt.ylabel('Amplitud')
 
-# Plot the third graph
+# Ploteo de la tercera grafica
 plt.subplot(3, 1, 3)
 plt.plot(t_emg, emg_filtered, 'r', label='Señal EEG filtrada')
 plt.title('Señal EMG - Kim - Filtro FIR con ventana Hamming')
 plt.xlabel('Tiempo (s)')
 plt.ylabel('Amplitud')
 
-# Adjust layout to prevent overlap
+#Ajustar la grafica 
 plt.tight_layout()
-
-# Show the plots
 plt.show()
