@@ -134,6 +134,9 @@ En la investigación llevada a cabo por Priyanka y Gurjit Kaur, se exploró la e
 
 Para el diseño de nuestro filtro, optamos por utilizar un filtro FIR empleando ventanas Rectangular y Hamming. Según la literatura revisada, estas ventanas son efectivas para atenuar el ruido en señales de ECG. Aunque la ventana Kaiser fue identificada como la mejor opción para este propósito, no fue considerada porque no estaba dentro de las opciones disponibles. Al analizar los gráficos resultantes de nuestro proceso de filtrado, es evidente que el filtro FIR con ventana rectangular reduce el ruido de manera más significativa en comparación con el uso de la ventana Hamming.
 
+En el estudio "Suppression of Noise in ECG Signal Using Low pass IIR Filters" realizado por Mohandas Choudhary y Ravindra Pratap Narwaria, se investiga la eliminación de ruido en señales ECG a través del uso de filtros IIR de paso bajo. Los autores evalúan y comparan la eficacia de tres tipos de filtros: Butterworth, Chebyshev Tipo I y Chebyshev Tipo II. Sus hallazgos indican que el filtro Butterworth de paso bajo sobresale en la reducción de ruido, en comparación con los filtros Chebyshev Tipo I y Tipo II [6].
+
+Por ello, basado en la literatura revisada, se diseñó un filtro IIR Butterworth low pass para el filtrado de las señales ECG en los distintos estados. 
 
 ---
 ## Bibliografía 
@@ -146,4 +149,7 @@ Para el diseño de nuestro filtro, optamos por utilizar un filtro FIR empleando 
 [4] Rodríguez-Carreño, I., Malanda-Trigueros, A., Gila-Useros, L., Navallas-Irujo, J., & Rodríguez-Falces, J. (2006). Filter design for cancellation of baseline-fluctuation in needle EMG recordings. Computer Methods and Programs in Biomedicine, 81(1), 79–93. https://doi.org/10.1016/j.cmpb.2005.11.002. 
 
 [5] “Noise Removal in ECG Signal using Windowing Technique and its Optimization,” Advances in Biotechnology & Microbiology, vol. 6, no. 1, Aug. 2017, doi: https://doi.org/10.19080/aibm.2017.06.555676.
+
+[6] C. Mohandas, “Suppression of Noise in ECG Signal Using Low pass IIR Filters ,” International Journal of Electronics and Computer Science Engineering, vol. 1, no. 4, Available: https://citeseerx.ist.psu.edu/document?repid=rep1&amp;type=pdf&amp;doi=a361a547eedcc1f37ac007cc03ad7b93073aaf3a
+
 
