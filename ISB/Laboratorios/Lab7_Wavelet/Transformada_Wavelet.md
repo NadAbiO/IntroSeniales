@@ -68,6 +68,7 @@ Para la toma del umbral de los filtros se utilizó una formula en la cual se uti
 ## Gráficos de resultados
 #### EEG
 ![w1](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab7_Wavelet/EEG/w1.png?raw=true)
+![w4](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab7_Wavelet/EEG/w4.png?raw=true)
 
 
 
