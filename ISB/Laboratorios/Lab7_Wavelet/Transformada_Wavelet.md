@@ -67,15 +67,19 @@ Para la toma del umbral de los filtros se utilizó una formula en la cual se uti
 ---
 ## Gráficos de resultados
 #### EEG
-![w1](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab7_Wavelet/EEG/w1.png?raw=true)
-![w4](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab7_Wavelet/EEG/w4.png?raw=true)
 
+| Muestra 1 | Muestra 2 | 
+|--------------|:------------:|
+| ![w1](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab7_Wavelet/EEG/w1.png?raw=true) |  ![w4](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab7_Wavelet/EEG/w4.png?raw=true) |  
 
 
 ---
 ## Archivos
 - [ECG (.txt)](https://github.com/NadAbiO/IntroSeniales/blob/6abf1eb74153f9200835076af4d8b57692140198/ISB/Laboratorios/Lab7_Wavelet/ECG/bruno_reposo.txt)
 - [EEG (.txt)](https://github.com/NadAbiO/IntroSeniales/blob/6abf1eb74153f9200835076af4d8b57692140198/ISB/Laboratorios/Lab7_Wavelet/EEG/bruno1.txt)
+
+
+
 ---
 ## Discusión
 
