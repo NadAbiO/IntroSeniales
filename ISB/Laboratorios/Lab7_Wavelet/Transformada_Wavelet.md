@@ -33,14 +33,14 @@
 |:-----------:|:-----:|:-------:|
 |1|Laptop|Visualización y procesamiento de las señales con lenguaje de programación|
 ---
-## Entregable:
+# Entregable:
 En este laboratorio, se llevó a cabo una tabulación de datos con el objetivo de analizar y visualizar de manera más precisa y ordenada las señales de ECG y EEG previamente adquiridas cin BITalino. 
 
  [ECG (.txt)](https://github.com/NadAbiO/IntroSeniales/blob/6abf1eb74153f9200835076af4d8b57692140198/ISB/Laboratorios/Lab7_Wavelet/ECG/bruno_reposo.txt)
  
  [EEG (.txt)](https://github.com/NadAbiO/IntroSeniales/blob/6abf1eb74153f9200835076af4d8b57692140198/ISB/Laboratorios/Lab7_Wavelet/EEG/bruno1.txt)
 
-### Introducción
+## Introducción
 
 #### ¿Qué es Transformada Discreta Wavelet?
 
