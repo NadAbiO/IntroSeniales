@@ -46,11 +46,16 @@ En este laboratorio, se llevó a cabo una tabulación de datos con el objetivo d
 
 La transformada Wavelet (WT) es una técnica comúnmente empleada para reducir el ruido y extraer características de imágenes biomédicas. La efectividad del proceso de eliminación de ruido depende en gran medida de la configuración seleccionada para el sistema WT [1].
 
+### Para EMG
+El electromiograma (EMG) mide la actividad eléctrica de los músculos y es crucial para aplicaciones biomédicas. Las señales EMG suelen estar contaminadas por ruido, complicando su análisis. La transformada wavelet es altamente efectiva para eliminar este ruido, permitiendo una descomposición multirresolución de la señal. Usando wavelets como Daubechies (db2, db6, db8) y Meyer ortogonal, se pueden identificar y suprimir los componentes de ruido sin perder información importante. El proceso incluye la descomposición de la señal en varios niveles de resolución, la aplicación de un umbral a los coeficientes wavelet y la reconstrucción de la señal denoised. Esta técnica supera a los métodos de filtrado tradicionales, mejorando la calidad de las señales EMG para su análisis posterior. [5]
+
 #### Para ECG
 Las enfermedades cardiovasculares son una de las principales causas de muerte a nivel mundial. La monitorización diaria de las señales del electrocardiograma (ECG) es crucial para su prevención, diagnóstico y tratamiento. Sin embargo, las señales captadas por sensores portátiles son susceptibles a interferencias y ruidos. Por ello, es esencial filtrar el ruido antes de analizar las señales cardiacas, ya que afecta la precisión del sistema de detección. Existen diversas técnicas de eliminación de ruido, como el filtrado digital, la reducción adaptativa de ruido y la transformada wavelet. Esta última es especialmente efectiva para señales biomédicas no estacionarias y se ha mejorado en los últimos años para optimizar la eliminación de ruido en señales cardiacas.[2]
 
 #### Para EEG
 La electroencefalografía (EEG) registra la actividad eléctrica del cerebro y su uso en investigaciones ha aumentado con los años. Es crucial procesar eficazmente los datos de EEG para mejorar la calidad de la señal. La transformada wavelet es un método destacado para el análisis en el dominio tiempo-frecuencia, superior a la transformada de Fourier por su buena localización tiempo-frecuencia y capacidad de análisis multiresolución, lo que permite extraer eficientemente información transitoria de las señales EEG.[3]
+
+
 
 ---
 
@@ -94,6 +99,10 @@ Para la toma del umbral de los filtros se utilizó una formula en la cual se uti
 [3] S. N. S. S. Daud and R. Sudirman, “Wavelet based filters for artifact elimination in Electroencephalography Signal: A review ,” SpringerLink. Accedido el 17 de mayo de 2024.[Online]. Available: https://doi.org/10.1007/s10439-022-03053-5
 
 [4]	M. Mamun, M. Al-Kadi, y M. Marufuzzaman, “Effectiveness of wavelet denoising on electroencephalogram signals”, J. Appl. Res. Technol., vol. 11, núm. 1, pp. 156–160, 2013. Accedido el 17 de mayo de 2024.[Online]. Available: https://doi.org/10.1016/S1665-6423(13)71524-4
+
+[5] N. M. Sobahi, "Denoising of EMG Signals Based on Wavelet Transform," Asian Transactions on Engineering (ATE ISSN: 2221-4267), vol. 1, no. 5, pp. 17-23, 2011. [Online]. Available: https://www.researchgate.net/publication/267957236_Denoising_of_EMG_Signals_Based_on_Wavelet_Transform
+
+
 
 
 
