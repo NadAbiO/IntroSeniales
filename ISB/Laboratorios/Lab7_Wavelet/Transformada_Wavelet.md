@@ -12,6 +12,9 @@
 * [Bibliografía](#bibliografía)
 
 ## Objetivos:
+- Entender los principios básicos del filtro wavelet.
+- Utilizar el filtro wavelet en señales de EMG, ECG y EEG.
+- Evaluar las señales filtradas.
 
 ---
 ## Materiales y equipos:
