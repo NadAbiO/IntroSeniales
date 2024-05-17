@@ -13,7 +13,7 @@
 
 ## Objetivos:
 - Entender los principios básicos del filtro wavelet.
-- Utilizar el filtro wavelet en señales de EMG, ECG y EEG.
+- Utilizar el filtro wavelet en señales de ECG y EEG.
 - Evaluar las señales filtradas.
 
 ---
@@ -34,7 +34,11 @@
 |1|Laptop|Visualización y procesamiento de las señales con lenguaje de programación|
 ---
 ## Entregable:
+En este laboratorio, se llevó a cabo una tabulación de datos con el objetivo de analizar y visualizar de manera más precisa y ordenada las señales de ECG y EEG previamente adquiridas cin BITalino. 
+- Lectura de ECG
+- Lectura de EEG
 
+A estas señales se les aplicará un filtro para luego analizarlas.
 
 ### Introducción
 
