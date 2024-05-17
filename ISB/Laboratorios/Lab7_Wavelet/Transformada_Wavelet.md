@@ -59,6 +59,10 @@ La electroencefalografía (EEG) registra la actividad eléctrica del cerebro y s
 Se utilizó un artículo en el cual usan distintas ondas wavelet para filtrar ruidos de la data de EEG recolectada. En el estudio, se comprobó que l onda wavelet db8 es la mejor para analisis de EEG en paciences sanos. 
 Para la toma del umbral de los filtros se utilizó una formula en la cual se utilizó la desviación media absoluta (usando la media de cada coeficiente del filtro Wavelet) y la cantidad de muestras. [4]
 
+[Colab muestra 1](https://colab.research.google.com/drive/1eUaBxhaQXpU8WfdU1FeMOJBCxhVQ00yy?usp=sharing)
+
+[Colab muestra 2](https://colab.research.google.com/drive/1UXi7iKzdLzqB8rShkmAx6oaGnAhum5fr?usp=sharing)
+
 
 ---
 ## Gráficos de resultados
