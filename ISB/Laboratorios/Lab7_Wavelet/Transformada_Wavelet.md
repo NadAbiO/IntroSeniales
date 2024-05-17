@@ -52,6 +52,11 @@ Las enfermedades cardiovasculares son una de las principales causas de muerte a 
 #### Para EEG
 La electroencefalografía (EEG) registra la actividad eléctrica del cerebro y su uso en investigaciones ha aumentado con los años. Es crucial procesar eficazmente los datos de EEG para mejorar la calidad de la señal. La transformada wavelet es un método destacado para el análisis en el dominio tiempo-frecuencia, superior a la transformada de Fourier por su buena localización tiempo-frecuencia y capacidad de análisis multiresolución, lo que permite extraer eficientemente información transitoria de las señales EEG.[3]
 ---
+
+## Metodología
+
+
+---
 ## Gráficos de resultados
 
 
