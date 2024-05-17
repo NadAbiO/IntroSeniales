@@ -62,6 +62,12 @@ La electroencefalografía (EEG) registra la actividad eléctrica del cerebro y s
 ---
 
 ## Metodología
+
+#### Para EMG
+Se utilizó un artículo en el cual se aplican distintas ondas wavelet para filtrar ruidos de la data de EMG recolectada. En el estudio, se comprobó que las ondas wavelet db2, db6 y db8 son efectivas para el análisis de señales EMG en pacientes sanos. Para determinar el umbral de los filtros, se utilizó una fórmula basada en la desviación media absoluta (usando la mediana de cada coeficiente del filtro Wavelet) y la cantidad de muestras. [5]
+
+[Codigo en python](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab7_Wavelet/EMG/EMG_Filter.py)
+
 #### Para EEG
 Se utilizó un artículo en el cual usan distintas ondas wavelet para filtrar ruidos de la data de EEG recolectada. En el estudio, se comprobó que l onda wavelet db8 es la mejor para analisis de EEG en paciences sanos. 
 Para la toma del umbral de los filtros se utilizó una formula en la cual se utilizó la desviación media absoluta (usando la media de cada coeficiente del filtro Wavelet) y la cantidad de muestras. [4]
@@ -73,6 +79,13 @@ Para la toma del umbral de los filtros se utilizó una formula en la cual se uti
 
 ---
 ## Gráficos de resultados
+
+#### EMG
+| Muestra 1 |
+|--------------|
+| ![](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab7_Wavelet/EMG/EMG%20wavelet%20filter.png) |
+
+
 #### EEG
 
 | Muestra 1 | Muestra 2 | 
