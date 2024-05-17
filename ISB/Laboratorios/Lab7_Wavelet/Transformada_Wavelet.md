@@ -46,7 +46,7 @@ En este laboratorio, se llevó a cabo una tabulación de datos con el objetivo d
 
 La transformada Wavelet (WT) es una técnica comúnmente empleada para reducir el ruido y extraer características de imágenes biomédicas. La efectividad del proceso de eliminación de ruido depende en gran medida de la configuración seleccionada para el sistema WT [1].
 
-### Para EMG
+#### Para EMG
 El electromiograma (EMG) mide la actividad eléctrica de los músculos y es crucial para aplicaciones biomédicas. Las señales EMG suelen estar contaminadas por ruido, complicando su análisis. La transformada wavelet es altamente efectiva para eliminar este ruido, permitiendo una descomposición multirresolución de la señal. Usando wavelets como Daubechies (db2, db6, db8) y Meyer ortogonal, se pueden identificar y suprimir los componentes de ruido sin perder información importante. El proceso incluye la descomposición de la señal en varios niveles de resolución, la aplicación de un umbral a los coeficientes wavelet y la reconstrucción de la señal denoised. Esta técnica supera a los métodos de filtrado tradicionales, mejorando la calidad de las señales EMG para su análisis posterior. [5]
 
 #### Para ECG
