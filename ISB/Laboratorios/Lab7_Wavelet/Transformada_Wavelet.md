@@ -1,4 +1,4 @@
-# Laboratorio 7: TRANSFORMADA WAVELET
+# Laboratorio 7: Filtrado de las señales Transformada Discreta Wavelet
 
 ## Tabla de contenidos:
 * [Objetivos](#objetivos)
