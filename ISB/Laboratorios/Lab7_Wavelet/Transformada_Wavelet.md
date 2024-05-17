@@ -1,4 +1,4 @@
-# Laboratorio 8: TRANSFORMADA WAVELET
+# Laboratorio 7: TRANSFORMADA WAVELET
 
 ## Tabla de contenidos:
 * [Objetivos](#objetivos)
