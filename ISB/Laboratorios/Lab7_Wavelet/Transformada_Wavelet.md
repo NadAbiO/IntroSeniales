@@ -35,8 +35,8 @@
 ---
 ## Entregable:
 En este laboratorio, se llevó a cabo una tabulación de datos con el objetivo de analizar y visualizar de manera más precisa y ordenada las señales de ECG y EEG previamente adquiridas cin BITalino. 
-- Lectura de ECG
-- Lectura de EEG
+- [ECG (.txt)]()
+- [EEG (.txt)]()
 
 A estas señales se les aplicará un filtro para luego analizarlas.
 
