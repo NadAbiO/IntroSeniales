@@ -54,6 +54,9 @@ La electroencefalografía (EEG) registra la actividad eléctrica del cerebro y s
 ---
 
 ## Metodología
+#### Para EEG
+Se utilizó un artículo en el cual usan distintas ondas wavelet para filtrar ruidos de la data de EEG recolectada. En el estudio, se comprobó que l onda wavelet db8 es la mejor para analisis de EEG en paciences sanos. 
+Para la toma del umbral de los filtros se utilizó una formula en la cual se utilizó la desviación media absoluta (usando la media de cada coeficiente del filtro Wavelet) y la cantidad de muestras. [4]
 
 
 ---
@@ -77,5 +80,8 @@ La electroencefalografía (EEG) registra la actividad eléctrica del cerebro y s
 [2] Y. KAIMIN, L. FENG, W. MINFENG, and C. WEB, “Accurate wavelet thresholding method for ECG Signals,” Computers in Biology and Medicine. Accedido el 17 de mayo de 2024.[Online]. Available: https://doi.org/10.1016/j.compbiomed.2023.107835 
 
 [3] S. N. S. S. Daud and R. Sudirman, “Wavelet based filters for artifact elimination in Electroencephalography Signal: A review ,” SpringerLink. Accedido el 17 de mayo de 2024.[Online]. Available: https://doi.org/10.1007/s10439-022-03053-5
+
+[4]	M. Mamun, M. Al-Kadi, y M. Marufuzzaman, “Effectiveness of wavelet denoising on electroencephalogram signals”, J. Appl. Res. Technol., vol. 11, núm. 1, pp. 156–160, 2013. Accedido el 17 de mayo de 2024.[Online]. Available: https://doi.org/10.1016/S1665-6423(13)71524-4
+
 
 
