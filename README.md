@@ -40,18 +40,40 @@ El objetivo es comparar las ondas cerebrales de personas con sueño completo y d
 <details>
 <summary>  Primer entregable</summary>
 
-### Temas a tratar:
- 1.- Electroencefalograma y ondas cerebrales
+# Temas a tratar:
+ ## 1.- Electroencefalograma y ondas cerebrales
 
- 2.- Importancia del sueño
+ ## 2.- Importancia del sueño
 
- 3.- Bebidas energéticas y estudiantes universitarios
+ ## 3.- Bebidas energéticas y estudiantes universitarios
 
- 4.- Insomnio
+ ## 4.- Insomnio
 
-##### Descarga el archivo PPT -> [aquí](Documentos/Señales_problematica.pdf).
+#### Descarga el archivo PPT -> [aquí](Documentos/Señales_problematica.pdf).
 
 </details>
+
+
+<details>
+<summary> Segundo entregable</summary>
+
+# Temas a tratar:
+ ## 1.- Problemática
+ RESUMIR
+
+ ## 2.- Uso del Ultracortex
+ RESUMIR
+
+ ## 3.- Lóbulos cerebrales y frecuencias de interés 
+ RESUMIR
+
+ ## 4.- Estimulación cerebral
+  RESUMIR
+
+#### Descarga el archivo PPT -> 
+
+</details>
+
 
 <details>
 <summary> Bibliografía </summary>
