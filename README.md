@@ -64,8 +64,8 @@ El objetivo es comparar las ondas cerebrales de personas con sueño completo y d
 
  ## 2.- Propuesta de solución
  
- -Debe ayudar a solucionar el problema planteado
- Debe tener al menos una característica innovadora o enfoque de investigación
+ - Debe ayudar a solucionar el problema planteado
+ - Debe tener al menos una característica innovadora o enfoque de investigación
 
  ## 3.- Materiales y métodos
 
