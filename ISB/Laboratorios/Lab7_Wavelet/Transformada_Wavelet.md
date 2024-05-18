@@ -8,7 +8,7 @@
   * [Metodología](#metodología)
   * [Gráficos de resultados](#gráficos-de-resultados)
   * [Archivos](#archivos)
-* [Discusión](#discusión)
+* [Conclusión](#conclusion)
 * [Bibliografía](#bibliografía)
 
 ## Objetivos:
@@ -119,7 +119,7 @@ Se esta analizando una señal ECG en reposo, se puede observar que hay un mejor 
 
 
 ---
-## Discusión
+## Conclusión
 
 
 ---
