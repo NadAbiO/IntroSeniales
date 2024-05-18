@@ -121,6 +121,7 @@ Se esta analizando una señal ECG en reposo, se puede observar que hay un mejor 
 ---
 ## Conclusión
 
+La transformada Wavelet (WT) se ha consolidado como una técnica fundamental en el análisis y mejora de señales biomédicas, debido a su capacidad para reducir ruido y extraer características valiosas de manera eficiente. Esta metodología es particularmente efectiva en la filtración de señales de electromiograma (EMG) y electrocardiograma (ECG), donde el ruido puede obstruir el análisis clínico.  Además, la WT ofrece ventajas sobre técnicas tradicionales al proporcionar una descomposición que se adapta bien a la naturaleza de las señales biomédicas, lo que es esencial para la monitorización precisa de condiciones como las enfermedades cardiovasculares y para investigaciones neurocientíficas que utilizan EEG. En suma, la transformada Wavelet no solo optimiza el procesamiento de señales en aplicaciones biomédicas sino que también abre caminos hacia análisis más precisos y diagnósticos más acertados.
 
 ---
 ## Bibliografía 
