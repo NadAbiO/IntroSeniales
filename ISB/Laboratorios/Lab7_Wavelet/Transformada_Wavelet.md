@@ -59,6 +59,7 @@ La electroencefalografía (EEG) registra la actividad eléctrica del cerebro y s
 
 
 
+
 ---
 
 ## Metodología
@@ -76,7 +77,8 @@ Para la toma del umbral de los filtros se utilizó una formula en la cual se uti
 
 [Colab muestra 2](https://colab.research.google.com/drive/1UXi7iKzdLzqB8rShkmAx6oaGnAhum5fr?usp=sharing)
 
-
+#### Para ECG
+Se utilizó un estudio el cual emplea la transformada wavelet para lograr un filtrado efectivo de la señal de electrocardiograma (ECG). Los resultados de dicho estudio, indicaron que la técnica más eficaz para eliminar el ruido de la señal se logró utilizando el wavelet Coiflets 5 combinado con un método de umbralización rígida ("rigid thresholding"). Además, se observó que el wavelet Symlet 8, aplicado mediante un método de umbralización suave ("soft thresholding"), también proporciona resultados significativos en el filtrado del ruido de la señal.
 ---
 ## Gráficos de resultados
 
