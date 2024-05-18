@@ -60,7 +60,13 @@ El objetivo es comparar las ondas cerebrales de personas con sueño completo y d
 # Temas a tratar:
  ## 1.- Problemática
 
-  Debe estar sustentado por la literatura.
+ El sueño es una función vital para el bienestar físico y mental, especialmente en estudiantes universitarios, quienes frecuentemente enfrentan desafíos académicos y sociales que pueden afectar su calidad de sueño. La falta de sueño adecuado puede llevar a una disminución del rendimiento académico, problemas de atención y memoria, y un aumento en el riesgo de desarrollar problemas de salud mental como ansiedad y depresión. Entre los factores que influyen en el sueño, el consumo de bebidas energéticas ha ganado atención debido a su popularidad y sus posibles efectos adversos.[2][3][5]
+ 
+Las bebidas energéticas contienen ingredientes como la cafeína y la taurina, que actúan sobre el sistema nervioso central. La cafeína tiene múltiples objetivos bioquímicos, incluyendo los receptores GABA y adenosina A1 y A2A. Bloquear estos receptores, especialmente los de adenosina A2A, se relaciona con propiedades psicoactivas como el aumento de la capacidad intelectual, alerta y reducción de la fatiga mental. Sin embargo, su consumo excesivo puede interferir con el sueño, causando insomnio, ansiedad y afectando negativamente la función cognitiva a largo plazo. Además, altas dosis de cafeína pueden aumentar el riesgo de alucinaciones y reducir el umbral convulsivo. [4][6][7]
+
+La taurina, aunque puede tener efectos neuroprotectores, también puede impactar negativamente la función cognitiva y el comportamiento, especialmente en jóvenes adultos. La taurina afecta al sistema nervioso interactuando con neurotransmisores y regiones cerebrales, lo que sugiere un posible papel neuroprotector. Sin embargo, su suplementación podría tener efectos negativos en la función cognitiva y el comportamiento, especialmente en adolescentes y adultos jóvenes. [6][7]
+El insomnio crónico tiene graves consecuencias para la calidad de vida y la salud: afecta negativamente el funcionamiento físico, emocional y social de las personas; aumenta el riesgo de accidentes, incluidos accidentes laborales; disminuye la productividad y la concentración en el trabajo; y está asociado con una mayor probabilidad de desarrollar depresión y ansiedad..[8]
+
 
  ## 2.- Propuesta de solución
  
