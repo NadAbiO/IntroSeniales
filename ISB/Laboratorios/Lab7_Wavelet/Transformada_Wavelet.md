@@ -132,6 +132,9 @@ Por lo tanto, en base de la literatura, para el filtrado de nuestra señal ECG u
 
 [5] N. M. Sobahi, "Denoising of EMG Signals Based on Wavelet Transform," Asian Transactions on Engineering (ATE ISSN: 2221-4267), vol. 1, no. 5, pp. 17-23, 2011. [Online]. Available: https://www.researchgate.net/publication/267957236_Denoising_of_EMG_Signals_Based_on_Wavelet_Transform
 
+[6] B. B. Saidov and V. F. Telezhkin, “Optimum ECG Signal Filtering Based on Wavelet Transformation,” Bulletin of the South Ural State University. Ser. Computer Technologies, Automatic Control & Radioelectronics, vol. 21, no. 4, pp. 167–172, Nov. 2021, doi: https://doi.org/10.14529/ctcr210415.
+‌
+
 
 
 
