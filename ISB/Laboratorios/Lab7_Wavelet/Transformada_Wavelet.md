@@ -95,7 +95,7 @@ Para la toma del umbral de los filtros se utilizó una formula en la cual se uti
 #### EMG
 | Señal en reposo |
 |-----------------|
-| <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/ECG_wavelet.png" alt="ECG Wavelet" width="300" height="200"> |
+| <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/ECG_wavelet.png" alt="ECG Wavelet" width="800" height="500"> |
 
 
 
