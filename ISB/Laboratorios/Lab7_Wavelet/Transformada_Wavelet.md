@@ -8,7 +8,7 @@
   * [Metodología](#metodología)
   * [Gráficos de resultados](#gráficos-de-resultados)
   * [Archivos](#archivos)
-* [Conclusión](#conclusion)
+* [Conclusión](#conclusión)
 * [Bibliografía](#bibliografía)
 
 ## Objetivos:
