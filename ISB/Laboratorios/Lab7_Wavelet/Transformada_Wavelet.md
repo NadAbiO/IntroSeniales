@@ -103,15 +103,17 @@ Por lo tanto, en base de la literatura, para el filtrado de nuestra señal ECG u
 |-----------------|
 | <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/ECG_wavelet.png" alt="ECG Wavelet" width="800" height="500"> |
 
-
-
-
+Se esta analizando una señal ECG en reposo, se puede observar que hay un mejor filtrado del ruido utilizando el wavelet Symlet 8 (sym8).
 
 
 ---
 ## Archivos
 - [ECG (.txt)](https://github.com/NadAbiO/IntroSeniales/blob/6abf1eb74153f9200835076af4d8b57692140198/ISB/Laboratorios/Lab7_Wavelet/ECG/bruno_reposo.txt)
 - [EEG (.txt)](https://github.com/NadAbiO/IntroSeniales/blob/6abf1eb74153f9200835076af4d8b57692140198/ISB/Laboratorios/Lab7_Wavelet/EEG/bruno1.txt)
+- [ECG (.txt)](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab7_Wavelet/ECG/bruno_reposo.txt)
+
+
+  
 
 
 
