@@ -77,8 +77,11 @@ Para la toma del umbral de los filtros se utilizó una formula en la cual se uti
 
 [Colab muestra 2](https://colab.research.google.com/drive/1UXi7iKzdLzqB8rShkmAx6oaGnAhum5fr?usp=sharing)
 
-#### Para ECG
-Se utilizó un estudio el cual emplea la transformada wavelet para lograr un filtrado efectivo de la señal de electrocardiograma (ECG). Los resultados de dicho estudio, indicaron que la técnica más eficaz para eliminar el ruido de la señal se logró utilizando el wavelet Coiflets 5 combinado con un método de umbralización rígida ("rigid thresholding"). Además, se observó que el wavelet Symlet 8, aplicado mediante un método de umbralización suave ("soft thresholding"), también proporciona resultados significativos en el filtrado del ruido de la señal.
+
+Se utilizó un estudio el cual empleó la transformada wavelet para lograr un filtrado efectivo de la señal de electrocardiograma (ECG). Los resultados de dicho estudio, indicaron que la técnica más eficaz para eliminar el ruido de la señal se logró utilizando el wavelet Coiflets 5 con un método de umbralización rígida ("rigid thresholding"). Además, se observó que el wavelet Symlet 8, aplicado mediante un método de umbralización suave ("soft thresholding"), también proporciona resultados significativos en el filtrado del ruido de la señal.[6]
+Por lo tanto, en base de la literatura, para el filtrado de nuestra señal ECG utilizamos los wavelet Coiflets 5 (coif5) y el Symlet 8 (sym8). Para determinar el umbral de los filtros, se utilizó una formula en la cual se utilizó la desviación media absoluta (usando la media de cada coeficiente del filtro Wavelet) y la cantidad de muestras.
+
+
 ---
 ## Gráficos de resultados
 
