@@ -93,9 +93,9 @@ Para la toma del umbral de los filtros se utilizó una formula en la cual se uti
 | ![w1](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab7_Wavelet/EEG/w1.png?raw=true) |  ![w4](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab7_Wavelet/EEG/w4.png?raw=true) |  
 
 #### EMG
-| Señal en reposo|
-|--------------|
-<img src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/ECG_wavelet.png" alt="ECG Wavelet" width="400" height="250"
+| Señal en reposo |
+|-----------------|
+| <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/ECG_wavelet.png" alt="ECG Wavelet" width="300" height="200"> |
 
 
 
