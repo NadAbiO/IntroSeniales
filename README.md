@@ -74,8 +74,19 @@ El insomnio crónico tiene graves consecuencias para la calidad de vida y la sal
  - Debe tener al menos una característica innovadora o enfoque de investigación
 
  ## 3.- Materiales y métodos
+ 
+3.1 Materiales y recursos
 
-  
+| **Materiales** | 
+| ---------|
+| Encuesta| 
+| Ultracortex|
+| OpenBCI GUI|
+| Ambiente relajado| 
+| Pruebas cognitivas| 
+| Procesamiento de señales: Código en Python| 
+| Análisis estadístico: Stata| 
+
 - Debe explicar el plan de análisis de los datos resultantes del procesamiento de las señales (pruebas estadísticas como mínimo). (máx 3 pts)
 - Todos los materiales y/o recursos deben estar identificados, incluido bases de datos (máx 3 pts)
  
