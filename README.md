@@ -32,7 +32,7 @@
 
 
 ## Objetivo
-El objetivo es comparar las ondas cerebrales de personas con sueño completo y de aquellas que consumen bebidas energéticas, utilizando un mismo estímulo. Se busca analizar cómo afecta el consumo de estas bebidas a la actividad cerebral en comparación con un estado de sueño normal, lo que puede tener implicaciones en el rendimiento cognitivo y en la salud mental.
+<p align="justify"> El objetivo es comparar las ondas cerebrales de personas con sueño completo y de aquellas que consumen bebidas energéticas, utilizando un mismo estímulo. Se busca analizar cómo afecta el consumo de estas bebidas a la actividad cerebral en comparación con un estado de sueño normal, lo que puede tener implicaciones en el rendimiento cognitivo y en la salud mental.
 
 ---
 
@@ -60,7 +60,7 @@ El objetivo es comparar las ondas cerebrales de personas con sueño completo y d
 # Temas a tratar:
  ## 1.- Problemática
 
- El sueño es una función vital para el bienestar físico y mental, especialmente en estudiantes universitarios, quienes frecuentemente enfrentan desafíos académicos y sociales que pueden afectar su calidad de sueño. La falta de sueño adecuado puede llevar a una disminución del rendimiento académico, problemas de atención y memoria, y un aumento en el riesgo de desarrollar problemas de salud mental como ansiedad y depresión. Entre los factores que influyen en el sueño, el consumo de bebidas energéticas ha ganado atención debido a su popularidad y sus posibles efectos adversos.[2][3][5]
+<p align="justify"> El sueño es una función vital para el bienestar físico y mental, especialmente en estudiantes universitarios, quienes frecuentemente enfrentan desafíos académicos y sociales que pueden afectar su calidad de sueño. La falta de sueño adecuado puede llevar a una disminución del rendimiento académico, problemas de atención y memoria, y un aumento en el riesgo de desarrollar problemas de salud mental como ansiedad y depresión. Entre los factores que influyen en el sueño, el consumo de bebidas energéticas ha ganado atención debido a su popularidad y sus posibles efectos adversos.[2][3][5]
  
 Las bebidas energéticas contienen ingredientes como la cafeína y la taurina, que actúan sobre el sistema nervioso central. La cafeína tiene múltiples objetivos bioquímicos, incluyendo los receptores GABA y adenosina A1 y A2A. Bloquear estos receptores, especialmente los de adenosina A2A, se relaciona con propiedades psicoactivas como el aumento de la capacidad intelectual, alerta y reducción de la fatiga mental. Sin embargo, su consumo excesivo puede interferir con el sueño, causando insomnio, ansiedad y afectando negativamente la función cognitiva a largo plazo. Además, altas dosis de cafeína pueden aumentar el riesgo de alucinaciones y reducir el umbral convulsivo. [4][6][7]
 
@@ -148,7 +148,9 @@ El uso prolongado de energizantes y la mala calidad del sueño afectan negativam
 
   - - ***OPENBCI GUI***
       
+      <p align="justify"> 
       Para seleccionar los canales correspondientes a los lóbulos frontal y temporal en OpenBCI, luego de conectar los electrodos al dispositivo OpenBCI, seguiremos estos pasos:
+      
       1. **Conectamos y configuramos nuestro dispositivo OpenBCI**
          
       2. **Seleccionamos los canales de interés:**
