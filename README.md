@@ -89,7 +89,7 @@ El uso prolongado de energizantes y la mala calidad del sueño afectan negativam
 
  ## 3.- Materiales y métodos
  
-## 3.1 Materiales y recursos
+### 3.1 Materiales y recursos
 
 | **Materiales** | 
 | ---------|
@@ -163,12 +163,12 @@ El uso prolongado de energizantes y la mala calidad del sueño afectan negativam
          Una vez que hayamos seleccionado los canales de interés y estemos visualizando las señales, podemos comenzar la adquisición de datos. Esto registrará la actividad eléctrica en los lóbulos frontal y temporal según la colocación de nuestros electrodos.
   
 
-##  3.2 Preparación del grupo de estudio
+###  3.2 Preparación del grupo de estudio
 
 - **Participantes objetivo**: Se buscó estudiantes universitarios entre 19-25 años, con diferentes niveles de consumo de bebidas energéticas y calidad de sueño. Que sean no fumadoras y que no consuman ninguna sustancia psicoactiva o psicotrópica.
 - **Cuestionarios**: Se administraron cuestionarios para evaluar el consumo de bebidas energéticas y la calidad del sueño de los participantes.
   
-##  3.3 Procedimiento
+### 3.3 Procedimiento
 
  - ***Reclutamiento de participantes***
 Se reúne a estudiantes universitarios que cumplan con los criterios de elegibilidad. Se les explica el estudio y se asegura que todos los participantes firmen un formulario de consentimiento informado, detallando el propósito del estudio y los procedimientos. Se les clasifica en grupos según su consumo de cafeína y calidad de sueño.
