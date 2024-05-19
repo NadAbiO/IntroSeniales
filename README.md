@@ -193,7 +193,7 @@ Realizar la adquisición de EEG mientras los participantes completan las tareas 
 - **Stroop Test**: El test de Stroop evalúa la atención focalizada y examina la capacidad integrativa de los mecanismos cognitivos para tomar decisiones basadas en información proveniente de dos modalidades diferentes (léxica y perceptual). En la primera parte del test, se pide a los sujetos que lean los nombres de diferentes colores. Luego, deben nombrar el color de impresión de una palabra que denota un color diferente; por ejemplo, leer la palabra "azul" impresa en verde, lo que crea una interferencia color-palabra. Se instruye a los sujetos para que realicen la tarea tan rápido y precisamente como sea posible [X].
 - **Digit Span**: La prueba de Amplitud de Dígitos es parte de la Escala de Inteligencia para Adultos de Wechsler (WAIS-III) y se utiliza para medir la memoria a corto plazo y la memoria operativa. Esta prueba consta de dos subcomponentes: Amplitud de Dígitos Hacia Adelante y Amplitud de Dígitos Hacia Atrás. En el primero, se pide a los sujetos que repitan una serie de números en orden creciente después de que el examinador los lea en voz alta. En el subtest de Amplitud de Dígitos Hacia Atrás, los sujetos deben repetir la secuencia en orden inverso [X].
 
-## Análisis de datos
+## 4.- Análisis de datos
 
 - **Preprocesamiento**: Se filtrarán las señales EEG para la eliminación del ruido, se utilizará un filtro pasa banda Butterworth, el cual es una de las opciones que se encontró en la literatura [Y].
 - **Segmentación**: (Nadira explica lo del wavelet jsjsjs)
