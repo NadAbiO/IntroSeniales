@@ -163,7 +163,7 @@ El uso prolongado de energizantes y la mala calidad del sueño afectan negativam
          Una vez que hayamos seleccionado los canales de interés y estemos visualizando las señales, podemos comenzar la adquisición de datos. Esto registrará la actividad eléctrica en los lóbulos frontal y temporal según la colocación de nuestros electrodos.
   
 
-## Preparación del grupo de estudio
+### Preparación del grupo de estudio
 
 - **Participantes objetivo**: Se buscó estudiantes universitarios entre 19-25 años, con diferentes niveles de consumo de bebidas energéticas y calidad de sueño. Que sean no fumadoras y que no consuman ninguna sustancia psicoactiva o psicotrópica.
 - **Cuestionarios**: Se administraron cuestionarios para evaluar el consumo de bebidas energéticas y la calidad del sueño de los participantes.
