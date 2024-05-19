@@ -163,11 +163,40 @@ El uso prolongado de energizantes y la mala calidad del sueño afectan negativam
          Una vez que hayamos seleccionado los canales de interés y estemos visualizando las señales, podemos comenzar la adquisición de datos. Esto registrará la actividad eléctrica en los lóbulos frontal y temporal según la colocación de nuestros electrodos.
   
 
-### 3.2.-  OLA
+## Preparación del grupo de estudio
 
-- Debe explicar el plan de análisis de los datos resultantes del procesamiento de las señales (pruebas estadísticas como mínimo). (máx 3 pts)
-- Todos los materiales y/o recursos deben estar identificados, incluido bases de datos (máx 3 pts)
- 
+- **Participantes objetivo**: Se buscó estudiantes universitarios entre 19-25 años, con diferentes niveles de consumo de bebidas energéticas y calidad de sueño. Que sean no fumadoras y que no consuman ninguna sustancia psicoactiva o psicotrópica.
+- **Cuestionarios**: Se administraron cuestionarios para evaluar el consumo de bebidas energéticas y la calidad del sueño de los participantes.
+- 
+## Procedimiento
+
+### Reclutamiento de participantes
+Se reúne a estudiantes universitarios que cumplan con los criterios de elegibilidad. Se les explica el estudio y se asegura que todos los participantes firmen un formulario de consentimiento informado, detallando el propósito del estudio y los procedimientos. Se les clasifica en grupos según su consumo de cafeína y calidad de sueño.
+
+### Colocación de los electrodos
+Los electrodos se colocaron según el sistema internacional 10/20. Todas las impedancias de los electrodos se mantuvieron por debajo de 5 kΩ.
+
+### Configuración del Ambiente
+Se realiza la adquisición de las señales en un ambiente controlado, libre de ruidos y distracciones.
+
+### Instrucciones a los Participantes
+Se les da instrucciones claras sobre las tareas a realizar y se asegura de que los participantes comprendan los procedimientos.
+
+### Registro Basal
+Obtener un registro basal de EEG con el participante en reposo (ojos cerrados y ojos abiertos) durante 5 minutos cada uno.
+
+### Tareas Cognitivas
+Realizar la adquisición de EEG mientras los participantes completan las tareas cognitivas seleccionadas. Según lo encontrado en la literatura, se seleccionaron las siguientes tareas cognitivas a realizar:
+
+- **Visual event-related potential (ERP)**: En la tarea se empleó el paradigma oddball, el cual consiste en que los sujetos distingan los estímulos objetivo (infrecuentes) de los no objetivo o estándar (frecuentes). Este paradigma es especialmente útil para investigar los Potenciales Relacionados con Eventos (ERP) en el cerebro, particularmente el componente P300, que es conocido por su sensibilidad a la novedad y la relevancia de los estímulos [X].
+- **Reaction Time**: Consiste en un experimento que mide cuánto tardan los sujetos en presionar un botón de un joystick después de un estímulo objetivo, utilizado como un indicador del rendimiento motor de los individuos [X].
+- **Stroop Test**: El test de Stroop evalúa la atención focalizada y examina la capacidad integrativa de los mecanismos cognitivos para tomar decisiones basadas en información proveniente de dos modalidades diferentes (léxica y perceptual). En la primera parte del test, se pide a los sujetos que lean los nombres de diferentes colores. Luego, deben nombrar el color de impresión de una palabra que denota un color diferente; por ejemplo, leer la palabra "azul" impresa en verde, lo que crea una interferencia color-palabra. Se instruye a los sujetos para que realicen la tarea tan rápido y precisamente como sea posible [X].
+- **Digit Span**: La prueba de Amplitud de Dígitos es parte de la Escala de Inteligencia para Adultos de Wechsler (WAIS-III) y se utiliza para medir la memoria a corto plazo y la memoria operativa. Esta prueba consta de dos subcomponentes: Amplitud de Dígitos Hacia Adelante y Amplitud de Dígitos Hacia Atrás. En el primero, se pide a los sujetos que repitan una serie de números en orden creciente después de que el examinador los lea en voz alta. En el subtest de Amplitud de Dígitos Hacia Atrás, los sujetos deben repetir la secuencia en orden inverso [X].
+
+## Análisis de datos
+
+- **Preprocesamiento**: Se filtrarán las señales EEG para la eliminación del ruido, se utilizará un filtro pasa banda Butterworth, el cual es una de las opciones que se encontró en la literatura [Y].
+- **Segmentación**: (Nadira explica lo del wavelet jsjsjs)
  
 
 
