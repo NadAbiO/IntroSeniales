@@ -197,7 +197,9 @@ Se realiza la adquisición de EEG mientras los participantes completan las tarea
 
 - **Preprocesamiento**: Se filtrarán las señales EEG para la eliminación del ruido, se utilizará un filtro pasa banda Butterworth, el cual es una de las opciones que se encontró en la literatura [17].
 - **Análisis de Frecuencia**: Realizamos un análisis espectral para evaluar las bandas de frecuencia alfa, beta, theta y delta.
- 
+
+## 5.- Análisis estadístico 
+Los datos del estudio se analizarán estadísticamente mediante el software STATA para Windows. Se realizará una prueba de análisis de varianza (ANOVA) para comparar los resultados obtenidos en las distintas tareas cognitivas entre los grupos que se clasificaron en la investigación.
 
 
 #### Descarga el archivo PPT -> 
