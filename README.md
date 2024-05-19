@@ -203,7 +203,7 @@ Los datos del estudio se analizarán estadísticamente mediante el software STAT
 
 
 ### Descarga el archivo PPT -> [Segundo_entregable_grupo_5.pdf](https://github.com/NadAbiO/IntroSeniales/files/15367578/Segundo_entregable_grupo_5.pdf)
-### Accede al video -> 
+### Accede al video -> https://youtu.be/hr92DlsCNKE 
 
 </details>
 
