@@ -123,7 +123,7 @@ El uso prolongado de energizantes y la mala calidad del sueño afectan negativam
 
 <p align="center">
   <img src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/6751155f-23d8-4c8e-96d8-2d27ee3c0d34"  width="400" height="300"> </p>
-<em><p align="center">Photo by OpenBCI Documentation</p></em> 
+<em><p align="center">Photo by OpenBCI Documentation [13]</p></em> 
 
   <p align="justify"> Es un tipo de Non-Invasive Brain Computer Interfaces lo cual significa que los electrodos se colocan en la superficie del cráneo para registrar los cambios de estado del EEG.
     
@@ -143,15 +143,25 @@ El uso prolongado de energizantes y la mala calidad del sueño afectan negativam
 
       <p align="center">
         <img src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/e8e5d13f-bb79-4916-a7a9-7ccb6533e2e0"  width="400" height="300"> </p>
-      <em><p align="center">Photo by BITalino (r)evolution Lab Guide</p></em> 
+      <em><p align="center">Photo by BITalino (r)evolution Lab Guide [14]</p></em> 
 
 
+  - - ***OPENBCI GUI***
+      
+      Para seleccionar los canales correspondientes a los lóbulos frontal y temporal en OpenBCI, luego de conectar los electrodos al dispositivo OpenBCI, seguiremos estos pasos:
+      1. **Conectamos y configuramos nuestro dispositivo OpenBCI**
+         
+      2. **Seleccionamos los canales de interés:**
+         En la interfaz del software de OpenBCI, veremos una lista de todos los canales disponibles. Estos canales estarán etiquetados según la configuración de nuestro dispositivo y los electrodos que hayamos conectado.
+
+      3. **Identificamos los canales correspondientes a los lóbulos frontal y temporal:**
+         Basándonos en la colocación de nuestros electrodos, identificamos los canales que registran la actividad en los lóbulos frontal y temporal. 
+         
+      4. **Realizamos la adquisición de datos:**
+         Una vez que hayamos seleccionado los canales de interés y estemos visualizando las señales, podemos comenzar la adquisición de datos. Esto registrará la actividad eléctrica en los lóbulos frontal y temporal según la colocación de nuestros electrodos.
   
 
 ### 3.2.-  OLA
-
-
-
 
 - Debe explicar el plan de análisis de los datos resultantes del procesamiento de las señales (pruebas estadísticas como mínimo). (máx 3 pts)
 - Todos los materiales y/o recursos deben estar identificados, incluido bases de datos (máx 3 pts)
@@ -189,6 +199,14 @@ Bibliografía
 [10]	Reinmar, “Data sets”, Bnci-horizon-2020.eu. [En línea]. Disponible en: https://bnci-horizon-2020.eu/database/data-sets. [Consultado: 01-abr-2024].
 
 [11]	G. Seguimiento y P. De comunicación, “EEG ANALYSIS AND CLASSIFICATION - file exchange - MATLAB CentralFile exchange - MATLAB central”, Mathworks.com, 27-ene-2016. [En línea]. Disponible en: https://la.mathworks.com/matlabcentral/fileexchange/55112-eeg-analysis-and-classification. [Consultado: 01-abr-2024].
+
+[12] C. S. Nayak and A. C. Anilkumar, “EEG Normal Waveforms,” Nih.gov, Jan. 21, 2023. https://www.ncbi.nlm.nih.gov/books/NBK539805/#:~:text=However%2C%20the%20most%20frequently%20used,beta%20(13%20to%2030Hz) (accessed May.17, 2024).
+
+[13] “Ultracortex Mark III Nova and Supernova: Openbci documentation,” OpenBCI Documentation RSS, https://docs.openbci.com/Deprecated/UltracortexMark3_NovaDep/ (accessed May 18, 2024). 
+
+[14] G. Xavier, A. Su Ting, and N. Fauzan, “Exploratory study of brain waves and corresponding brain regions of fatigue on-call doctors using quantitative electroencephalogram,” OUP Academic, https://doi.org/10.1002/1348-9585.12121 (accessed May 18, 2024). 
+
+[15] Bitalino (r)evolution lab guide, https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf (accessed May. 17, 2024).
 
 
 </details>
