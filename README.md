@@ -196,7 +196,6 @@ Realizar la adquisición de EEG mientras los participantes completan las tareas 
 ## 4.- Análisis de datos
 
 - **Preprocesamiento**: Se filtrarán las señales EEG para la eliminación del ruido, se utilizará un filtro pasa banda Butterworth, el cual es una de las opciones que se encontró en la literatura [17].
-- **Segmentación**: (Nadira explica lo del wavelet jsjsjs)
 - **Análisis de Frecuencia**: Realizamos un análisis espectral para evaluar las bandas de frecuencia alfa, beta, theta y delta.
  
 
