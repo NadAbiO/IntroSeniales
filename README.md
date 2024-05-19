@@ -242,6 +242,7 @@ Bibliografía
 
 [16] A. Deslandes et al., “Effects of Caffeine on Electrophysiological and Neuropsychological Indices after Sleep Deprivation,” Neuropsychobiology, vol. 54, no. 2, pp. 126–133, 2006, doi: https://doi.org/10.1159/000098263.
 ‌
+
 [17] A. Jain, R. Raja, S. Srivastava, Prakash Chandra Sharma, Jayesh Gangrade, and Manoj R, “Analysis of EEG signals and data acquisition methods: a review,” Computer methods in biomechanics and biomedical engineering. Imaging & visualization, pp. 1–26, Feb. 2024, doi: https://doi.org/10.1080/21681163.2024.2304574.
 
 
