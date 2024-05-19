@@ -173,19 +173,19 @@ El uso prolongado de energizantes y la mala calidad del sueño afectan negativam
  - ***Reclutamiento de participantes***
 Se reúne a estudiantes universitarios que cumplan con los criterios de elegibilidad. Se les explica el estudio y se asegura que todos los participantes firmen un formulario de consentimiento informado, detallando el propósito del estudio y los procedimientos. Se les clasifica en grupos según su consumo de cafeína y calidad de sueño.
 
-- - ***Colocación de los electrodos***
+- ***Colocación de los electrodos***
 Los electrodos se colocaron según el sistema internacional 10/20. Todas las impedancias de los electrodos se mantuvieron por debajo de 5 kΩ.
 
-- - ***Configuración del Ambiente***
+- ***Configuración del Ambiente***
 Se realiza la adquisición de las señales en un ambiente controlado, libre de ruidos y distracciones.
 
-- - ***Instrucciones a los Participantes***
+- ***Instrucciones a los Participantes***
 Se les da instrucciones claras sobre las tareas a realizar y se asegura de que los participantes comprendan los procedimientos.
 
-- - ***Registro Basal***
+- ***Registro Basal***
 Obtener un registro basal de EEG con el participante en reposo (ojos cerrados y ojos abiertos) durante 5 minutos cada uno.
 
-- - ***Tareas Cognitivas***
+***Tareas Cognitivas***
 Realizar la adquisición de EEG mientras los participantes completan las tareas cognitivas seleccionadas. Según lo encontrado en la literatura, se seleccionaron las siguientes tareas cognitivas a realizar:
 
 - **Visual event-related potential (ERP)**: En la tarea se empleó el paradigma oddball, el cual consiste en que los sujetos distingan los estímulos objetivo (infrecuentes) de los no objetivo o estándar (frecuentes). Este paradigma es especialmente útil para investigar los Potenciales Relacionados con Eventos (ERP) en el cerebro, particularmente el componente P300, que es conocido por su sensibilidad a la novedad y la relevancia de los estímulos [X].
