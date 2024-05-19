@@ -87,7 +87,6 @@ El uso prolongado de energizantes y la mala calidad del sueño afectan negativam
 
 3.- Análisis de datos
 
-
  ## 3.- Materiales y métodos
  
 3.1 Materiales y recursos
@@ -101,6 +100,58 @@ El uso prolongado de energizantes y la mala calidad del sueño afectan negativam
 | Pruebas cognitivas| 
 | Procesamiento de señales: Código en Python| 
 | Análisis estadístico: Stata| 
+
+- ### **Ondas EEG y sus frecuencias**
+
+<p align="justify"> Las ondas del EEG pueden caracterizarse en función de su localización, amplitud, frecuencia, morfología, continuidad (rítmica, intermitente o continua), sincronía, simetría y reactividad. Sin embargo, el método más utilizado para clasificar las formas de onda del EEG es el de la frecuencia. Las formas de onda más estudiadas son [12]:
+
+<p align="center"> 
+    
+| **_Tipos de Frecuencia_** | **_Frecuencia (Hz)_** |Estado del cerebro|
+|:---------------------------------------------:|:---------------------:|:------------:|
+|                     Delta                     |      0.50 - 4.00      |Se observa durante el sueño profundo y es prominente en las regiones frontocentrales de la cabeza.|
+|                     Theta                     |      4.00 - 7.00      |Asociado con somnolencia y las primeras etapas del sueño. |
+|                     Alpha                     | 8.00 - 12.00          |Característico en registros de EEG normales despiertos en la región occipital.|
+|                      Beta                     | 13.00 - 30.00         |Más prominente en regiones frontal y central.|
+
+</p>
+
+- ### **Uso del Ultracortex**
+  
+  - ***¿Para qué sirve?***
+        <p align="justify"> El Ultracortex Mark IV es un casco modular que permite la colocación de electrodos en el cuero cabelludo de manera precisa y cómoda. Registra la actividad eléctrica  de hasta 16 canales de EEG y  permite ver dichas señales a través de su interfaz OpenBCI.
+
+<p align="center">
+  <img src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/6751155f-23d8-4c8e-96d8-2d27ee3c0d34"  width="400" height="300"> </p>
+<em><p align="center">Photo by OpenBCI Documentation</p></em> 
+
+  <p align="justify"> Es un tipo de Non-Invasive Brain Computer Interfaces lo cual significa que los electrodos se colocan en la superficie del cráneo para registrar los cambios de estado del EEG.
+    
+  - - ***Ubicación de los electrodos***
+      <p align="justify"> Las ubicaciones de los nodos Ultracortex se basan en el sistema 10-20, que es el estándar aceptado internacionalmente para la colocación de electrodos en el contexto del EEG. [13]
+      <p align="justify"> En nuestro caso nos enfocaremos en los lóbulo Frontal y temporal por lo que la posición de los electrodos que nos interesan son [14]:
+      
+      <p align="center">
+      
+      | **Lóbulo** | **Electrodos**|
+      | ---------| ----------|
+      | Frontal| Fz, Fp1, Fp2, F3, F4, F7, F8 |
+      | Temporal| T3, T4, T5, T6 |
+      | Referencia | pinzas para orejas |
+
+      </p>
+
+      <p align="center">
+        <img src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/e8e5d13f-bb79-4916-a7a9-7ccb6533e2e0"  width="400" height="300"> </p>
+      <em><p align="center">Photo by BITalino (r)evolution Lab Guide</p></em> 
+
+
+  
+
+### 3.2.-  OLA
+
+
+
 
 - Debe explicar el plan de análisis de los datos resultantes del procesamiento de las señales (pruebas estadísticas como mínimo). (máx 3 pts)
 - Todos los materiales y/o recursos deben estar identificados, incluido bases de datos (máx 3 pts)
