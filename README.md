@@ -69,9 +69,24 @@ El insomnio crónico tiene graves consecuencias para la calidad de vida y la sal
 
 
  ## 2.- Propuesta de solución
+ **Propuesta de Investigación:** Impacto cognitivo por mala calidad de sueño y uso de bebidas energéticas
  
- - Debe ayudar a solucionar el problema planteado
- - Debe tener al menos una característica innovadora o enfoque de investigación
+**Objetivo:**
+
+Con el uso del Ultracortex, registrar la actividad cerebral al realizar tareas cognitivas para relacionar los resultados con el uso prolongado de bebidas energéticas y mala calidad de sueño.
+
+**Hipótesis:**
+
+El uso prolongado de energizantes y la mala calidad del sueño afectan negativamente el rendimiento cognitivo, manifestándose en patrones específicos de actividad cerebral detectables mediante EEG.
+
+**Metodología:**
+
+1.- Selección de participantes
+
+2.- Registro de datos
+
+3.- Análisis de datos
+
 
  ## 3.- Materiales y métodos
  
