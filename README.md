@@ -188,14 +188,14 @@ Obtener un registro basal de EEG con el participante en reposo (ojos cerrados y 
 ***Tareas Cognitivas***
 Realizar la adquisición de EEG mientras los participantes completan las tareas cognitivas seleccionadas. Según lo encontrado en la literatura, se seleccionaron las siguientes tareas cognitivas a realizar:
 
-- **Visual event-related potential (ERP)**: En la tarea se empleó el paradigma oddball, el cual consiste en que los sujetos distingan los estímulos objetivo (infrecuentes) de los no objetivo o estándar (frecuentes). Este paradigma es especialmente útil para investigar los Potenciales Relacionados con Eventos (ERP) en el cerebro, particularmente el componente P300, que es conocido por su sensibilidad a la novedad y la relevancia de los estímulos [X].
-- **Reaction Time**: Consiste en un experimento que mide cuánto tardan los sujetos en presionar un botón de un joystick después de un estímulo objetivo, utilizado como un indicador del rendimiento motor de los individuos [X].
-- **Stroop Test**: El test de Stroop evalúa la atención focalizada y examina la capacidad integrativa de los mecanismos cognitivos para tomar decisiones basadas en información proveniente de dos modalidades diferentes (léxica y perceptual). En la primera parte del test, se pide a los sujetos que lean los nombres de diferentes colores. Luego, deben nombrar el color de impresión de una palabra que denota un color diferente; por ejemplo, leer la palabra "azul" impresa en verde, lo que crea una interferencia color-palabra. Se instruye a los sujetos para que realicen la tarea tan rápido y precisamente como sea posible [X].
-- **Digit Span**: La prueba de Amplitud de Dígitos es parte de la Escala de Inteligencia para Adultos de Wechsler (WAIS-III) y se utiliza para medir la memoria a corto plazo y la memoria operativa. Esta prueba consta de dos subcomponentes: Amplitud de Dígitos Hacia Adelante y Amplitud de Dígitos Hacia Atrás. En el primero, se pide a los sujetos que repitan una serie de números en orden creciente después de que el examinador los lea en voz alta. En el subtest de Amplitud de Dígitos Hacia Atrás, los sujetos deben repetir la secuencia en orden inverso [X].
+- **Visual event-related potential (ERP)**: En la tarea se empleó el paradigma oddball, el cual consiste en que los sujetos distingan los estímulos objetivo (infrecuentes) de los no objetivo o estándar (frecuentes). Este paradigma es especialmente útil para investigar los Potenciales Relacionados con Eventos (ERP) en el cerebro, particularmente el componente P300, que es conocido por su sensibilidad a la novedad y la relevancia de los estímulos [16].
+- **Reaction Time**: Consiste en un experimento que mide cuánto tardan los sujetos en presionar un botón de un joystick después de un estímulo objetivo, utilizado como un indicador del rendimiento motor de los individuos [16].
+- **Stroop Test**: El test de Stroop evalúa la atención focalizada y examina la capacidad integrativa de los mecanismos cognitivos para tomar decisiones basadas en información proveniente de dos modalidades diferentes (léxica y perceptual). En la primera parte del test, se pide a los sujetos que lean los nombres de diferentes colores. Luego, deben nombrar el color de impresión de una palabra que denota un color diferente; por ejemplo, leer la palabra "azul" impresa en verde, lo que crea una interferencia color-palabra. Se instruye a los sujetos para que realicen la tarea tan rápido y precisamente como sea posible [16].
+- **Digit Span**: La prueba de Amplitud de Dígitos es parte de la Escala de Inteligencia para Adultos de Wechsler (WAIS-III) y se utiliza para medir la memoria a corto plazo y la memoria operativa. Esta prueba consta de dos subcomponentes: Amplitud de Dígitos Hacia Adelante y Amplitud de Dígitos Hacia Atrás. En el primero, se pide a los sujetos que repitan una serie de números en orden creciente después de que el examinador los lea en voz alta. En el subtest de Amplitud de Dígitos Hacia Atrás, los sujetos deben repetir la secuencia en orden inverso [16].
 
 ## 4.- Análisis de datos
 
-- **Preprocesamiento**: Se filtrarán las señales EEG para la eliminación del ruido, se utilizará un filtro pasa banda Butterworth, el cual es una de las opciones que se encontró en la literatura [Y].
+- **Preprocesamiento**: Se filtrarán las señales EEG para la eliminación del ruido, se utilizará un filtro pasa banda Butterworth, el cual es una de las opciones que se encontró en la literatura [17].
 - **Segmentación**: (Nadira explica lo del wavelet jsjsjs)
 - **Análisis de Frecuencia**: Realizamos un análisis espectral para evaluar las bandas de frecuencia alfa, beta, theta y delta.
  
@@ -239,6 +239,10 @@ Bibliografía
 [14] G. Xavier, A. Su Ting, and N. Fauzan, “Exploratory study of brain waves and corresponding brain regions of fatigue on-call doctors using quantitative electroencephalogram,” OUP Academic, https://doi.org/10.1002/1348-9585.12121 (accessed May 18, 2024). 
 
 [15] Bitalino (r)evolution lab guide, https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf (accessed May. 17, 2024).
+
+[16] A. Deslandes et al., “Effects of Caffeine on Electrophysiological and Neuropsychological Indices after Sleep Deprivation,” Neuropsychobiology, vol. 54, no. 2, pp. 126–133, 2006, doi: https://doi.org/10.1159/000098263.
+‌
+[17] A. Jain, R. Raja, S. Srivastava, Prakash Chandra Sharma, Jayesh Gangrade, and Manoj R, “Analysis of EEG signals and data acquisition methods: a review,” Computer methods in biomechanics and biomedical engineering. Imaging & visualization, pp. 1–26, Feb. 2024, doi: https://doi.org/10.1080/21681163.2024.2304574.
 
 
 </details>
