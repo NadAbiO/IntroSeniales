@@ -170,7 +170,7 @@ El uso prolongado de energizantes y la mala calidad del sueño afectan negativam
 - 
 ## Procedimiento
 
- - - ***Reclutamiento de participantes***
+ - ***Reclutamiento de participantes***
 Se reúne a estudiantes universitarios que cumplan con los criterios de elegibilidad. Se les explica el estudio y se asegura que todos los participantes firmen un formulario de consentimiento informado, detallando el propósito del estudio y los procedimientos. Se les clasifica en grupos según su consumo de cafeína y calidad de sueño.
 
 - - ***Colocación de los electrodos***
