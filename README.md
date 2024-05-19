@@ -202,7 +202,8 @@ Se realiza la adquisición de EEG mientras los participantes completan las tarea
 Los datos del estudio se analizarán estadísticamente mediante el software STATA para Windows. Se realizará una prueba de análisis de varianza (ANOVA) para comparar los resultados obtenidos en las distintas tareas cognitivas entre los grupos que se clasificaron en la investigación.
 
 
-#### Descarga el archivo PPT -> 
+### Descarga el archivo PPT -> [Segundo_entregable_grupo_5.pdf](https://github.com/NadAbiO/IntroSeniales/files/15367578/Segundo_entregable_grupo_5.pdf)
+### Accede al video -> 
 
 </details>
 
