@@ -1,4 +1,4 @@
-# Laboratorio 6: Procesamiento de EMG 
+# Laboratorio 8: Procesamiento de EMG 
 
 1. [Introducción](#intro)
 2. [Metodología](#met)
