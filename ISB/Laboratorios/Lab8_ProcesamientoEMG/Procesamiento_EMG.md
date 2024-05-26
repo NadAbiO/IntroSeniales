@@ -169,6 +169,8 @@ Los resultados obtenidos ofrecen una visión detallada de la actividad muscular 
 
 [Código Procesamiento EMG](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab8_ProcesamientoEMG/Procesamiento_EMG_code.ipynb)
 
+[Comparación de filtros](https://github.com/NadAbiO/IntroSeniales/blob/95648f3fe5bc5ae10a18466019c2494c012b13b5/ISB/Laboratorios/Lab8_ProcesamientoEMG/Comparison.py)
+
 ---
 
 ## **Referencias** <a name="id11"></a>
