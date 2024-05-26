@@ -24,7 +24,9 @@
 
 ## **Introducción** <a name="id2"></a>
 ---
+La señal de electromiografía (EMG) es una representación eléctrica de la actividad neuromuscular asociada con un músculo en contracción. Esta señal es extremadamente compleja y está influenciada por las propiedades anatómicas y fisiológicas de los músculos, el sistema de control del sistema nervioso periférico y las características de la instrumentación utilizada para su detección y monitoreo. Muchas de las relaciones entre la señal EMG y las propiedades de un músculo en contracción que se utilizan comúnmente se han desarrollado de manera fortuita. La falta de una representación adecuada de la señal EMG es probablemente el factor más significativo que ha impedido el desarrollo de la EMG como un campo especializado [1].
 
+En términos generales, el proceso de análisis de la señal EMG incluye etapas como la adquisición de datos, el procesamiento de la señal, la extracción y clasificación de características de la señal, y las funciones de predicción. Cada una de estas etapas varía según los parámetros de diseño, tales como el costo de producción y el porcentaje de precisión [2]
 
 ## **Metodología EMG** <a name="id3"></a>
 
@@ -43,6 +45,14 @@ La señal proveniente de la etapa de pre-amplificación contiene una mezcla de s
 <em><p align="center">Principales etapas implicadas en la adquisición de la señal, preprocesamiento, y extracción de características de señales de EMG registrados a partir de una fibra muscular [3]</p></em> 
 
 - ### **Filtrado** <a name="id5"></a>
+
+Para identificar el mejor filtro para una señal EMG, se siguió una metodología que involucró el uso de tres tipos diferentes de filtros: el filtro Wavelet, el filtro FIR (Finite Impulse Response) y el filtro IIR (Infinite Impulse Response). Se evaluó la efectividad de estos filtros utilizando la métrica de la raíz cuadrática media (RMS) de la señal filtrada.
+<p align="center">
+  <img src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/42be6c03-eb21-43e3-99c3-3785d83aa594"  width="500" alt="image"> </p>
+<em><p align="center">Principales etapas implicadas en la adquisición de la señal, preprocesamiento, y extracción de características de señales de EMG registrados a partir de una fibra muscular [3]</p></em> 
+<p align="center">
+  <img src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/42be6c03-eb21-43e3-99c3-3785d83aa594"  width="500" alt="image"> </p>
+<em><p align="center">Principales etapas implicadas en la adquisición de la señal, preprocesamiento, y extracción de características de señales de EMG registrados a partir de una fibra muscular [3]</p></em> 
 
 - ### **Segmentación** <a name="id6"></a>
 
