@@ -24,9 +24,9 @@
 
 ## **Introducción** <a name="id2"></a>
 ---
-La señal de electromiografía (EMG) es una representación eléctrica de la actividad neuromuscular asociada con un músculo en contracción. Esta señal es extremadamente compleja y está influenciada por las propiedades anatómicas y fisiológicas de los músculos, el sistema de control del sistema nervioso periférico y las características de la instrumentación utilizada para su detección y monitoreo. Muchas de las relaciones entre la señal EMG y las propiedades de un músculo en contracción que se utilizan comúnmente se han desarrollado de manera fortuita. La falta de una representación adecuada de la señal EMG es probablemente el factor más significativo que ha impedido el desarrollo de la EMG como un campo especializado [1].
+La señal de electromiografía (EMG) es una representación eléctrica de la actividad neuromuscular asociada con un músculo en contracción. Esta señal es extremadamente compleja y está influenciada por las propiedades anatómicas y fisiológicas de los músculos, el sistema de control del sistema nervioso periférico y las características de la instrumentación utilizada para su detección y monitoreo. Muchas de las relaciones entre la señal EMG y las propiedades de un músculo en contracción que se utilizan comúnmente se han desarrollado de manera fortuita. La falta de una representación adecuada de la señal EMG es probablemente el factor más significativo que ha impedido el desarrollo de la EMG como un campo especializado [4].
 
-En términos generales, el proceso de análisis de la señal EMG incluye etapas como la adquisición de datos, el procesamiento de la señal, la extracción y clasificación de características de la señal, y las funciones de predicción. Cada una de estas etapas varía según los parámetros de diseño, tales como el costo de producción y el porcentaje de precisión [2]
+En términos generales, el proceso de análisis de la señal EMG incluye etapas como la adquisición de datos, el procesamiento de la señal, la extracción y clasificación de características de la señal, y las funciones de predicción. Cada una de estas etapas varía según los parámetros de diseño, tales como el costo de producción y el porcentaje de precisión.
 
 ## **Metodología EMG** <a name="id3"></a>
 
@@ -54,6 +54,8 @@ Para identificar el mejor filtro para una señal EMG, se siguió una metodologí
   <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab8_ProcesamientoEMG/Screenshot%202024-05-25%20192707.png" alt="image"> </p>
 <em><p align="center"> Valores RMS obtenidos de la comparacion </p></em> 
 
+En base a los resultados obtenidos de la comparacion, se eligio al filtro wavelet como el mejor para realizar la segmentacion y posterior extraccion de caracteristicas. El filtro Wavelet implementado se hizo en base a un estudio que certifico que las ondas wavelet db2, db6 y db8 son efectivas para el análisis de señales EMG en pacientes sanos. Para determinar el umbral de los filtros, se utilizó una fórmula basada en la desviación media absoluta (usando la mediana de cada coeficiente del filtro Wavelet) y la cantidad de muestras. Además, se usó una fracción de la señal para que se observe mejor el resultado del filtro[5]
+
 - ### **Segmentación** <a name="id6"></a>
 
 ola mira este paper [2] pag 29
@@ -80,6 +82,9 @@ ola mira este paper [2] pag 29
 
 [3] J. J. G. Murillo, A. Ilzarbe, y S. Osuna, «Procesado de señales EMG en Trastornos Neuromusculares», 2013, doi: 10.13140/2.1.4902.9445. [Accessed: May. 25, 2024]
 
+[4] C. J. De Luca, "Electromyography," in Encyclopedia of Medical Devices and Instrumentation, 2006. [Accessed: May. 25, 2024]
+
+[5] N. M. Sobahi, "Denoising of EMG Signals Based on Wavelet Transform," Asian Transactions on Engineering (ATE ISSN: 2221-4267), vol. 1, no. 5, pp. 17-23, 2011. [Online]. Available: https://www.researchgate.net/publication/267957236_Denoising_of_EMG_Signals_Based_on_Wavelet_Transform [Accessed: May. 25, 2024]
 
 
 
