@@ -149,7 +149,6 @@ Además en el Biosignals Notebooks, para Análisis de las señales EMG, se recom
 
 [6] Comparison of the techniques used for segmentation of EMG Signals. Available at: https://www.researchgate.net/publication/228977464_Comparison_of_the_techniques_used_for_segmentation_of_EMG_signals (Accessed: 26 May 2024).
 Se adjunta el artículo:
-
 [PDF](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab8_ProcesamientoEMG/Referencia/Comparison_of_the_techniques_used_for_segmentation.pdf)
 
 [7] C. Spiewak, “A Comprehensive Study on EMG Feature Extraction and Classifiers,” Open Access Journal of Biomedical Engineering and Biosciences, vol. 1, no. 1, Feb. 2018, doi: https://doi.org/10.32474/oajbeb.2018.01.000104.
