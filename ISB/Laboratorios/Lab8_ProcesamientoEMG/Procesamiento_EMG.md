@@ -133,6 +133,7 @@ Además en el Biosignals Notebooks, para Análisis de las señales EMG, se recom
 ---
 ## **Archivos** <a name="id10"></a>
 ---
+[Código Procesamiento EMG](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab8_ProcesamientoEMG/Procesamiento_EMG_code.ipynb)
 
 ## **Referencias** <a name="id11"></a>
 
