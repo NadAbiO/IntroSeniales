@@ -61,6 +61,11 @@ En base a los resultados obtenidos de la comparacion, se eligio al filtro wavele
 ola mira este paper [2] pag 29
 
 - ### **Extracción de caracteríticas** <a name="id7"></a>
+La extracción de características en señales EMG implica transformar los datos brutos de la señal en una estructura de datos relevante, eliminando el ruido y resaltando la información esencial. Dentro de este contexto, se identifican tres tipos principales de características: las del dominio del tiempo, las del dominio de la frecuencia y las del dominio tiempo-frecuencia []. 
+Para la extracción de características en nuestras señales, optaremos por métodos en el dominio del tiempo. Estas técnicas son ampliamente utilizadas en el reconocimiento de patrones EMG debido a su simplicidad y rapidez de cálculo, puesto que no requieren de transformaciones adicionales. Las características en el dominio del tiempo se calculan directamente a partir de la amplitud de las señales entrantes [].
+La técnica para evaluar en el tiempo es la raíz cuadrada media (RMS), ofrece una mejor representación de las fluctuaciones observadas en las contracciones de fuerza constante [].
+Además en el Biosignals Notebooks, para Análisis de las señales EMG, se recomienda las siguientes técnicas: Detección de señales de activación, en el dominio de la frecuencia: Median Frecuency, Maximum power frecuency. También consideraremos la detección de las contracciones musculares. 
+
 
 --- 
 
