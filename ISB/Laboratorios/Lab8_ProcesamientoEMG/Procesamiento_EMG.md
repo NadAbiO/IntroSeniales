@@ -82,6 +82,27 @@ Además en el Biosignals Notebooks, para Análisis de las señales EMG, se recom
 
 ## **Resultados** <a name="id8"></a>
 ---
+1. **Segmentación**
+   
+2. **Extracción de características**
+
+- **Detección de contracciones musculares**
+  <div align="center">
+  <img src="Img\emg_deteccion_eventos.png"  width="300" height="300"> 
+  </div>
+  
+- **Detección de señales de activación**
+  <div align="center">
+  <img src="Img\emg_deteccion_eventos.png"  width="300" height="300"> 
+  </div>
+  
+- **RMS**
+  <div align="center">
+  <img src="Img\emg_deteccion_eventos.png"  width="300" height="300"> 
+  </div>
+
+
+
 
 ## **Discusión** <a name="id9"></a>
 
