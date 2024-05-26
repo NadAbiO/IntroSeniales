@@ -54,7 +54,7 @@ Para identificar el mejor filtro para una señal EMG, se siguió una metodologí
   <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab8_ProcesamientoEMG/SNRmiau.png" alt="image"> </p>
 <em><p align="center"> Valores SNR obtenidos de la comparacion </p></em> 
 
-En base a los resultados obtenidos de la comparacion, se eligio al filtro wavelet como el mejor para realizar la segmentacion y posterior extraccion de caracteristicas. El filtro Wavelet implementado se hizo en base a un estudio que certifico que las ondas wavelet db2, db6 y db8 son efectivas para el análisis de señales EMG en pacientes sanos. Para determinar el umbral de los filtros, se utilizó una fórmula basada en la desviación media absoluta (usando la mediana de cada coeficiente del filtro Wavelet) y la cantidad de muestras. Además, se usó una fracción de la señal para que se observe mejor el resultado del filtro[5]
+En base a los resultados obtenidos de la comparació, se eligió al filtro wavelet como el mejor para realizar la segmentación y posterior extracción de características. El filtro Wavelet implementado se hizo en base a un estudio que certificó que las ondas wavelet db2, db6 y db8 son efectivas para el análisis de señales EMG en pacientes sanos. Para determinar el umbral de los filtros, se utilizó una fórmula basada en la desviación media absoluta (usando la mediana de cada coeficiente del filtro Wavelet) y la cantidad de muestras. Además, se usó una fracción de la señal para que se observe mejor el resultado del filtro[5]
 
 - ### **Segmentación** <a name="id6"></a>
 El artículo titulado "Comparison of the Techniques Used for Segmentation of EMG Signals" explora las metodologías para segmentar señales de EMG específicamente en el contexto de diagnósticos neuromusculares. El documento identifica y compara tres técnicas principales de segmentación utilizadas para extraer potenciales de acción de unidades motoras (MUAPs) de las señales EMG. Los MUAPs, son el resultado de la suma de los potenciales de acción de las fibras musculares individuales dentro de una unidad motora y son fundamentales para entender la actividad muscular [6].
@@ -81,22 +81,22 @@ Además en el Biosignals Notebooks, para Análisis de las señales EMG, se recom
 
 
 ## **Resultados** <a name="id8"></a>
----
+
 1. **Segmentación**
 
 - **Identificación de picos de MUAPs**
   <div align="center">
-  <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab8_ProcesamientoEMG/Imagenes/peak_detection.png"  width="700" height="500"> 
+  <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab8_ProcesamientoEMG/Imagenes/peak_detection.png"  width="700" height="300"> 
   </div>
 
 - **Identificación de puntos de inicio y fin**
   <div align="center">
-  <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab8_ProcesamientoEMG/Imagenes/bep.png"  width="700" height="500"> 
+  <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab8_ProcesamientoEMG/Imagenes/bep.png"  width="700" height="300"> 
   </div>
 
 - **Transformada de Wavelet Discreta (DWT)**
   <div align="center">
-  <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab8_ProcesamientoEMG/Imagenes/dwt_segmentation.png"  width="700" height="500"> 
+  <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab8_ProcesamientoEMG/Imagenes/dwt_segmentation.png"  width="700" height="300"> 
   </div>
   
    
@@ -109,7 +109,7 @@ Además en el Biosignals Notebooks, para Análisis de las señales EMG, se recom
   
 - **Detección de señales de activación**
   <div align="center">
-  <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab8_ProcesamientoEMG/Imagenes/se%C3%B1ales_de_activacion.png"  width="700" height="500"> 
+  <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab8_ProcesamientoEMG/Imagenes/se%C3%B1ales_de_activacion.png"  width="700" height="300"> 
   </div>
   
 - **RMS**
@@ -126,14 +126,50 @@ Además en el Biosignals Notebooks, para Análisis de las señales EMG, se recom
   - Median Frequency': 50.78125
   - Maximum Power Frequency: 35.15625
 
-
+---
 
 ## **Discusión** <a name="id9"></a>
 
+En este laboratorio, se ha llevado a cabo un procesamiento detallado de señales EMG utilizando un filtro Wavelet, con el objetivo de segmentar y extraer potenciales de acción de unidades motoras (MUAPs), y caracterizar la señal mediante varias métricas, incluyendo la raíz cuadrada media (RMS).
+
+#### Filtrado y Segmentación de la Señal
+
+El uso del filtro Wavelet fue esencial para eliminar el ruido y preservar las características relevantes de la señal EMG. Este enfoque es especialmente útil debido a su capacidad para manejar señales no estacionarias, como las EMG, que tienen variaciones temporales complejas. Tras el filtrado, se procedió a la segmentación de la señal, lo que permitió la identificación precisa de los puntos de inicio y fin de cada MUAP.
+
+#### Extracción y Caracterización de MUAPs
+
+La segmentación permitió la extracción de diversas métricas de activación muscular:
+
+- **Duración Máxima de Activación Muscular**: 1.925 segundos
+- **Duración Mínima de Activación Muscular**: 0.234 segundos
+- **Duración Media de Activación Muscular**: 1.05 segundos
+
+Estas medidas indican una considerable variabilidad en la duración de la activación muscular, lo cual es esperable en estudios EMG debido a las diferencias en la activación de diferentes unidades motoras y la variabilidad intrínseca de las contracciones musculares.
+
+#### Análisis Estadístico y Caracterización de la Señal
+
+La desviación estándar de los valores muestreados fue de 68.79, lo que refleja la variabilidad en la amplitud de la señal EMG registrada. Esta variabilidad puede ser atribuida a varios factores, incluyendo la variabilidad en la fuerza de contracción y la fatiga muscular.
+
+El valor de **RMS EMG** de 68.7923 es una métrica crucial, ya que proporciona una medida de la potencia de la señal, siendo un indicador directo de la actividad muscular. Un mayor valor de RMS sugiere una mayor activación muscular.[8]
+
+#### Análisis de Frecuencia
+
+El análisis espectral de la señal EMG arrojó los siguientes resultados:
+
+- **Frecuencia Media**: 50.78125 Hz
+- **Frecuencia de Potencia Máxima**: 35.15625 Hz
+
+Estos valores de frecuencia son indicativos de la composición espectral de la señal EMG. La frecuencia media cercana a 50 Hz es consistente con lo esperado en señales EMG de alta calidad, mientras que la frecuencia de potencia máxima proporciona información sobre la frecuencia dominante de la activación muscular. 
+
+Los resultados obtenidos ofrecen una visión detallada de la actividad muscular durante las contracciones estudiadas. La duración de activación muscular varía significativamente, lo que puede reflejar la participación de diferentes unidades motoras con distintas características. La RMS elevada sugiere una alta intensidad de contracción muscular, mientras que el análisis de frecuencia proporciona una comprensión de la dinámica temporal de la activación muscular.
+
 ---
+
 ## **Archivos** <a name="id10"></a>
----
+
 [Código Procesamiento EMG](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab8_ProcesamientoEMG/Procesamiento_EMG_code.ipynb)
+
+---
 
 ## **Referencias** <a name="id11"></a>
 
@@ -153,6 +189,8 @@ Se adjunta el artículo:
 [PDF](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab8_ProcesamientoEMG/Referencia/Comparison_of_the_techniques_used_for_segmentation.pdf)
 
 [7] C. Spiewak, “A Comprehensive Study on EMG Feature Extraction and Classifiers,” Open Access Journal of Biomedical Engineering and Biosciences, vol. 1, no. 1, Feb. 2018, doi: https://doi.org/10.32474/oajbeb.2018.01.000104.
-‌
+
+[8] L. A. C. Kallenberg y H. J. Hermens, “Behaviour of motor unit action potential rate, estimated from surface EMG, as a measure of muscle activation level”, J. Neuroeng. Rehabil., vol. 3, núm. 1, 2006. https://jneuroengrehab.biomedcentral.com/articles/10.1186/1743-0003-3-15
+
 
 ---
