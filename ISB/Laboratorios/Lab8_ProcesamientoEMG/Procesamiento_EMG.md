@@ -171,6 +171,8 @@ Los resultados obtenidos ofrecen una visión detallada de la actividad muscular 
 
 [Comparación de filtros](https://github.com/NadAbiO/IntroSeniales/blob/95648f3fe5bc5ae10a18466019c2494c012b13b5/ISB/Laboratorios/Lab8_ProcesamientoEMG/Comparison.py)
 
+[RMS de filtros](https://github.com/NadAbiO/IntroSeniales/blob/78f9bfc3f6f657f9c20ca2ce4419d6e03c79cc5c/ISB/Laboratorios/Lab8_ProcesamientoEMG/signalss.png)
+
 ---
 
 ## **Referencias** <a name="id11"></a>
