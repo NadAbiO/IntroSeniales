@@ -48,11 +48,11 @@ La señal proveniente de la etapa de pre-amplificación contiene una mezcla de s
 
 Para identificar el mejor filtro para una señal EMG, se siguió una metodología que involucró el uso de tres tipos diferentes de filtros: el filtro Wavelet, el filtro FIR (Finite Impulse Response) y el filtro IIR (Infinite Impulse Response). Se evaluó la efectividad de estos filtros utilizando la métrica de la raíz cuadrática media (RMS) de la señal filtrada.
 <p align="center">
-  <img src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/42be6c03-eb21-43e3-99c3-3785d83aa594"  width="500" alt="image"> </p>
-<em><p align="center">Principales etapas implicadas en la adquisición de la señal, preprocesamiento, y extracción de características de señales de EMG registrados a partir de una fibra muscular [3]</p></em> 
+  <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab8_ProcesamientoEMG/Signals.png" alt="image"> </p>
+<em><p align="center">Comparacion de filtros en la señal EMG</p></em> 
 <p align="center">
-  <img src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/42be6c03-eb21-43e3-99c3-3785d83aa594"  width="500" alt="image"> </p>
-<em><p align="center">Principales etapas implicadas en la adquisición de la señal, preprocesamiento, y extracción de características de señales de EMG registrados a partir de una fibra muscular [3]</p></em> 
+  <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab8_ProcesamientoEMG/Screenshot%202024-05-25%20192707.png" alt="image"> </p>
+<em><p align="center"> Valores RMS obtenidos de la comparacion </p></em> 
 
 - ### **Segmentación** <a name="id6"></a>
 
