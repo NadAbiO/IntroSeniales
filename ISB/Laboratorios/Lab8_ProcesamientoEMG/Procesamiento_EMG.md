@@ -46,13 +46,13 @@ La señal proveniente de la etapa de pre-amplificación contiene una mezcla de s
 
 - ### **Filtrado** <a name="id5"></a>
 
-Para identificar el mejor filtro para una señal EMG, se siguió una metodología que involucró el uso de tres tipos diferentes de filtros: el filtro Wavelet, el filtro FIR (Finite Impulse Response) y el filtro IIR (Infinite Impulse Response). Se evaluó la efectividad de estos filtros utilizando la métrica de la raíz cuadrática media (RMS) de la señal filtrada.
+Para identificar el mejor filtro para una señal EMG, se siguió una metodología que involucró el uso de tres tipos diferentes de filtros: el filtro Wavelet, el filtro FIR (Finite Impulse Response) y el filtro IIR (Infinite Impulse Response). Se evaluó la efectividad de estos filtros utilizando la métrica de la Signal to Noise Ratio (SNR) de la señal filtrada frente a la señal original.
 <p align="center">
   <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab8_ProcesamientoEMG/Signals.png" alt="image"> </p>
 <em><p align="center">Comparacion de filtros en la señal EMG</p></em> 
 <p align="center">
-  <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab8_ProcesamientoEMG/Screenshot%202024-05-25%20192707.png" alt="image"> </p>
-<em><p align="center"> Valores RMS obtenidos de la comparacion </p></em> 
+  <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab8_ProcesamientoEMG/SNRmiau.png" alt="image"> </p>
+<em><p align="center"> Valores SNR obtenidos de la comparacion </p></em> 
 
 En base a los resultados obtenidos de la comparacion, se eligio al filtro wavelet como el mejor para realizar la segmentacion y posterior extraccion de caracteristicas. El filtro Wavelet implementado se hizo en base a un estudio que certifico que las ondas wavelet db2, db6 y db8 son efectivas para el análisis de señales EMG en pacientes sanos. Para determinar el umbral de los filtros, se utilizó una fórmula basada en la desviación media absoluta (usando la mediana de cada coeficiente del filtro Wavelet) y la cantidad de muestras. Además, se usó una fracción de la señal para que se observe mejor el resultado del filtro[5]
 
