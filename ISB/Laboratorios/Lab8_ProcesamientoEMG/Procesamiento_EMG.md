@@ -83,6 +83,22 @@ Además en el Biosignals Notebooks, para Análisis de las señales EMG, se recom
 ## **Resultados** <a name="id8"></a>
 ---
 1. **Segmentación**
+
+- **Identificación de picos de MUAPs**
+  <div align="center">
+  <img src="Img\emg_deteccion_eventos.png"  width="400" height="300"> 
+  </div>
+
+- **Identificación de puntos de inicio y fin**
+  <div align="center">
+  <img src="Img\emg_deteccion_eventos.png"  width="400" height="300"> 
+  </div>
+
+- **Transformada de Wavelet Discreta (DWT)**
+  <div align="center">
+  <img src="Img\emg_deteccion_eventos.png"  width="400" height="300"> 
+  </div>
+  
    
 2. **Extracción de características**
 
