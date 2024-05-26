@@ -57,8 +57,15 @@ Para identificar el mejor filtro para una señal EMG, se siguió una metodologí
 En base a los resultados obtenidos de la comparacion, se eligio al filtro wavelet como el mejor para realizar la segmentacion y posterior extraccion de caracteristicas. El filtro Wavelet implementado se hizo en base a un estudio que certifico que las ondas wavelet db2, db6 y db8 son efectivas para el análisis de señales EMG en pacientes sanos. Para determinar el umbral de los filtros, se utilizó una fórmula basada en la desviación media absoluta (usando la mediana de cada coeficiente del filtro Wavelet) y la cantidad de muestras. Además, se usó una fracción de la señal para que se observe mejor el resultado del filtro[5]
 
 - ### **Segmentación** <a name="id6"></a>
+El artículo titulado "Comparison of the Techniques Used for Segmentation of EMG Signals" explora las metodologías para segmentar señales de EMG específicamente en el contexto de diagnósticos neuromusculares. El documento identifica y compara tres técnicas principales de segmentación utilizadas para extraer potenciales de acción de unidades motoras (MUAPs) de las señales EMG. Los MUAPs, son el resultado de la suma de los potenciales de acción de las fibras musculares individuales dentro de una unidad motora y son fundamentales para entender la actividad muscular [ ].
 
-ola mira este paper [2] pag 29
+Técnicas de segmentación utilizadas: 
+Identificación de picos de MUAPs: Esta técnica segmenta la señal detectando los picos de los MUAPs utilizando un umbral basado en el valor máximo y el valor medio absoluto de la señal EMG [ ].
+
+Identificación de puntos de inicio y fin: El BEP (Beginning Extraction Point) y el EEP (Ending Extraction Point) marcan el inicio y el final, respectivamente, de un MUAP. Utilizamos un filtro de paso alto y ventanas deslizantes para identificar los puntos de inicio y fin de los MUAPs basándose en umbrales específicos de amplitud [ ].
+
+Transformada de Wavelet Discreta (DWT): Esta técnica descompone la señal EMG utilizando wavelets, en este caso, Daubechies4 (db4), para identificar los picos de los MUAPs.
+
 
 - ### **Extracción de caracteríticas** <a name="id7"></a>
 La extracción de características en señales EMG implica transformar los datos brutos de la señal en una estructura de datos relevante, eliminando el ruido y resaltando la información esencial. Dentro de este contexto, se identifican tres tipos principales de características: las del dominio del tiempo, las del dominio de la frecuencia y las del dominio tiempo-frecuencia []. 
