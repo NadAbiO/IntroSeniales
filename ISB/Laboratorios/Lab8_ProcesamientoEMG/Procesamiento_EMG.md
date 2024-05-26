@@ -88,19 +88,27 @@ Además en el Biosignals Notebooks, para Análisis de las señales EMG, se recom
 
 - **Detección de contracciones musculares**
   <div align="center">
-  <img src="Img\emg_deteccion_eventos.png"  width="300" height="300"> 
+  <img src="Img\emg_deteccion_eventos.png"  width="400" height="300"> 
   </div>
   
 - **Detección de señales de activación**
   <div align="center">
-  <img src="Img\emg_deteccion_eventos.png"  width="300" height="300"> 
+  <img src="Img\emg_deteccion_eventos.png"  width="400" height="300"> 
   </div>
   
 - **RMS**
   <div align="center">
-  <img src="Img\emg_deteccion_eventos.png"  width="300" height="300"> 
+  <img src="Img\emg_deteccion_eventos.png"  width="400" height="300"> 
   </div>
-
+  
+- **Valores obtenidos**
+  - Maximum Muscular Activation Duration: 1.925
+  - Minimum Muscular Activation Duration: 0.234
+  - Average Muscular Activation Duration: 1.05
+  - Standard Deviation Sample Value: 68.79
+  - RMS EMG: 68.7923
+  - Median Frequency': 50.78125
+  - Maximum Power Frequency: 35.15625
 
 
 
