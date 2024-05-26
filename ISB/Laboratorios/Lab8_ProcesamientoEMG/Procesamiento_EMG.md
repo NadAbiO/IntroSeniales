@@ -57,22 +57,22 @@ Para identificar el mejor filtro para una señal EMG, se siguió una metodologí
 En base a los resultados obtenidos de la comparacion, se eligio al filtro wavelet como el mejor para realizar la segmentacion y posterior extraccion de caracteristicas. El filtro Wavelet implementado se hizo en base a un estudio que certifico que las ondas wavelet db2, db6 y db8 son efectivas para el análisis de señales EMG en pacientes sanos. Para determinar el umbral de los filtros, se utilizó una fórmula basada en la desviación media absoluta (usando la mediana de cada coeficiente del filtro Wavelet) y la cantidad de muestras. Además, se usó una fracción de la señal para que se observe mejor el resultado del filtro[5]
 
 - ### **Segmentación** <a name="id6"></a>
-El artículo titulado "Comparison of the Techniques Used for Segmentation of EMG Signals" explora las metodologías para segmentar señales de EMG específicamente en el contexto de diagnósticos neuromusculares. El documento identifica y compara tres técnicas principales de segmentación utilizadas para extraer potenciales de acción de unidades motoras (MUAPs) de las señales EMG. Los MUAPs, son el resultado de la suma de los potenciales de acción de las fibras musculares individuales dentro de una unidad motora y son fundamentales para entender la actividad muscular [ ].
+El artículo titulado "Comparison of the Techniques Used for Segmentation of EMG Signals" explora las metodologías para segmentar señales de EMG específicamente en el contexto de diagnósticos neuromusculares. El documento identifica y compara tres técnicas principales de segmentación utilizadas para extraer potenciales de acción de unidades motoras (MUAPs) de las señales EMG. Los MUAPs, son el resultado de la suma de los potenciales de acción de las fibras musculares individuales dentro de una unidad motora y son fundamentales para entender la actividad muscular [6].
 
 Técnicas de segmentación utilizadas: 
-Identificación de picos de MUAPs: Esta técnica segmenta la señal detectando los picos de los MUAPs utilizando un umbral basado en el valor máximo y el valor medio absoluto de la señal EMG [ ].
+Identificación de picos de MUAPs: Esta técnica segmenta la señal detectando los picos de los MUAPs utilizando un umbral basado en el valor máximo y el valor medio absoluto de la señal EMG [6].
 
-Identificación de puntos de inicio y fin: El BEP (Beginning Extraction Point) y el EEP (Ending Extraction Point) marcan el inicio y el final, respectivamente, de un MUAP. Utilizamos un filtro de paso alto y ventanas deslizantes para identificar los puntos de inicio y fin de los MUAPs basándose en umbrales específicos de amplitud [ ].
+Identificación de puntos de inicio y fin: El BEP (Beginning Extraction Point) y el EEP (Ending Extraction Point) marcan el inicio y el final, respectivamente, de un MUAP. Utilizamos un filtro de paso alto y ventanas deslizantes para identificar los puntos de inicio y fin de los MUAPs basándose en umbrales específicos de amplitud [6].
 
 Transformada de Wavelet Discreta (DWT): Esta técnica descompone la señal EMG utilizando wavelets, en este caso, Daubechies4 (db4), para identificar los picos de los MUAPs.
 
 
 - ### **Extracción de caracteríticas** <a name="id7"></a>
-La extracción de características en señales EMG implica transformar los datos brutos de la señal en una estructura de datos relevante, eliminando el ruido y resaltando la información esencial. Dentro de este contexto, se identifican tres tipos principales de características: las del dominio del tiempo, las del dominio de la frecuencia y las del dominio tiempo-frecuencia []. 
+La extracción de características en señales EMG implica transformar los datos brutos de la señal en una estructura de datos relevante, eliminando el ruido y resaltando la información esencial. Dentro de este contexto, se identifican tres tipos principales de características: las del dominio del tiempo, las del dominio de la frecuencia y las del dominio tiempo-frecuencia [7]. 
 
-Para la extracción de características en nuestras señales, optaremos por métodos en el dominio del tiempo. Estas técnicas son ampliamente utilizadas en el reconocimiento de patrones EMG debido a su simplicidad y rapidez de cálculo, puesto que no requieren de transformaciones adicionales. Las características en el dominio del tiempo se calculan directamente a partir de la amplitud de las señales entrantes [].
+Para la extracción de características en nuestras señales, optaremos por métodos en el dominio del tiempo. Estas técnicas son ampliamente utilizadas en el reconocimiento de patrones EMG debido a su simplicidad y rapidez de cálculo, puesto que no requieren de transformaciones adicionales. Las características en el dominio del tiempo se calculan directamente a partir de la amplitud de las señales entrantes [7].
 
-La técnica para evaluar en el tiempo es la raíz cuadrada media (RMS), ofrece una mejor representación de las fluctuaciones observadas en las contracciones de fuerza constante [].
+La técnica para evaluar en el tiempo es la raíz cuadrada media (RMS), ofrece una mejor representación de las fluctuaciones observadas en las contracciones de fuerza constante [7].
 
 Además en el Biosignals Notebooks, para Análisis de las señales EMG, se recomienda las siguientes técnicas: Detección de señales de activación, en el dominio de la frecuencia: Median Frecuency, Maximum power frecuency. También consideraremos la detección de las contracciones musculares. 
 
@@ -146,6 +146,8 @@ Además en el Biosignals Notebooks, para Análisis de las señales EMG, se recom
 
 [5] N. M. Sobahi, "Denoising of EMG Signals Based on Wavelet Transform," Asian Transactions on Engineering (ATE ISSN: 2221-4267), vol. 1, no. 5, pp. 17-23, 2011. [Online]. Available: https://www.researchgate.net/publication/267957236_Denoising_of_EMG_Signals_Based_on_Wavelet_Transform [Accessed: May. 25, 2024]
 
-
+[6] 
+[7] C. Spiewak, “A Comprehensive Study on EMG Feature Extraction and Classifiers,” Open Access Journal of Biomedical Engineering and Biosciences, vol. 1, no. 1, Feb. 2018, doi: https://doi.org/10.32474/oajbeb.2018.01.000104.
+‌
 
 ---
