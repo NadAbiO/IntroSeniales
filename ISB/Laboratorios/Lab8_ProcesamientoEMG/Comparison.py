@@ -15,7 +15,7 @@ def read_emg_signal(file_path):
     return np.array(signal)
 
 # Replace the path with the actual file path using raw string
-file_path = r'C:\Users\Bruno\Documents\pyshit\Bruno(1).txt'
+file_path = r'Bruno(1).txt'
 emg_signal = read_emg_signal(file_path)
 
 # Define the sampling frequency
