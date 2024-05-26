@@ -68,5 +68,9 @@ ola mira este paper [2] pag 29
 
 [2] “Item 1009/743 | Repositorio INAOE,” Repositorioinstitucional.mx, 2023, doi: http://inaoe.repositorioinstitucional.mx/jspui/handle/1009/743. [Accessed: May. 25, 2024]
 
-[3] J. J. G. Murillo, A. Ilzarbe, y S. Osuna, «Procesado de señales EMG en Trastornos Neuromusculares», 2013, doi: 10.13140/2.1.4902.9445.
+[3] J. J. G. Murillo, A. Ilzarbe, y S. Osuna, «Procesado de señales EMG en Trastornos Neuromusculares», 2013, doi: 10.13140/2.1.4902.9445. [Accessed: May. 25, 2024]
+
+
+
+
 ---
