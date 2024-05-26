@@ -38,8 +38,9 @@ La señal proveniente de la etapa de pre-amplificación contiene una mezcla de s
 
 </p>
 
-
-<img width="574" alt="image" src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/42be6c03-eb21-43e3-99c3-3785d83aa594">
+<p align="center">
+  <img src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/42be6c03-eb21-43e3-99c3-3785d83aa594"  width="500" alt="image"> </p>
+<em><p align="center">Principales etapas implicadas en la adquisición de la señal, preprocesamiento, y extracción de características de señales de EMG registrados a partir de una fibra muscular [3]</p></em> 
 
 - ### **Filtrado** <a name="id5"></a>
 
@@ -67,5 +68,5 @@ ola mira este paper [2] pag 29
 
 [2] “Item 1009/743 | Repositorio INAOE,” Repositorioinstitucional.mx, 2023, doi: http://inaoe.repositorioinstitucional.mx/jspui/handle/1009/743. [Accessed: May. 25, 2024]
 
-
+[3] J. J. G. Murillo, A. Ilzarbe, y S. Osuna, «Procesado de señales EMG en Trastornos Neuromusculares», 2013, doi: 10.13140/2.1.4902.9445.
 ---
