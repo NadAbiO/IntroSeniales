@@ -114,7 +114,7 @@ Además en el Biosignals Notebooks, para Análisis de las señales EMG, se recom
   
 - **RMS**
   <div align="center">
-  <img src="Img\emg_deteccion_eventos.png"  width="400" height="300"> 
+  <img src="ISB/Laboratorios/Lab8_ProcesamientoEMG/Imagenes/RMS.png"  width="400" height="300"> 
   </div>
   
 - **Valores obtenidos**
