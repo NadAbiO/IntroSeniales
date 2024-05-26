@@ -86,17 +86,17 @@ Además en el Biosignals Notebooks, para Análisis de las señales EMG, se recom
 
 - **Identificación de picos de MUAPs**
   <div align="center">
-  <img src="Img\emg_deteccion_eventos.png"  width="400" height="300"> 
+  <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab8_ProcesamientoEMG/Imagenes/peak_detection.png"  width="600" height="500"> 
   </div>
 
 - **Identificación de puntos de inicio y fin**
   <div align="center">
-  <img src="Img\emg_deteccion_eventos.png"  width="400" height="300"> 
+  <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab8_ProcesamientoEMG/Imagenes/bep.png"  width="600" height="500"> 
   </div>
 
 - **Transformada de Wavelet Discreta (DWT)**
   <div align="center">
-  <img src="Img\emg_deteccion_eventos.png"  width="400" height="300"> 
+  <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab8_ProcesamientoEMG/Imagenes/dwt_segmentation.png"  width="600" height="500"> 
   </div>
   
    
@@ -104,17 +104,17 @@ Además en el Biosignals Notebooks, para Análisis de las señales EMG, se recom
 
 - **Detección de contracciones musculares**
   <div align="center">
-  <img src="Img\emg_deteccion_eventos.png"  width="400" height="300"> 
+  <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab8_ProcesamientoEMG/Imagenes/contracciones%20musculares.png"  width="600" height="500"> 
   </div>
   
 - **Detección de señales de activación**
   <div align="center">
-  <img src="Img\emg_deteccion_eventos.png"  width="400" height="300"> 
+  <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab8_ProcesamientoEMG/Imagenes/se%C3%B1ales_de_activacion.png"  width="600" height="500"> 
   </div>
   
 - **RMS**
   <div align="center">
-  <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab8_ProcesamientoEMG/Imagenes/RMS.png"  width="400" height="300"> 
+  <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab8_ProcesamientoEMG/Imagenes/RMS.png"  width="600" height="500"> 
   </div>
   
 - **Valores obtenidos**
