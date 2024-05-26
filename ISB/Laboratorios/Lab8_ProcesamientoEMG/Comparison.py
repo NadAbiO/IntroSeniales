@@ -14,14 +14,14 @@ def read_emg_signal(file_path):
         signal = [float(line.split()[-1]) for line in file if line.strip()]
     return np.array(signal)
 
-# Replace the path with the actual file path using raw string
+#  file path
 file_path = r'Bruno(1).txt'
 emg_signal = read_emg_signal(file_path)
 
-# Define the sampling frequency
+# Sampling frequency
 fs = 1000  # Adjust if known, otherwise estimate based on your data
 
-# Create a time vector based on the length of the signal and the sampling frequency
+# time vector 
 t = np.linspace(0, len(emg_signal) / fs, len(emg_signal))
 
 # Wavelet filter
