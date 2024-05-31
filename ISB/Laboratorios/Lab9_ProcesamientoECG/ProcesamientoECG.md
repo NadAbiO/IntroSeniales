@@ -13,3 +13,30 @@
 6. [Archivos](#id9)
 7. [Bibliografía](#id10)
 ---
+
+## **Objetivos** <a name="id1"></a>
+
+
+## **Introducción** <a name="id2"></a>
+
+
+
+## **Metodología** <a name="id3"></a>
+
+
+
+
+
+## **Resultados** <a name="id7"></a>
+
+
+
+## **Discusión** <a name="id8"></a>
+
+
+
+## **Archivos** <a name="id9"></a>
+
+
+
+## **Bibliografía** <a name="id10"></a>
