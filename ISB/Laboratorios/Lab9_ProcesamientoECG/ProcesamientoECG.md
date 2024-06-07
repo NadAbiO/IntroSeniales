@@ -38,7 +38,18 @@ fdbdf
 
 ## **Resultados** <a name="id7"></a>
 
-wdefw
+
+| ECG de la muestra | ECG filtrado|
+|-----------|-----------|
+| ![ecg_muestra](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab9_ProcesamientoECG/img/ecg_muestra.png?raw=true)  | ![ecg_filtrado](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab9_ProcesamientoECG/img/ecg_filtrado.png?raw=true)   | 
+
+| Sine filter | ECG filtrado (sine filter) |
+|-----------|-----------|
+| ![sine_fil](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab9_ProcesamientoECG/img/sine_filter.png?raw=true)    | ![ecg_sine_fil](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab9_ProcesamientoECG/img/ecg_sine_filter.png?raw=true)     |
+
+#### Picos R de la muestra de ECG
+![r_peaks](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab9_ProcesamientoECG/img/R_peaks.png?raw=true)
+
 
 ---
 
@@ -55,3 +66,5 @@ dsfcs
 ---
 
 ## **Bibliografía** <a name="id10"></a>
+[1]	B. Kulas, HRV_ECG_analysis.ipynb at master · kulasbart/ECG-processing_HRV. .
+
