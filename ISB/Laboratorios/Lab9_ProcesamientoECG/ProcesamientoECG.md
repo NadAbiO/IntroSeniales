@@ -38,13 +38,35 @@ La onda del ECG se compone de las ondas P, Q, R, S y T, cada una reflejando dife
 
 ## **Metodología** <a name="id3"></a>
 
-- ### **Adquisición de la señal** <a name="id4"></a>
+
 - ### **Filtrado** <a name="id5"></a>
 Para el filtrado de la señal se usó un filtro IRR pasabajas simple, ya que al evaluar el espectrograma de la señal se obtuvo que las frecuencias con mayor magnitud eran las que se encontraban por debajo de 5hz.
 Para la detección de picos R se usó el código elaborado en la referencia [1] en la cuál usan una una seno para correlacionarla con la señal ECG (previamente filtrada) en la cual se evidencia que los piceos de interés tiene una correlación alta con la onda seno. A partir de dicho filtro se puede hallar fácilmente los picos R y determinar la frecuencia con la que se encuentran.
 Como se muestra en el código, se encontraron parámetros de dichos picos.
 
 - ### **Cálculo del HRV** <a name="id6"></a>
+La variabilidad de la frecuencia cardíaca (HRV, por sus siglas en inglés) es una herramienta no invasiva utilizada para evaluar la salud cardíaca y el equilibrio cardiovascular [7]. Para analizar la HRV, se emplean métodos lineales que calculan diversos índices en el dominio del tiempo y el dominio de la frecuencia [7]. Uno de los recursos disponibles para este propósito es el "hrv module", una herramienta de Python que es sencilla, de código abierto, y que incluye técnicas comunes para filtrar, eliminar tendencias y extraer información [7]. Otra opción para la investigación y desarrollo de aplicaciones en HRV es la caja de herramientas de código abierto pyHRV [8].
+
+En nuestro caso, analizamos la HRV utilizando la biblioteca pyHRV y codificamos en Google Colab. Seguimos la guía de codificación proporcionada en la documentación de pyHRV [9]. Esta documentación menciona el uso de los intervalos normal a normal (NNI), que miden los intervalos entre los picos R detectados en un ECG [8]. Basándonos en la literatura, seleccionamos los siguientes parámetros según el dominio [7] [8]:
+
+**Dominio del tiempo:**
+**Desviación típica de intervalos sucesivos de NN (SDNN)**
+La SDNN mide la variabilidad total de la HRV, generada por las ramas parasimpática y simpática del sistema nervioso autónomo [7]. La desviación estándar (DE) es una métrica común para cuantificar la dispersión en un conjunto de datos. En este contexto, la SDNN mide la variabilidad en las duraciones de los NNI alrededor de su valor medio [8].
+
+**Media cuadrática de las diferencias sucesivas (RMSSD)**
+La RMSSD es la raíz cuadrada de la media de las diferencias al cuadrado entre intervalos NN sucesivos. Esta métrica mide las variaciones a corto plazo en los intervalos NN y proporciona información sobre la actividad del sistema nervioso parasimpático [8].
+
+**Desviación típica de las diferencias sucesivas (SDSD)**
+La SDSD es la desviación estándar de las diferencias entre intervalos NN consecutivos, similar al parámetro RMSSD. La principal diferencia entre SDSD y RMSSD radica en su dependencia de las características estacionarias de la serie de intervalos NN, lo que significa que cada una puede ser más útil en diferentes contextos de análisis de la variabilidad de la frecuencia cardíaca [8].
+
+**Dominio de la frecuencia:**
+El análisis en el dominio de la frecuencia mide cómo cada componente de frecuencia contribuye a la fluctuación total de la frecuencia cardíaca. Los componentes principales son VLF (frecuencia muy baja; < 0,04 Hz), LF (frecuencia baja; 0,04-0,15 Hz) y HF (frecuencia alta; 0,15-0,40 Hz) [7].
+El análisis en el dominio de la frecuencia implica calcular el contenido de energía espectral de cada componente de frecuencia mediante la estimación de la densidad espectral de potencia (PSD) [7]. El periodograma de Welch es un método no paramétrico basado en la transformada de Fourier que se obtiene promediando varias estimaciones de la PSD en diferentes segmentos de la señal [7].
+
+**Parámetros no lineales:**
+Los parámetros no lineales buscan resaltar las características no lineales e imprevisibles de las series de intervalos NNI. El gráfico de Poincaré es una herramienta gráfica en la que un intervalo NNIj se traza frente a su sucesor NNIj+1, proporcionando una representación visual del HRV en un conjunto de datos de NNI. Este gráfico permite realizar una evaluación rápida del estado de salud de un sujeto y visualizar HRV global [8]. En el gráfico de Poincaré, el valor de SD1 refleja las fluctuaciones a corto plazo de la frecuencia cardíaca, mientras que SD2 refleja tanto las fluctuaciones a corto como a largo plazo [7].
+
+
 
 ---
 
