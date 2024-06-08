@@ -117,5 +117,12 @@ dsfcs
 
 [6] “Heart Rate Variability Training - SimpliFaster”. SimpliFaster. [En línea]. Disponible: https://simplifaster.com/articles/heart-rate-variability-training/
 
+[7]  R. Bartels and T. Peçanha, “HRV: a Pythonic package for Heart Rate Variability Analysis,” Journal of Open Source Software, vol. 5, no. 51, p. 1867, Jul. 2020, doi: https://doi.org/10.21105/joss.01867.
+
+[8]  P. M. C. Gomes, "Development of an Open-Source Python Toolbox for Heart Rate Variability (HRV)", Tesis de Maestría, Departamento de Ingeniería Biomédica, Univ. of Appl. Sci. Hamburg, Hamburg, Alemania, 2018.
+
+[9] “Highlights — pyHRV - OpenSource Python Toolbox for Heart Rate Variability 0.4 documentation,” pyhrv.readthedocs.io. https://pyhrv.readthedocs.io/en/latest/index.html (accessed Jun. 08, 2024).
+
+
 
 
