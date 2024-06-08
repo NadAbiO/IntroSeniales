@@ -164,8 +164,9 @@ Se adjunta el archivo de la referencia [8] en PDF:
 
 [13] Task Force of the European Society of Cardiology and the North American Society of Pacing and Electrophysiology, "Heart rate variability: standards of measurement, physiological interpretation and clinical use," Circulation, vol. 93, no. 5, pp. 1043-1065, 1996.
 
-[14] J. Fatisson, V. Oswald, y F. Lalonde, "Influence diagram of physiological and environmental factors affecting heart rate variability: an extended literature overview," Heart International, vol. 11, no. 1, pp. e32-e40, Sep. 2016. doi: 10.5301/heartint.5000232. PMID: 27924215; PMCID: PMC5056628.
+[14] J. Fatisson, V. Oswald, y F. Lalonde, "Influence diagram of physiological and environmental factors affecting heart rate variability: an extended literature overview," Heart International, vol. 11, no. 1, pp. e32-e40, Sep. 2016. doi: 10.5301/heartint.5000232.
 
-[15] M. Brennan, M. Palaniswami, y P. Kamen, "Do existing measures of Poincaré plot geometry reflect nonlinear features of heart rate variability?" IEEE Transactions on Biomedical Engineering, vol. 48, no. 11, pp. 1342-1347, Nov. 2001. doi: 10.1109/10.959330. PMID: 11686633.
+[15] M. Brennan, M. Palaniswami, y P. Kamen, "Do existing measures of Poincaré plot geometry reflect nonlinear features of heart rate variability?" IEEE Transactions on Biomedical Engineering, vol. 48, no. 11, pp. 1342-1347, Nov. 2001. doi: 10.1109/10.959330.
+
 
 
