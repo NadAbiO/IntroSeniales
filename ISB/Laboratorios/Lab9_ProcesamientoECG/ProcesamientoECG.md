@@ -95,10 +95,10 @@ Los parámetros no lineales buscan resaltar las características no lineales e i
 ![tiempo](https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/tiempo.png)
 
 #### Dominio de la frecuencia
-![frecuencia](https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/frecuencia.png){ width=300px height=200px }
+![frecuencia]<img src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/frecuencia.png" width="500" height="500">
 
 #### Parámetros no lineales
-![no_lineal]<img src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/poincare.png" width="500" height="600">
+![no_lineal]<img src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/poincare.png" width="500" height="500">
 
 
 ---
