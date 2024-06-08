@@ -89,10 +89,16 @@ Los parámetros no lineales buscan resaltar las características no lineales e i
 #### Picos R de la muestra de ECG
 ![r_peaks](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab9_ProcesamientoECG/img/R_peaks.png?raw=true)
 
-## Análisis del HRV
+### Análisis del HRV
 
 #### Dominio del tiempo
 ![tiempo](https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/tiempo.png)
+
+#### Dominio de la frecuencia
+![frecuencia](https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/frecuencia.png)
+
+#### Parámetros no lineales
+![no_lineal](https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/poincare.png)
 
 
 ---
