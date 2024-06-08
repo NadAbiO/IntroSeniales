@@ -30,6 +30,10 @@ fdbdf
 
 - ### **Adquisición de la señal** <a name="id4"></a>
 - ### **Filtrado** <a name="id5"></a>
+Para el filtrado de la señal se usó un filtro IRR pasabajas simple, ya que al evaluar el espectrograma de la señal se obtuvo que las frecuencias con mayor magnitud eran las que se encontraban por debajo de 5hz.
+Para la detección de picos R se usó el código elaborado en la referencia [1] en la cuál usan una una seno para correlacionarla con la señal ECG (previamente filtrada) en la cual se evidencia que los piceos de interés tiene una correlación alta con la onda seno. A partir de dicho filtro se puede hallar fácilmente los picos R y determinar la frecuencia con la que se encuentran.
+Como se muestra en el código, se encontraron parámetros de dichos picos.
+
 - ### **Cálculo del HRV** <a name="id6"></a>
 
 ---
