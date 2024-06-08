@@ -30,7 +30,7 @@ El electrocardiograma (ECG) es esencial para evaluar la función cardíaca, regi
 La onda del ECG se compone de las ondas P, Q, R, S y T, cada una reflejando diferentes aspectos de la actividad eléctrica del corazón, lo que facilita el diagnóstico de diversas condiciones cardíacas . Particularmente, la detección precisa del pico R es crucial, ya que sirve como referencia para medir la frecuencia cardíaca y calcular la variabilidad de la frecuencia cardíaca (HRV) [2]. El intervalo R-R, que es la duración entre dos picos R consecutivos, indica la frecuencia cardíaca, con un rango normal entre 60 y 100 latidos por minuto. Valores fuera de este rango se conocen como bradicardia (menos de 60 latidos por minuto) o taquicardia (más de 100 latidos por minuto) [2,4].
 
 <p align="center">
-  <img src="https://blog.getlief.com/wp-content/uploads/2020/09/Heart-Rate-Variability1.png"  width="300" height="200"> </p>
+  <img src="https://simplifaster.com/wp-content/uploads/2016/12/R-R-Interval-for-Heart-Rate-Variability.jpg"  width="300" height="200"> </p>
 <em><p align="center">Figura 1. HRV [6]</p></em> 
 
 ---
@@ -90,7 +90,7 @@ dsfcs
 
 [5] Akhter N, Gite H, Tharewal S, Kale KV. Computer based RR-Interval detection system with ectopy correction in HRV data. En: 2015 International Conference on Advances in Computing, Communications and Informatics (ICACCI) [Internet]; 10-13 de agosto de 2015; Kochi, India. Disponible en: https://doi.org/10.1109/icacci.2015.7275844
 
-[6] “How To Measure Heart Rate Variability: ECG vs. PPG - Lief Blog”. Lief Blog. Accedido el 8 de junio de 2024. [En línea]. Disponible: https://blog.getlief.com/how-to-measure-heart-rate-variability-ecg-vs-ppg/
+[6] “Heart Rate Variability Training - SimpliFaster”. SimpliFaster. [En línea]. Disponible: https://simplifaster.com/articles/heart-rate-variability-training/
 
 
 
