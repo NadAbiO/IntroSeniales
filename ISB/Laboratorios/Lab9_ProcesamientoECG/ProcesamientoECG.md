@@ -16,12 +16,20 @@
 
 ## **Objetivos** <a name="id1"></a>
 
-gvdsg
+- Utilizar el filtro más apropiado para procesar la señal ECG.
+- Obtener características particulares de la señal ECG.
+- Estudiar la variación en la frecuencia cardíaca (HRV).
+- Contrastar los resultados obtenidos con aquellos de métodos convencionales.
 
 ---
 
 ## **Introducción** <a name="id2"></a>
-fdbdf
+
+El electrocardiograma (ECG) es esencial para evaluar la función cardíaca, registrando la actividad eléctrica del corazón. Las señales de ECG, generadas a través de un transductor que convierte las vibraciones mecánicas del corazón en señales eléctricas, son propensas a diversos tipos de interferencias y ruidos, como los artefactos de movimiento, la interferencia de la línea de alimentación y el ruido muscular. Para interpretar estas señales con precisión, se aplican técnicas de filtrado como el filtrado con la transformada wavelet, que es especialmente efectiva por su capacidad de resolución múltiple [2].
+
+La onda del ECG se compone de las ondas P, Q, R, S y T, cada una reflejando diferentes aspectos de la actividad eléctrica del corazón, lo que facilita el diagnóstico de diversas condiciones cardíacas . Particularmente, la detección precisa del pico R es crucial, ya que sirve como referencia para medir la frecuencia cardíaca y calcular la variabilidad de la frecuencia cardíaca (HRV) [2]. El intervalo R-R, que es la duración entre dos picos R consecutivos, indica la frecuencia cardíaca, con un rango normal entre 60 y 100 latidos por minuto. Valores fuera de este rango se conocen como bradicardia (menos de 60 latidos por minuto) o taquicardia (más de 100 latidos por minuto) [2,4].
+
+https://blog.getlief.com/wp-content/uploads/2020/09/Heart-Rate-Variability1.png
 
 ---
 
@@ -70,5 +78,15 @@ dsfcs
 ---
 
 ## **Bibliografía** <a name="id10"></a>
-[1]	B. Kulas, HRV_ECG_analysis.ipynb at master · kulasbart/ECG-processing_HRV. .
+[1]	B. Kulas, HRV_ECG_analysis.ipynb at master · kulasbart/ECG-processing_HRV.
+
+[2] Chandra S, Sharma A, Singh GK. Feature extraction of ECG signal. J Med Eng Amp Technol [Internet]. 19 de mayo de 2018 [consultado el 8 de junio de 2024];42(4):306-16. Disponible en: https://doi.org/10.1080/03091902.2018.1492039
+
+[3] Malgina O, Milenkovic J, Plesnik E, Zajc M, Tasic JF. ECG signal feature extraction and classification based on R peaks detection in the phase space. En: 2011 IEEE GCC Conference and Exhibition (GCC) [Internet]; 19-22 de febrero de 2011; Dubai, United Arab Emirates. [lugar desconocido]: IEEE; 2011 [consultado el 8 de junio de 2024]. Disponible en: https://doi.org/10.1109/ieeegcc.2011.5752545
+
+[4] Gholam-Hosseini H, Nazeran H. Detection and extraction of the ECG signal parameters. En: 20th Annual International Conference of the IEEE Engineering in Medicine and Biology Society. Vol.20 Biomedical Engineering Towards the Year 2000 and Beyond [Internet]; Hong Kong, China. [lugar desconocido]: IEEE; [consultado el 8 de junio de 2024]. Disponible en: https://doi.org/10.1109/iembs.1998.745846
+
+[5] Akhter N, Gite H, Tharewal S, Kale KV. Computer based RR-Interval detection system with ectopy correction in HRV data. En: 2015 International Conference on Advances in Computing, Communications and Informatics (ICACCI) [Internet]; 10-13 de agosto de 2015; Kochi, India. [lugar desconocido]: IEEE; 2015 [consultado el 8 de junio de 2024]. Disponible en: https://doi.org/10.1109/icacci.2015.7275844
+
+
 
