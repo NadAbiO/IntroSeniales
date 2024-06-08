@@ -113,6 +113,12 @@ sdfs
 
 [Código cálculo HRV](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab9_ProcesamientoECG/HRV_calculations.ipynb)
 
+Se adjunta el archivo de la referencia [7] en PDF:
+[PDF](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab9_ProcesamientoECG/PDF_bibliografia/Pythonic_package_for_HRV.pdf)
+
+Se adjunta el archivo de la referencia [8] en PDF:
+[PDF](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab9_ProcesamientoECG/PDF_bibliografia/Development_of_Open_Source_Python_Toolbox.pdf)
+
 ---
 
 ## **Bibliografía** <a name="id10"></a>
@@ -130,13 +136,7 @@ sdfs
 
 [7]  R. Bartels and T. Peçanha, “HRV: a Pythonic package for Heart Rate Variability Analysis,” Journal of Open Source Software, vol. 5, no. 51, p. 1867, Jul. 2020, doi: https://doi.org/10.21105/joss.01867.
 
-Se adjunta el archivo de la referencia en PDF:
-[PDF](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab9_ProcesamientoECG/PDF_bibliografia/Pythonic_package_for_HRV.pdf)
-
 [8]  P. M. C. Gomes, "Development of an Open-Source Python Toolbox for Heart Rate Variability (HRV)", Tesis de Maestría, Departamento de Ingeniería Biomédica, Univ. of Appl. Sci. Hamburg, Hamburg, Alemania, 2018.
-
-Se adjunta el archivo de la referencia en PDF:
-[PDF](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab9_ProcesamientoECG/PDF_bibliografia/Development_of_Open_Source_Python_Toolbox.pdf)
 
 [9] “Highlights — pyHRV - OpenSource Python Toolbox for Heart Rate Variability 0.4 documentation,” pyhrv.readthedocs.io. https://pyhrv.readthedocs.io/en/latest/index.html (accessed Jun. 08, 2024).
 
