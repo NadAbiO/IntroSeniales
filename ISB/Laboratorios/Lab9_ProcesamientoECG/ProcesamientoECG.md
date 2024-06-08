@@ -105,7 +105,23 @@ Los parámetros no lineales buscan resaltar las características no lineales e i
 
 ## **Discusión** <a name="id8"></a>
 
-sdfs
+El análisis de la señal de ECG y la variabilidad de la frecuencia cardíaca (HRV) es fundamental para la evaluación de la salud cardiovascular. Sobre los resultados obtenidos extraídos a partir de la implementación de métodos de filtrado, detección de picos R y análisis de HRV en diferentes dominios, muestran coherencia con las prácticas actuales en la investigación biomédica.
+
+### Filtrado y Detección de Picos R: 
+El filtrado de la señal ECG con un filtro IIR pasabajas simple demostró ser efectivo para eliminar el ruido de alta frecuencia, permitiendo una visualización más clara de los componentes de baja frecuencia, que son de mayor interés clínico. Este enfoque es consistente con estudios previos que sugieren la eficacia de filtros pasabajas en el preprocesamiento de señales ECG para mejorar la relación señal-ruido [10]. La selección de una frecuencia de corte adecuada (< 5 Hz) se basa en la observación de que las frecuencias cardíacas relevantes se encuentran predominantemente en esta banda, lo que concuerda con la literatura [11].
+
+### Análisis del HRV en el Dominio del Tiempo: 
+Los parámetros del dominio del tiempo, como SDNN, RMSSD y SDSD, son ampliamente utilizados para evaluar la HRV. La SDNN refleja la variabilidad total de los intervalos RR, mientras que RMSSD y SDSD están más relacionados con la variabilidad a corto plazo y la actividad parasimpática [12]. En nuestro estudio, los valores de SDNN (43.75 ms), RMSSD (35.93 ms) y SDSD (19.80 ms) sugieren una variabilidad cardíaca moderada, lo cual indica un balance entre la actividad simpática y parasimpática del sistema nervioso autónomo.
+
+### Análisis del HRV en el Dominio de la Frecuencia: 
+El análisis espectral mediante el periodograma de Welch es un método no paramétrico efectivo para descomponer la señal de HRV en sus componentes de frecuencia [13]. Las bandas de frecuencia LF (0.04-0.15 Hz) y HF (0.15-0.40 Hz) son de particular interés, ya que LF está asociada con la actividad simpática y parasimpática, mientras que HF se relaciona principalmente con la actividad parasimpática. La relación LF/HF de 1.97 en nuestros resultados indica un equilibrio entre ambas ramas del sistema nervioso autónomo, lo cual es consistente con estudios que señalan la importancia de esta relación en la evaluación del estrés y el bienestar cardiovascular [14].
+
+### Parámetros No Lineales: 
+El análisis de parámetros no lineales y el gráfico de Poincaré proporcionan una visión adicional sobre la complejidad del sistema cardiovascular. Los valores de SD1 (25.37 ms) y SD2 (55.837 ms) obtenidos reflejan la variabilidad a corto y largo plazo respectivamente, y son indicativos de una buena salud cardíaca [15].
+
+### Conclusión: 
+En conclusión, el preprocesamiento y análisis de la señal de ECG utilizando técnicas de filtrado, detección de picos R y análisis de HRV es crucial para la evaluación de la salud cardiovascular. Los métodos y resultados presentados son consistentes y proporcionan una base sólida para la monitorización y diagnóstico de condiciones cardíacas. La utilización de herramientas y técnicas modernas, como el filtrado pasabajas y el análisis de HRV en múltiples dominios, refuerza la validez y fiabilidad de los resultados obtenidos, contribuyendo significativamente al campo de la bioingeniería y la medicina cardiovascular.
+
 
 ---
 
@@ -140,6 +156,16 @@ Se adjunta el archivo de la referencia [8] en PDF:
 
 [9] “Highlights — pyHRV - OpenSource Python Toolbox for Heart Rate Variability 0.4 documentation,” pyhrv.readthedocs.io. https://pyhrv.readthedocs.io/en/latest/index.html (accessed Jun. 08, 2024).
 
+[10] Francisco Azuaje; Gari Clifford; Patrick McSharry, Advanced Methods and Tools for ECG Data Analysis , Artech, 2006.
 
+[11] J. Pan and W. J. Tompkins, "A Real-Time QRS Detection Algorithm," in IEEE Transactions on Biomedical Engineering, vol. BME-32, no. 3, pp. 230-236, March 1985, doi: 10.1109/TBME.1985.325532.
+
+[12] F. Shaffer y J. P. Ginsberg, "An Overview of Heart Rate Variability Metrics and Norms," Frontiers in Public Health, vol. 5, p. 258, 2017. doi: 10.3389/fpubh.2017.00258.
+
+[13] Task Force of the European Society of Cardiology and the North American Society of Pacing and Electrophysiology, "Heart rate variability: standards of measurement, physiological interpretation and clinical use," Circulation, vol. 93, no. 5, pp. 1043-1065, 1996.
+
+[14] J. Fatisson, V. Oswald, y F. Lalonde, "Influence diagram of physiological and environmental factors affecting heart rate variability: an extended literature overview," Heart International, vol. 11, no. 1, pp. e32-e40, Sep. 2016. doi: 10.5301/heartint.5000232. PMID: 27924215; PMCID: PMC5056628.
+
+[15] M. Brennan, M. Palaniswami, y P. Kamen, "Do existing measures of Poincaré plot geometry reflect nonlinear features of heart rate variability?" IEEE Transactions on Biomedical Engineering, vol. 48, no. 11, pp. 1342-1347, Nov. 2001. doi: 10.1109/10.959330. PMID: 11686633.
 
 
