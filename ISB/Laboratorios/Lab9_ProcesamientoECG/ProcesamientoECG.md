@@ -98,7 +98,7 @@ Los parámetros no lineales buscan resaltar las características no lineales e i
 ![frecuencia](https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/frecuencia.png){ width=300px height=200px }
 
 #### Parámetros no lineales
-![no_lineal](https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/poincare.png)
+![no_lineal]<img src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/poincare.png" width="500" height="600">
 
 
 ---
