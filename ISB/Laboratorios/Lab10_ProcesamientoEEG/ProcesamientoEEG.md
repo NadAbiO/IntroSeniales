@@ -32,28 +32,27 @@
 
 <p align="center">
   <img src=""  width="300" height="200"> </p>
-<em><p align="center">Figura 1. Señales del EEG </p></em> 
+<em><p align="center">Figura 1. </p></em> 
 
 ---
 ## **Metodología** <a name="id3"></a>
 
+- ### **Adquisición de la señal** <a name="id4"></a>
+
+   La señal empleada fue obtenidas mediante el ultracortex en el horario de laboratorio. Consiste de 8 canales de EEG. 
 
 ---
-### **Adquisición de la señal** <a name="id4"></a>
-La señales que se emplearon fueron obtenidas de la siguiente base de datos "Auditory evoked potential EEG-Biometric dataset" la cual es el libre acceso via Physionet. Consiste de 240 señales de EEG de dos minutos de duración que fueron obtenidas de 20 voluntarios. La toma de la señal siguió los siguientes pasos:
-
----
-### **Filtrado (ICA)** <a name="id5"></a>
+- ### **Filtrado (ICA)** <a name="id5"></a>
 
 [ICA - google Colab](https://colab.research.google.com/drive/1OVnGGGl1892MNKIAGkUj3gbo-6ZN5EDJ?usp=sharing)
 
 
 ---
-### **Preprocesamiento** <a name="id6"></a>
+- ### **Preprocesamiento** <a name="id6"></a>
 
 
 ---
-### **Feature extraction (Wavelet)** <a name="id7"></a>
+- ### **Feature extraction (Wavelet)** <a name="id7"></a>
 
 
 ---
