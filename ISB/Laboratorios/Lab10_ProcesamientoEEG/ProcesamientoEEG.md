@@ -25,7 +25,10 @@
 ## **Introducción** <a name="id2"></a>
 <p align="justify">El electroencefalograma (EEG) es una técnica diagnóstica fundamental en la neurología que permite la medición de la actividad eléctrica del cerebro mediante electrodos situados en el cuero cabelludo. Esta técnica registra los potenciales eléctricos generados por las neuronas cerebrales, proporcionando información crítica sobre la función neuronal y la actividad cerebral [1] </p>
 
+<p align=justify"> Se identifican cinco ondas cerebrales principales, cada una con un rango de frecuencia específico. Estas bandas de frecuencia, ordenadas de menor a mayor, se denominan delta (δ), theta (θ), alpha (α), beta (β) y gamma (γ).[2]
+
 <p align=justify"> El EEG se utiliza ampliamente para investigar y diagnosticar trastornos neurológicos, especialmente en la evaluación de la epilepsia y otros trastornos convulsivos. También es fundamental en el diagnóstico de trastornos del sueño y encefalopatías, así como para la monitorización en cirugías cerebrales y durante la administración de anestesia .</p>
+
 
 <p align="center">
   <img src=""  width="300" height="200"> </p>
@@ -37,7 +40,7 @@
 
 ---
 ### **Adquisición de la señal** <a name="id4"></a>
-
+La señales que se emplearon fueron obtenidas de la siguiente base de datos "Auditory evoked potential EEG-Biometric dataset" la cual es el libre acceso via Physionet. Consiste de 240 señales de EEG de dos minutos de duración que fueron obtenidas de 20 voluntarios. La toma de la señal siguió los siguientes pasos:
 
 ---
 ### **Filtrado (ICA)** <a name="id5"></a>
@@ -73,5 +76,9 @@
 
 
 ## **Bibliografía** <a name="id11"></a>
+
+[1] D. L. Schomer and L. da S. F. Henrique, Niedermeyer’s Electroencephalography: Basic Principles, Clinical Applications, and Related Fields. New York: Oxford University Press, 2018.
+
+[2] S. Sanei y J. A. Chambers, EEG Signal Processing. West Sussex, England: John Wiley Sons Ltd,, 2007. Accedido el 15 de junio de 2024. [En línea]. Disponible: https://doi.org/10.1002/9780470511923
 
 
