@@ -40,6 +40,16 @@
 - ### **Adquisición de la señal** <a name="id4"></a>
 
    <p align="justify"> La señal utilizada en este estudio fue obtenida mediante el sistema Ultracortex utilizando el sistema internacional 10-20, durante las sesiones de laboratorio. La data cuenta con 8 canales de EEG, cada uno de los cuales captura la actividad cerebral con una frecuencia de muestreo de 250 Hz. La elección del Ultracortex y del entorno de laboratorio se realizó para asegurar la calidad y consistencia de los datos recogidos, aprovechando las capacidades avanzadas del hardware de OpenBCI. Estas configuraciones permiten una resolución temporal adecuada para un análisis detallado de las ondas cerebrales y aseguran que las señales capturadas sean precisas y fiables para los propósitos del estudio.
+   
+<div align="center">
+
+| Vista superior | Vista lateral |
+|----------|----------|
+| <img src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/7363b9c8-fec1-4913-91fe-4202bf97d567" alt="superior" width="200"/> | <img src="https://github.com/NadAbiO/IntroSeniales/assets/89549012/c422a465-c922-477f-9f70-efd335f4fbf5" alt="lateral" width="200"/> |
+
+<em><p align="center">Figura 2. Posicionamiento de Electrodos 10-20 [3]</p></em>
+
+<div align="left">
 
 ---
 - ### **Filtrado (ICA)** <a name="id5"></a>
