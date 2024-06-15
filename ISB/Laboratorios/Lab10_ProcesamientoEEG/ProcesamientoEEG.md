@@ -8,7 +8,7 @@
    - [Adquisición de la señal](#id4)
    - [Filtrado (ICA)](#id5)
    - [Preprocesamiento](#id6)
-   - [Feature extraction (Wavelet)](#id7)
+   - [Extracción de características (Wavelet)](#id7)
 4. [Resultados](#id8)
 5. [Discusión](#id9)
 6. [Archivos](#id10)
@@ -65,7 +65,7 @@
 
 
 ---
-- ### **Feature extraction (Wavelet)** <a name="id7"></a>
+- ### **Extracción de características (Wavelet)** <a name="id7"></a>
 
 
 ---
