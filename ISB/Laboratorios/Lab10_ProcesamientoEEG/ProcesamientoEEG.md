@@ -70,6 +70,7 @@
 
 ## **Archivos** <a name="id10"></a>
 
+- [Señal EEG (.txt)]()
 
 ---
 
