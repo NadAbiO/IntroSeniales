@@ -29,6 +29,9 @@
 
 <p align=justify"> El EEG se utiliza ampliamente para investigar y diagnosticar trastornos neurológicos, especialmente en la evaluación de la epilepsia y otros trastornos convulsivos. También es fundamental en el diagnóstico de trastornos del sueño y encefalopatías, así como para la monitorización en cirugías cerebrales y durante la administración de anestesia .</p>
 
+<p align=justify"> Los métodos tradicionales para eliminar artefactos del EEG suelen utilizar filtros lineales o regresiones, basándose en cuándo ocurren los artefactos o en qué rango de frecuencias se encuentran [5]. Sin embargo, filtrar en el dominio del tiempo o de la frecuencia puede llevar a una pérdida significativa de la actividad cerebral observada, debido a que las señales neurológicas y los artefactos pueden superponerse espectralmente. El análisis multirresolución con transformada wavelet discreta (DWT) es más eficaz para eliminar artefactos y preservar la estructura real de la señal EEG en el tiempo y la frecuencia [6, 7]. Por su parte, el análisis de componentes independientes (ICA) ha demostrado ser útil para separar los artefactos en componentes independientes [8].
+
+<p align=justify"> En los últimos años, se ha implementado una técnica que combina ICA y DWT para eliminar artefactos en el EEG. Este método combinado también puede manejar diversos tipos de artefactos en EEG de múltiples canales.[4]
 
 <p align="center">
   <img src=""  width="300" height="200"> </p>
@@ -93,4 +96,13 @@
 
 [3] Bitalino (r)evolution lab guide, https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf. Accedido el 15 de junio de 2024. 
 
+[4] S. S. Lee, K. Lee and G. Kang, "EEG Artifact Removal by Bayesian Deep Learning & ICA," 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), Montreal, QC, Canada, 2020, pp. 932-935, doi: 10.1109/EMBC44109.2020.9175785.
+
+[5] J. C. Woestenburg, M. N. Verbaten, and J. L. Slangen, "The removal of the eye-movement artifact from the EEG by regression analysis in the frequency domain," Biological Psychology, vol. 16, pp. 127-147, 1983.
+
+[6] J. H. Zhang, K. Janschek, J. F. Bohme, and Y. J. Zeng, "Multi-resolution dyadic wavelet denoising approach for extraction of visual evoked potentials in the brain," IEE Proceedings - Vision, Image and Signal Processing, vol. 151, pp. 180-186, 2004.
+
+[7] M. Mamun, M. Al-Kadi, and M. Marufuzzaman, "Effectiveness of Wavelet Denoising on Electroencephalogram Signals," Journal of Applied Research and Technology, vol. 11, pp. 156-160, 2013.
+
+[8] M. B. Hamaneh, N. Chitravas, K. Kaiboriboon, S. D. Lhatoo, and K. A. Loparo, "Automated Removal of EKG Artifact From EEG Data Using Independent Component Analysis and Continuous Wavelet Transformation," IEEE Transactions on Biomedical Engineering, vol. 61, pp. 1634-1641, 2014.
 
