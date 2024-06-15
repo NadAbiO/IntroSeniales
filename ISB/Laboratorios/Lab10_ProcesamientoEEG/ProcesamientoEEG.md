@@ -70,7 +70,7 @@
 
 ## **Archivos** <a name="id10"></a>
 
-- [Señal EEG (.txt)]()
+- [Señal EEG (.txt)](https://github.com/NadAbiO/IntroSeniales/blob/eabb364176c7424485a2238dc83e6cd4f13f24d7/ISB/Laboratorios/Lab10_ProcesamientoEEG/OpenBCI_GUI-v5-meditation.txt)
 
 ---
 
