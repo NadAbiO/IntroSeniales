@@ -91,4 +91,6 @@
 
 [2] S. Sanei y J. A. Chambers, EEG Signal Processing. West Sussex, England: John Wiley Sons Ltd,, 2007. Accedido el 15 de junio de 2024. [En línea]. Disponible: https://doi.org/10.1002/9780470511923
 
+[3] Bitalino (r)evolution lab guide, https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf. Accedido el 15 de junio de 2024. 
+
 
