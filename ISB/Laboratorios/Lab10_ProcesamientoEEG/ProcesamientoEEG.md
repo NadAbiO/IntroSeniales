@@ -23,7 +23,13 @@
 
 ---
 ## **Introducción** <a name="id2"></a>
+<p align="justify">El electroencefalograma (EEG) es una técnica diagnóstica fundamental en la neurología que permite la medición de la actividad eléctrica del cerebro mediante electrodos situados en el cuero cabelludo. Esta técnica registra los potenciales eléctricos generados por las neuronas cerebrales, proporcionando información crítica sobre la función neuronal y la actividad cerebral [1] </p>
 
+<p align=justify"> El EEG se utiliza ampliamente para investigar y diagnosticar trastornos neurológicos, especialmente en la evaluación de la epilepsia y otros trastornos convulsivos. También es fundamental en el diagnóstico de trastornos del sueño y encefalopatías, así como para la monitorización en cirugías cerebrales y durante la administración de anestesia .</p>
+
+<p align="center">
+  <img src=""  width="300" height="200"> </p>
+<em><p align="center">Figura 1. Señales del EEG </p></em> 
 
 ---
 ## **Metodología** <a name="id3"></a>
