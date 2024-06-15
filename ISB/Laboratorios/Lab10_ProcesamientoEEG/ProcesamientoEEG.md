@@ -39,7 +39,7 @@
 
 - ### **Adquisición de la señal** <a name="id4"></a>
 
-   La señal utilizada en este estudio fue obtenida mediante el sistema Ultracortex utilizando el sistema internacional 10-20, durante las sesiones de laboratorio. La data cuenta con 8 canales de EEG, cada uno de los cuales captura la actividad cerebral con una frecuencia de muestreo de 250 Hz. La elección del Ultracortex y del entorno de laboratorio se realizó para asegurar la calidad y consistencia de los datos recogidos, aprovechando las capacidades avanzadas del hardware de OpenBCI. Estas configuraciones permiten una resolución temporal adecuada para un análisis detallado de las ondas cerebrales y aseguran que las señales capturadas sean precisas y fiables para los propósitos del estudio.
+   <p align="justify"> La señal utilizada en este estudio fue obtenida mediante el sistema Ultracortex utilizando el sistema internacional 10-20, durante las sesiones de laboratorio. La data cuenta con 8 canales de EEG, cada uno de los cuales captura la actividad cerebral con una frecuencia de muestreo de 250 Hz. La elección del Ultracortex y del entorno de laboratorio se realizó para asegurar la calidad y consistencia de los datos recogidos, aprovechando las capacidades avanzadas del hardware de OpenBCI. Estas configuraciones permiten una resolución temporal adecuada para un análisis detallado de las ondas cerebrales y aseguran que las señales capturadas sean precisas y fiables para los propósitos del estudio.
 
 ---
 - ### **Filtrado (ICA)** <a name="id5"></a>
