@@ -34,8 +34,8 @@
 <p align=justify"> En los últimos años, se ha implementado una técnica que combina ICA y DWT para eliminar artefactos en el EEG. Este método combinado también puede manejar diversos tipos de artefactos en EEG de múltiples canales.[4]
 
 <p align="center">
-  <img src=""  width="300" height="200"> </p>
-<em><p align="center">Figura 1. </p></em> 
+  <img src="https://canada1.discourse-cdn.com/free1/uploads/mne/original/1X/68ff535c1fa69202b9b367218a1f8f685064032c.jpeg"  width="300" height="200"> </p>
+<em><p align="center">Figura 1 Componenes ICA [9]. </p></em> 
 
 ---
 ## **Metodología** <a name="id3"></a>
@@ -105,4 +105,6 @@
 [7] M. Mamun, M. Al-Kadi, and M. Marufuzzaman, "Effectiveness of Wavelet Denoising on Electroencephalogram Signals," Journal of Applied Research and Technology, vol. 11, pp. 156-160, 2013.
 
 [8] M. B. Hamaneh, N. Chitravas, K. Kaiboriboon, S. D. Lhatoo, and K. A. Loparo, "Automated Removal of EKG Artifact From EEG Data Using Independent Component Analysis and Continuous Wavelet Transformation," IEEE Transactions on Biomedical Engineering, vol. 61, pp. 1634-1641, 2014.
+
+[9] “Unusual failure mode of ICA in particular subject”. MNE Forum. Accedido el 15 de junio de 2024. [En línea]. Disponible: https://mne.discourse.group/t/unusual-failure-mode-of-ica-in-particular-subject/2924
 
