@@ -62,7 +62,7 @@
 
 ---
 - ### **Preprocesamiento** <a name="id6"></a>
-
+Para el desarrollo del preprocesamiento, llevamos a cabo un filtrado, normalizamos la señal y graficamos los datos evocados. Nos basamos en la documentación de MNE como referencia.
 
 ---
 - ### **Extracción de características (Wavelet)** <a name="id7"></a>
