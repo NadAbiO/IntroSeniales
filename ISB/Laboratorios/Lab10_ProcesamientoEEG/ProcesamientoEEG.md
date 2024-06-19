@@ -62,7 +62,7 @@
 
 ---
 - ### **Preprocesamiento** <a name="id6"></a>
-Para el desarrollo del preprocesamiento, llevamos a cabo un filtrado, normalizamos la señal y graficamos los datos evocados. Nos basamos en la documentación de MNE como referencia.
+Para el desarrollo del preprocesamiento, llevamos a cabo un filtrado, normalizamos la señal y graficamos los datos evocados. Nos basamos en la documentación de MNE como referencia [10].
 - [Código Preprocesamiento](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab10_ProcesamientoEEG/Codigo_Preprocesamiento.ipynb)
 ---
 - ### **Extracción de características (Wavelet)** <a name="id7"></a>
@@ -110,4 +110,7 @@ Para el desarrollo del preprocesamiento, llevamos a cabo un filtrado, normalizam
 [8] M. B. Hamaneh, N. Chitravas, K. Kaiboriboon, S. D. Lhatoo, and K. A. Loparo, "Automated Removal of EKG Artifact From EEG Data Using Independent Component Analysis and Continuous Wavelet Transformation," IEEE Transactions on Biomedical Engineering, vol. 61, pp. 1634-1641, 2014.
 
 [9] “Unusual failure mode of ICA in particular subject”. MNE Forum. Accedido el 15 de junio de 2024. [En línea]. Disponible: https://mne.discourse.group/t/unusual-failure-mode-of-ica-in-particular-subject/2924
+
+[10]“Tutorials — MNE 1.7.1 documentation,” mne.tools. https://mne.tools/stable/auto_tutorials/index.html .
+‌
 
