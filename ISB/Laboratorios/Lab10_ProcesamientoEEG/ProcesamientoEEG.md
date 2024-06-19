@@ -73,6 +73,9 @@ Para el desarrollo del preprocesamiento, llevamos a cabo un filtrado, normalizam
 
 ## **Resultados** <a name="id8"></a>
 
+<p align="center">
+  <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/evoked.png"  width="300" height="200"> </p>
+<em><p align="center">Figura 1 Componenes ICA [9]. </p></em> 
 
 ---
 
