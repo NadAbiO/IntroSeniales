@@ -75,7 +75,7 @@ Para el desarrollo del preprocesamiento, llevamos a cabo un filtrado, normalizam
 
 
 #### Datos Evocados 
-<img src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/evoked.png" width="700" height="500">
+<img src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/evoked.png" width="600" height="300">
 
 ---
 
