@@ -65,7 +65,50 @@
 Para el desarrollo del preprocesamiento, llevamos a cabo un filtrado, normalizamos la señal y graficamos los datos evocados. Nos basamos en la documentación de MNE como referencia [10].
 - [Código Preprocesamiento](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab10_ProcesamientoEEG/Codigo_Preprocesamiento.ipynb)
 ---
-- ### **Extracción de características (Wavelet)** <a name="id7"></a>
+### 2.4 Extracción de características
+
+Se extraen diversas características estadísticas (mínimo, máximo, media, desviación estándar, mediana, varianza y RMS) de los coeficientes de detalle y aproximación en cada nivel de descomposición wavelet.
+
+Una vez realizado el filtrado, eliminacion de artefactos por ICA y preprocesamiento de la señal, se procede a la descomposicion wavelet
+
+#### Paso 2: Descomposición Wavelet
+- **Transformada Wavelet**: Se aplica la Transformada Discreta de Wavelet (DWT) utilizando la wavelet Daubechies 2 (db2).
+- **Niveles de Descomposición**: La señal se descompone en 4 niveles para capturar diferentes bandas de frecuencia:
+  - Nivel 1 (D1): Gamma (30-100 Hz)
+  - Nivel 2 (D2): Beta (12-30 Hz)
+  - Nivel 3 (D3): Alfa (8-12 Hz)
+  - Nivel 4 (D4): Theta (4-7 Hz)
+  - Aproximación del Nivel 4 (A4): Delta (0.1-3 Hz)
+
+#### Paso 3: Extracción de Características
+- **Características**: Se extraen las características estadísticas de los coeficientes de detalle y aproximación en cada nivel:
+  - Nedia
+  - Mediana
+  - GFP
+  - RMS
+
+#### Paso 4: Agregación
+- **Agregación de características**: Las características se agregan a través de todos los canales para el análisis.
+
+#### Paso 5: Visualización
+- **Graficación de características**: Se crean gráficos de caja y bigotes para visualizar la distribución de la mediana en diferentes bandas de frecuencia (Delta, Theta, Alpha, Beta, Gamma).
+
+---
+
+### 2.4.1 Extracción de Características por Valores Evocados
+
+#### Paso 1: Creación de eventos y epochs
+- **Eventos sintéticos**: Se crean eventos a intervalos fijos.
+- **Epochs**: Se generan epochs basados en los eventos creados, y se calcula la respuesta promedio evocada.
+
+#### Paso 2: Cálculo de Métricas Evocadas
+- **Media**: Se calcula la media de los datos de los epochs.
+- **Mediana**: Se calcula la mediana de los datos de los epochs.
+- **GFP (Global Field Power)**: Se calcula el poder de campo global, que mide la variabilidad de la señal en el tiempo.
+- **RMS (Root Mean Square)**: Se calcula la raíz cuadrada media, que proporciona una medida de la amplitud de la señal.
+
+#### Paso 3: Visualización
+- **Graficación de métricas evocadas**: Se grafican las respuestas evocadas combinadas por media, mediana, GFP y RMS, con leyendas para identificar cada canal.
 
 
 ---
