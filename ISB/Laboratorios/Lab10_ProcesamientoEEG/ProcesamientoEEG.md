@@ -121,8 +121,12 @@ Una vez realizado el filtrado, eliminacion de artefactos por ICA y preprocesamie
 <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/evoked.png" width="600" height="300">
 
 #### Caracteristicas Obtenidas
+<img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab10_ProcesamientoEEG/Caracteristicas1.png">
 
+#### Extraccion Caracteristicas Wavelet por cada nivel ( Diagrama caja y bigote )
+<img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab10_ProcesamientoEEG/Caracteristica2.png">
 ---
+
 
 ## **Discusión** <a name="id9"></a>
 
