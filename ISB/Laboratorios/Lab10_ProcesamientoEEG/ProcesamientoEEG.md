@@ -120,6 +120,8 @@ Una vez realizado el filtrado, eliminacion de artefactos por ICA y preprocesamie
 #### Datos Evocados 
 <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/evoked.png" width="600" height="300">
 
+#### Caracteristicas Obtenidas
+
 ---
 
 ## **Discusión** <a name="id9"></a>
