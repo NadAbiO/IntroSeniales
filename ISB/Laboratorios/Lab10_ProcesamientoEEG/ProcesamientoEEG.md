@@ -110,7 +110,7 @@ Una vez realizado el filtrado, eliminacion de artefactos por ICA y preprocesamie
 #### Paso 3: Visualización
 - **Graficación de métricas evocadas**: Se grafican las respuestas evocadas combinadas por media, mediana, GFP y RMS, con leyendas para identificar cada canal.
 
-- [Codigo Caracteristicas] (https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab10_ProcesamientoEEG/Code_Caracteristicas.ipynb) 
+- [Codigo Caracteristicas] (https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab10_ProcesamientoEEG/Code_Caracteristicas.py) 
 ---
 
 
