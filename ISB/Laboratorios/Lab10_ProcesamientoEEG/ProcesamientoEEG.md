@@ -71,7 +71,7 @@ Se extraen diversas características estadísticas (mínimo, máximo, media, des
 
 Una vez realizado el filtrado, eliminacion de artefactos por ICA y preprocesamiento de la señal, se procede a la descomposicion wavelet
 
-#### Paso 2: Descomposición Wavelet
+#### Paso 1: Descomposición Wavelet
 - **Transformada Wavelet**: Se aplica la Transformada Discreta de Wavelet (DWT) utilizando la wavelet Daubechies 2 (db2).
 - **Niveles de Descomposición**: La señal se descompone en 4 niveles para capturar diferentes bandas de frecuencia:
   - Nivel 1 (D1): Gamma (30-100 Hz)
@@ -80,17 +80,17 @@ Una vez realizado el filtrado, eliminacion de artefactos por ICA y preprocesamie
   - Nivel 4 (D4): Theta (4-7 Hz)
   - Aproximación del Nivel 4 (A4): Delta (0.1-3 Hz)
 
-#### Paso 3: Extracción de Características
+#### Paso 2: Extracción de Características
 - **Características**: Se extraen las características estadísticas de los coeficientes de detalle y aproximación en cada nivel:
   - Nedia
   - Mediana
   - GFP
   - RMS
 
-#### Paso 4: Agregación
+#### Paso 3: Agregación
 - **Agregación de características**: Las características se agregan a través de todos los canales para el análisis.
 
-#### Paso 5: Visualización
+#### Paso 4: Visualización
 - **Graficación de características**: Se crean gráficos de caja y bigotes para visualizar la distribución de la mediana en diferentes bandas de frecuencia (Delta, Theta, Alpha, Beta, Gamma).
 
 ---
