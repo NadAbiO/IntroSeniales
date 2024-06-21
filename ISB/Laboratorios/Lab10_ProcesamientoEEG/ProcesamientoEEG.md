@@ -57,60 +57,60 @@
 ---
 - ### **Filtrado (ICA)** <a name="id5"></a>
 
-[ICA - google Colab](https://colab.research.google.com/drive/1OVnGGGl1892MNKIAGkUj3gbo-6ZN5EDJ?usp=sharing)
+   [ICA - google Colab](https://colab.research.google.com/drive/1OVnGGGl1892MNKIAGkUj3gbo-6ZN5EDJ?usp=sharing)
 
 
 ---
 - ### **Preprocesamiento** <a name="id6"></a>
-Para el desarrollo del preprocesamiento, llevamos a cabo un filtrado, normalizamos la señal y graficamos los datos evocados. Nos basamos en la documentación de MNE como referencia [10].
-- [Código Preprocesamiento](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab10_ProcesamientoEEG/Codigo_Preprocesamiento.ipynb)
+   Para el desarrollo del preprocesamiento, llevamos a cabo un filtrado, normalizamos la señal y graficamos los datos evocados. Nos basamos en la documentación de MNE como referencia [10].
+   - [Código Preprocesamiento](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab10_ProcesamientoEEG/Codigo_Preprocesamiento.ipynb)
 ---
-### 2.4 Extracción de características
+- ### **Extracción de Características** <a name="id7"></a>** 
 
-Se extraen diversas características estadísticas (mínimo, máximo, media, desviación estándar, mediana, varianza y RMS) de los coeficientes de detalle y aproximación en cada nivel de descomposición wavelet.
+   Se extraen diversas características estadísticas (mínimo, máximo, media, desviación estándar, mediana, varianza y RMS) de los coeficientes de detalle y aproximación en cada nivel de descomposición wavelet.
 
-Una vez realizado el filtrado, eliminacion de artefactos por ICA y preprocesamiento de la señal, se procede a la descomposicion wavelet
+   Una vez realizado el filtrado, eliminacion de artefactos por ICA y preprocesamiento de la señal, se procede a la descomposicion wavelet
 
-#### Paso 1: Descomposición Wavelet
-- **Transformada Wavelet**: Se aplica la Transformada Discreta de Wavelet (DWT) utilizando la wavelet Daubechies 2 (db2).
-- **Niveles de Descomposición**: La señal se descompone en 4 niveles para capturar diferentes bandas de frecuencia:
-  - Nivel 1 (D1): Gamma (30-100 Hz)
-  - Nivel 2 (D2): Beta (12-30 Hz)
-  - Nivel 3 (D3): Alfa (8-12 Hz)
-  - Nivel 4 (D4): Theta (4-7 Hz)
-  - Aproximación del Nivel 4 (A4): Delta (0.1-3 Hz)
+   #### Paso 1: Descomposición Wavelet
+   - **Transformada Wavelet**: Se aplica la Transformada Discreta de Wavelet (DWT) utilizando la wavelet Daubechies 2 (db2).
+   - **Niveles de Descomposición**: La señal se descompone en 4 niveles para capturar diferentes bandas de frecuencia:
+     -  Nivel 1 (D1): Gamma (30-100 Hz)
+     - Nivel 2 (D2): Beta (12-30 Hz)
+     - Nivel 3 (D3): Alfa (8-12 Hz)
+     - Nivel 4 (D4): Theta (4-7 Hz)
+     - Aproximación del Nivel 4 (A4): Delta (0.1-3 Hz)
 
-#### Paso 2: Extracción de Características
-- **Características**: Se extraen las características estadísticas de los coeficientes de detalle y aproximación en cada nivel:
-  - Nedia
-  - Mediana
-  - GFP
-  - RMS
+   #### Paso 2: Extracción de Características
+   - **Características**: Se extraen las características estadísticas de los coeficientes de detalle y aproximación en cada nivel:
+     - Nedia
+     - Mediana
+     - GFP
+     - RMS
 
-#### Paso 3: Agregación
-- **Agregación de características**: Las características se agregan a través de todos los canales para el análisis.
+   #### Paso 3: Agregación
+-    **Agregación de características**: Las características se agregan a través de todos los canales para el análisis.
 
-#### Paso 4: Visualización
-- **Graficación de características**: Se crean gráficos de caja y bigotes para visualizar la distribución de la mediana en diferentes bandas de frecuencia (Delta, Theta, Alpha, Beta, Gamma).
+   #### Paso 4: Visualización
+   - **Graficación de características**: Se crean gráficos de caja y bigotes para visualizar la distribución de la mediana en diferentes bandas de frecuencia (Delta, Theta, Alpha, Beta, Gamma).
 
 ---
 
-### 2.4.1 Extracción de Características por Valores Evocados
+- ### Extracción de Características por Valores Evocados
 
-#### Paso 1: Creación de eventos y epochs
-- **Eventos sintéticos**: Se crean eventos a intervalos fijos.
-- **Epochs**: Se generan epochs basados en los eventos creados, y se calcula la respuesta promedio evocada.
+   #### Paso 1: Creación de eventos y epochs
+   - **Eventos sintéticos**: Se crean eventos a intervalos fijos.
+   - **Epochs**: Se generan epochs basados en los eventos creados, y se calcula la respuesta promedio evocada.
 
-#### Paso 2: Cálculo de Métricas Evocadas
-- **Media**: Se calcula la media de los datos de los epochs.
-- **Mediana**: Se calcula la mediana de los datos de los epochs.
-- **GFP (Global Field Power)**: Se calcula el poder de campo global, que mide la variabilidad de la señal en el tiempo.
-- **RMS (Root Mean Square)**: Se calcula la raíz cuadrada media, que proporciona una medida de la amplitud de la señal.
+   #### Paso 2: Cálculo de Métricas Evocadas
+   - **Media**: Se calcula la media de los datos de los epochs.
+   - **Mediana**: Se calcula la mediana de los datos de los epochs.
+   - **GFP (Global Field Power)**: Se calcula el poder de campo global, que mide la variabilidad de la señal en el tiempo.
+   - **RMS (Root Mean Square)**: Se calcula la raíz cuadrada media, que proporciona una medida de la amplitud de la señal.
 
-#### Paso 3: Visualización
-- **Graficación de métricas evocadas**: Se grafican las respuestas evocadas combinadas por media, mediana, GFP y RMS, con leyendas para identificar cada canal.
+   #### Paso 3: Visualización
+   - **Graficación de métricas evocadas**: Se grafican las respuestas evocadas combinadas por media, mediana, GFP y RMS, con leyendas para identificar cada canal.
 
-- [Codigo Caracteristicas] (https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab10_ProcesamientoEEG/Code_Caracteristicas.py) 
+   - [Codigo Caracteristicas] (https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab10_ProcesamientoEEG/Code_Caracteristicas.py) 
 ---
 
 
@@ -125,10 +125,26 @@ Una vez realizado el filtrado, eliminacion de artefactos por ICA y preprocesamie
 
 #### Extraccion Caracteristicas Wavelet por cada nivel ( Diagrama caja y bigote )
 <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab10_ProcesamientoEEG/Caracteristica2.png">
+
 ---
 
 
 ## **Discusión** <a name="id9"></a>
+
+El preprocesamiento de las señales EEG es una etapa crucial para eliminar ruidos e interferencias que pueden afectar la calidad de los datos.
+
+Se utilizó la ICA para descomponer las señales EEG en componentes independientes, lo que facilita la identificación y eliminación de artefactos específicos. Esta técnica es especialmente útil para separar señales de origen neuronal de señales no neuronales.
+
+La Transformada Wavelet se aplicó para caracterizar las señales EEG en términos de sus componentes frecuenciales y temporales.
+
+Los resultados obtenidos demostraron que un preprocesamiento adecuado y el uso de ICA y Wavelet son esenciales para mejorar la calidad de las señales EEG y obtener una caracterización precisa:
+
+1. **Mejora en la Calidad de las Señales**: El preprocesamiento y la aplicación de ICA resultaron en señales EEG significativamente más limpias, lo que facilitó el análisis posterior.
+2. **Detección de Estados Cerebrales**: La Transformada Wavelet permitió detectar y caracterizar con precisión diferentes estados cerebrales, demostrando ser una herramienta poderosa para el análisis temporal-frecuencial.
+3. **Aplicaciones Clínicas y de Investigación**: Los métodos empleados pueden aplicarse en estudios clínicos y de investigación para analizar la actividad cerebral en diversas condiciones, como trastornos neurológicos y estudios cognitivos.
+
+En conclusión, el laboratorio demostró la importancia de un preprocesamiento riguroso y el uso de técnicas avanzadas como ICA y Wavelet para la caracterización de señales EEG. Estos métodos mejoraron significativamente la calidad de los datos y permitieron un análisis detallado de la actividad cerebral, proporcionando una base sólida para futuras investigaciones y aplicaciones clínicas.
+
 
 
 ---
