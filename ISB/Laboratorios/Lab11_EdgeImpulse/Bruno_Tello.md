@@ -9,3 +9,5 @@
 <img src="https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab11_EdgeImpulse/EEGmd.png">
 
 
+
+[Codigo de upload] (https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab11_EdgeImpulse/Upload.py)
