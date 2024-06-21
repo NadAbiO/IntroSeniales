@@ -19,5 +19,5 @@ EEG SIGNAL:
 
 Códigos:
 - [EMG Código (.py)](https://github.com/NadAbiO/IntroSeniales/blob/a43600bd1bad1b2e1fd623d467ff948b4c7cb019/ISB/Laboratorios/Lab11_EdgeImpulse/edge_impulse_fin.py)
-- [ECG Código (.py)]()
+- [ECG Código (.py)](https://github.com/NadAbiO/IntroSeniales/blob/0da34f6f247b27d6575eeb9bb111714894c7c134/ISB/Laboratorios/Lab11_EdgeImpulse/EI_ECG.py)
 - [EEG Código (.py)]()
