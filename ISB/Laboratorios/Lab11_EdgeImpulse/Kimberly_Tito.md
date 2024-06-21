@@ -16,3 +16,9 @@ ECG SIGNAL:
 
 EEG SIGNAL:
 - https://studio.edgeimpulse.com/public/431119/live
+
+Códigos:
+
+- EMG Código
+- ECG Código
+- EEG código
