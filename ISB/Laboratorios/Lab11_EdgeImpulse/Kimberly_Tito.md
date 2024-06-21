@@ -19,6 +19,6 @@ EEG SIGNAL:
 
 Códigos:
 
-- EMG Código
+- EMG Código  https://github.com/NadAbiO/IntroSeniales/blob/a43600bd1bad1b2e1fd623d467ff948b4c7cb019/ISB/Laboratorios/Lab11_EdgeImpulse/edge_impulse_fin.py
 - ECG Código
 - EEG código
