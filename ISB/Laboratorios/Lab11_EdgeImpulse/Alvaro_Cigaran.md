@@ -8,3 +8,6 @@ Dataset ECG: https://studio.edgeimpulse.com/public/431105/live
 Dataset EEG: https://studio.edgeimpulse.com/public/431128/live
 ![EEG](https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Laboratorios/EEEG_dataset.png)
 
+
+
+- [Código utilizado](https://github.com/NadAbiO/IntroSeniales/blob/main/ISB/Laboratorios/Lab11_EdgeImpulse/Codigo_Dataset.ipynb)
