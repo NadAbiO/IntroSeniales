@@ -3,20 +3,9 @@
 ---
 
 ## Tabla de contenido:
-- [Integrantes](#integrantes)
 - [Proyecto](#proyecto)
 - [Entregables](#entregables)
 
----
-### Integrantes
-
-| **Integrante** | **Correo**|
-| ---------| ----------|
-| Nadira Oviedo <br> <img src="Documentos/Imágenes/Nadira.jpg" alt="img_nad" height="200"/>| nadira.oviedo@upch.pe |
-| Alvaro Cigarán <br> <img src="Documentos/Imágenes/Alvaro.jpg" alt="img_nad" height="200"/>| alvaro.cigaran@upch.pe |
-| Kimberly Tito <br> <img src="Documentos/Imágenes/kim.jpg" alt="img_nad" height="200"/>| kimberly.tito@upch.pe |
-| Bruno Tello <br> <img src="Documentos/Imágenes/br1.jpg" alt="img_nad" height="200"/>| gustavo.tello@upch.pe |
-  
 ---
 # Proyecto
 # The effect of energy drinks on college students
@@ -41,7 +30,14 @@
 # Entregables
 <details>
 <summary>  Primer entregable</summary>
-
+  
+| **Integrante** | **Correo**|
+| ---------| ----------|
+| Nadira Oviedo <br> <img src="Documentos/Imágenes/Nadira.jpg" alt="img_nad" height="200"/>| nadira.oviedo@upch.pe |
+| Alvaro Cigarán <br> <img src="Documentos/Imágenes/Alvaro.jpg" alt="img_nad" height="200"/>| alvaro.cigaran@upch.pe |
+| Kimberly Tito <br> <img src="Documentos/Imágenes/kim.jpg" alt="img_nad" height="200"/>| kimberly.tito@upch.pe |
+| Bruno Tello <br> <img src="Documentos/Imágenes/br1.jpg" alt="img_nad" height="200"/>| gustavo.tello@upch.pe |
+  
 # Temas a tratar:
  ## 1.- Electroencefalograma y ondas cerebrales
 
