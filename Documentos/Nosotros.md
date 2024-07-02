@@ -2,7 +2,22 @@
 
 ## **Tabla de Contenidos**
 + [¿Qué es una bioseñal?](#id1)
++ [Introducción a las señales](#id2)
++ [¿Quiénes somos?](#id3)
 
+
+
+## **¿Qué es una bioseñal?** <a name="id1"></a>
+Son aquellas señales que provienen de los seres vivos, además estas se pueden medir, controlar y monitorear. 
+
+## **Introducción a las señales** <a name="id2"></a>
+Se trata de un curso teórico práctico enfocado en aplicar distintas áreas del conocimiento; entre ellas: Electrónica, Fisiología, Programación y Procesamiento de señales. El curso tiene los siguientes objetivos:
+- Conocer la naturaleza y origen de las señales biomédicas
+- Comprender las técnicas de adquisición de señales biomédicas
+- Comprender las técnicas de procesado de señales biomédicas
+- Desarrollo de algoritmos básicos de tratamiento de señales biomédicas (EEG,ECG,etc.)
+
+## **¿Quiénes somos?** <a name="id3"></a> 
 
 | **Integrante** | **Correo**|
 | ---------| ----------|
