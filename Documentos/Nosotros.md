@@ -18,6 +18,9 @@ Se trata de un curso teórico práctico enfocado en aplicar distintas áreas del
 - Desarrollo de algoritmos básicos de tratamiento de señales biomédicas (EEG,ECG,etc.)
 
 ## **¿Quiénes somos?** <a name="id3"></a> 
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:741/1*vd7YUOZFzdT7QMu0vcDfIQ.jpeg"  width="300" height="200"> </p>
+<em><p align="center">Figura 1. Señales del EEG [2]</p></em> 
 
 | **Integrante** | **Correo**|
 | ---------| ----------|
