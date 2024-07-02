@@ -18,16 +18,13 @@ Se trata de un curso teórico práctico enfocado en aplicar distintas áreas del
 - Desarrollo de algoritmos básicos de tratamiento de señales biomédicas (EEG,ECG,etc.)
 
 ## **¿Quiénes somos?** <a name="id3"></a> 
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:741/1*vd7YUOZFzdT7QMu0vcDfIQ.jpeg"  width="300" height="200"> </p>
-<em><p align="center">Figura 1. Señales del EEG [2]</p></em> 
 
 | **Integrante** | **Correo**|
 | ---------| ----------|
-| Nadira Oviedo <br> <img src="Documentos/Imágenes/Nadira.jpg" alt="img_nad" height="200"/>| nadira.oviedo@upch.pe |
-| Alvaro Cigarán <br> <img src="Documentos/Imágenes/Alvaro.jpg" alt="img_nad" height="200"/>| alvaro.cigaran@upch.pe |
-| Kimberly Tito <br> <img src="Documentos/Imágenes/kim.jpg" alt="img_nad" height="200"/>| kimberly.tito@upch.pe |
-| Bruno Tello <br> <img src="Documentos/Imágenes/br1.jpg" alt="img_nad" height="200"/>| gustavo.tello@upch.pe |
+| Nadira Oviedo <br> <img src="https://github.com/NadAbiO/IntroSeniales/blob/85a0357db349d10fdc78dab239121ab7525ac670/Documentos/Im%C3%A1genes/Nadira.jpg" alt="img_nad" height="200"/>| nadira.oviedo@upch.pe |
+| Alvaro Cigarán <br> <img src="https://github.com/NadAbiO/IntroSeniales/blob/85a0357db349d10fdc78dab239121ab7525ac670/Documentos/Im%C3%A1genes/Alvaro.jpg" alt="img_nad" height="200"/>| alvaro.cigaran@upch.pe |
+| Kimberly Tito <br> <img src="https://github.com/NadAbiO/IntroSeniales/blob/85a0357db349d10fdc78dab239121ab7525ac670/Documentos/Im%C3%A1genes/kim.jpg" alt="img_nad" height="200"/>| kimberly.tito@upch.pe |
+| Bruno Tello <br> <img src="https://github.com/NadAbiO/IntroSeniales/blob/85a0357db349d10fdc78dab239121ab7525ac670/Documentos/Im%C3%A1genes/br1.jpg" alt="img_nad" height="200"/>| gustavo.tello@upch.pe |
 
 ## ¿Qué es una bioseñal?
 Son aquellas señales que provienen de los seres vivos, además estas se pueden medir, controlar y monitorear. 
