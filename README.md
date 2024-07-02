@@ -1,6 +1,6 @@
 ## Introducción a Señales Biomédicas
 
-<h1 align="center"> The effect of energy drinks on college students
+<h1 align="center"> Effect of caffeine and energy drinks on sleep quality and brain activity in college students
 
 ## **Tabla de contenido**
 + [¿QUIÉNES SOMOS?](https://github.com/NadAbiO/IntroSeniales/blob/63fd61bb124a92f879cfeab2ad2b211708ffe835/Documentos/Nosotros.md)
