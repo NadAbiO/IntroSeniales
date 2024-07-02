@@ -12,12 +12,8 @@
 
 ## **RESUMEN** <a name="id1"></a>
 
-
-## **MOTIVACIÓN** <a name="id2"></a>
-
-
-## ¿Qué es un electroencefalograma?
-#### Es un estudio médico que detecta anomalías en las ondas cerebrales. Se colocan electrodos en el cuero cabelludo para medir la actividad eléctrica del cerebro. Estas señales se registran como gráficos en una pantalla de computadora o en papel [9].
+- ### ¿Qué es un electroencefalograma?
+  Es un estudio médico que detecta anomalías en las ondas cerebrales. Se colocan electrodos en el cuero cabelludo para medir la actividad eléctrica del cerebro. Estas señales se registran como gráficos en una pantalla de computadora o en papel [9].
 
 <div align="center">
   <img src="https://cainvas-static.s3.amazonaws.com/media/user_data/cainvas-admin/eeg.gif" />
@@ -25,11 +21,19 @@
 </div>
 
 
-## Objetivo
-<p align="justify"> El objetivo es comparar las ondas cerebrales de personas con sueño completo y de aquellas que consumen bebidas energéticas, utilizando un mismo estímulo. Se busca analizar cómo afecta el consumo de estas bebidas a la actividad cerebral en comparación con un estado de sueño normal, lo que puede tener implicaciones en el rendimiento cognitivo y en la salud mental.
+- ### Objetivo
+  <p align="justify"> El objetivo es comparar las ondas cerebrales de personas con sueño completo y de aquellas que consumen bebidas energéticas, utilizando un mismo estímulo. Se busca analizar cómo afecta el consumo de estas bebidas a la actividad cerebral en comparación con un estado de sueño normal, lo que puede tener implicaciones en el rendimiento cognitivo y en la salud mental.
+
+## **MOTIVACIÓN** <a name="id2"></a>
+
+
+
   
-## **PEINCIPALES HALLAZGOS** <a name="id2"></a>
+## **PRINCIPALES HALLAZGOS** <a name="id2"></a>
 ---
+
+
+
 
 # Entregables
 <details>
