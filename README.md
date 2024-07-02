@@ -5,8 +5,9 @@
 ## **Tabla de contenido**
 + [¿QUIÉNES SOMOS?](https://github.com/NadAbiO/IntroSeniales/blob/63fd61bb124a92f879cfeab2ad2b211708ffe835/Documentos/Nosotros.md)
 + [RESUMEN](#id1)
-+ [MOTIVACIÓN](#id1)
-+ [PRINCIPALES HALLAZGOS](#id1)
++ [MOTIVACIÓN](#id2)
++ [PRINCIPALES HALLAZGOS](#id3)
++ [ENTREGABLES](#id4)
 
 
 ## **RESUMEN** <a name="id1"></a>
