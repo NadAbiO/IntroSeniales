@@ -2,15 +2,12 @@
 
 <h1 align="center"> The effect of energy drinks on college students
 
+## **Tabla de contenido**
++ [¿QUIÉNES SOMOS?](#id1)
 
-## Tabla de contenido
-+ [¿QUIÉNES SOMOS?]
 
+## **¿QUIÉNES SOMOS?** <a name="id1"></a>
 
-## **Tabla de contenidos**
-1. [Introducción](#id1)
-***
-## **Introducción** <a name="id1"></a>
 
 
 ## Tabla de contenido:
