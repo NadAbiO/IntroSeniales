@@ -28,7 +28,7 @@
 ## Objetivo
 <p align="justify"> El objetivo es comparar las ondas cerebrales de personas con sueño completo y de aquellas que consumen bebidas energéticas, utilizando un mismo estímulo. Se busca analizar cómo afecta el consumo de estas bebidas a la actividad cerebral en comparación con un estado de sueño normal, lo que puede tener implicaciones en el rendimiento cognitivo y en la salud mental.
   
-## **PRIMEROS HALLAZGOS** <a name="id2"></a>
+## **PEINCIPALES HALLAZGOS** <a name="id2"></a>
 ---
 
 # Entregables
