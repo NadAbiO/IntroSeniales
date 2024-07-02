@@ -4,6 +4,7 @@
 + [¿Qué es una bioseñal?](#id1)
 + [Introducción a las señales](#id2)
 + [¿Quiénes somos?](#id3)
++ [Entregables](#id4)
 
 
 
@@ -26,3 +27,4 @@ Se trata de un curso teórico práctico enfocado en aplicar distintas áreas del
 | Kimberly Tito <br> <img src="https://github.com/NadAbiO/IntroSeniales/blob/85a0357db349d10fdc78dab239121ab7525ac670/Documentos/Im%C3%A1genes/kim.jpg" alt="img_nad" height="200"/>| kimberly.tito@upch.pe |
 | Bruno Tello <br> <img src="https://github.com/NadAbiO/IntroSeniales/blob/85a0357db349d10fdc78dab239121ab7525ac670/Documentos/Im%C3%A1genes/br1.jpg" alt="img_nad" height="200"/>| gustavo.tello@upch.pe |
 
+## **Entregables** <a name="id4"></a>
