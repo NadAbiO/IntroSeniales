@@ -1,12 +1,17 @@
-# Introducción a Señales Biomédicas
-### <a name="bienvenida"></a>Bienvenidos al repositorio del grupo 5 :)
+## Introducción a Señales Biomédicas
 
 <h1 align="center"> The effect of energy drinks on college students
 
----
 
-## Tabla de contenidos
+## Tabla de contenido
 + [¿QUIÉNES SOMOS?]
+
+
+## **Tabla de contenidos**
+1. [Introducción](#id1)
+***
+## **Introducción** <a name="id1"></a>
+
 
 ## Tabla de contenido:
 - [Proyecto](#proyecto)
