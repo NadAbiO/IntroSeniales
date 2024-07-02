@@ -3,22 +3,17 @@
 <h1 align="center"> The effect of energy drinks on college students
 
 ## **Tabla de contenido**
-+ [¿QUIÉNES SOMOS?](#id1)
++ [¿QUIÉNES SOMOS?](https://github.com/NadAbiO/IntroSeniales/blob/63fd61bb124a92f879cfeab2ad2b211708ffe835/Documentos/Nosotros.md)
++ [RESUMEN](#id1)
++ [MOTIVACIÓN](#id1)
++ [PRINCIPALES HALLAZGOS](#id1)
 
 
-## **¿QUIÉNES SOMOS?** <a name="id1"></a>
+## **RESUMEN** <a name="id1"></a>
 
 
+## **MOTIVACIÓN** <a name="id2"></a>
 
-## Tabla de contenido:
-- [Proyecto](#proyecto)
-- [Entregables](#entregables)
-
----
-# Proyecto
-# The effect of energy drinks on college students
-## Resumen
-## Motivación
 
 ## ¿Qué es un electroencefalograma?
 #### Es un estudio médico que detecta anomalías en las ondas cerebrales. Se colocan electrodos en el cuero cabelludo para medir la actividad eléctrica del cerebro. Estas señales se registran como gráficos en una pantalla de computadora o en papel [9].
@@ -32,7 +27,7 @@
 ## Objetivo
 <p align="justify"> El objetivo es comparar las ondas cerebrales de personas con sueño completo y de aquellas que consumen bebidas energéticas, utilizando un mismo estímulo. Se busca analizar cómo afecta el consumo de estas bebidas a la actividad cerebral en comparación con un estado de sueño normal, lo que puede tener implicaciones en el rendimiento cognitivo y en la salud mental.
   
-## Principales hallazgos
+## **PRIMEROS HALLAZGOS** <a name="id2"></a>
 ---
 
 # Entregables
