@@ -1,7 +1,8 @@
 # Grupo 5 del curso de Introducción de Señales Biomédicas de la Universidad Peruana Cayetano Heredia 2024-I
 
-## Tabla de Contenidos
-+ [¿Qué es una bioseñal?]
+## **Tabla de Contenidos**
++ [¿Qué es una bioseñal?](#id1)
+
 
 | **Integrante** | **Correo**|
 | ---------| ----------|
