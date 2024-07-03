@@ -28,7 +28,7 @@ https://paperswithcode.com/paper/effect-of-caffeine-and-energy-drinks-on-sleep
 
 
   
-## **PRINCIPALES HALLAZGOS** <a name="id2"></a>
+## **PRINCIPALES HALLAZGOS** <a name="id3"></a>
 
 <p align="justify"> En conclusión, este estudio ha demostrado una correlación significativa entre el consumo de cafeína y bebidas energéticas y la calidad del sueño entre los estudiantes universitarios. Los participantes que informaron de un mayor consumo de cafeína, como (Participante 1), mostraron una mayor interrupción del sueño, como lo demuestran sus puntuaciones más altas en las métricas de variabilidad y energía. Por el contrario, los participantes con un menor consumo de cafeína, como (Participante 4), mostraron una mejor calidad del sueño con una variabilidad y energía mínimas, en consonancia con sus buenos hábitos de sueño autodeclarados.
   
