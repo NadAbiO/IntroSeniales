@@ -14,6 +14,9 @@
 Paperswithcode: 
 https://paperswithcode.com/paper/effect-of-caffeine-and-energy-drinks-on-sleep
 
+
+[Presentación Final](https://github.com/NadAbiO/IntroSeniales/blob/main/Anexos/Effect%20of%20caffeine%20and%20energy%20drinks%20on%20sleep%20quality%20and%20brain%20activity%20in%20college%20students.pdf)
+
 ## **RESUMEN** <a name="id1"></a>
 
 <p align="justify"> Este estudio investiga el impacto del consumo de cafeína y bebidas energéticas en la calidad del sueño y la actividad cerebral de los estudiantes universitarios. Utilizando tecnología EEG, la investigación identifica patrones específicos de actividad cerebral asociados al consumo prolongado de bebidas energéticas y a la mala calidad del sueño. Se dividió a los participantes en grupos según sus hábitos de sueño y niveles de consumo de cafeína. Los resultados indican una correlación significativa entre el consumo elevado de cafeína y los patrones de sueño alterados, evidenciada por el aumento de la variabilidad y las métricas de energía en las lecturas del EEG. Por el contrario, los participantes con un bajo consumo de cafeína demostraron una mejor calidad del sueño. El estudio pone de relieve los retos que plantea la interpretación de las señales de EEG debido a factores externos y subraya la necesidad de un control riguroso en futuras investigaciones para mejorar la fiabilidad de los datos. Estos resultados proporcionan información valiosa para futuros estudios sobre los efectos de la cafeína en el sueño y el rendimiento cognitivo, con el objetivo de desarrollar recomendaciones integrales para la gestión de la ingesta de cafeína entre los estudiantes universitarios.
