@@ -38,11 +38,11 @@ https://paperswithcode.com/paper/effect-of-caffeine-and-energy-drinks-on-sleep
 
 
 
-[código de preprocesamiento:](https://github.com/NadAbiO/IntroSeniales/blob/main/Proyect_recordings/EEG_processing.ipynb)
+[código de preprocesamiento de la señal:](https://github.com/NadAbiO/IntroSeniales/blob/main/Proyect_recordings/EEG_processing.ipynb)
 
-[código para la obtención de características:](https://github.com/NadAbiO/IntroSeniales/blob/main/Proyect_recordings/EEG_char_extr.ipynb)
+[código para la obtención de características de la señal:](https://github.com/NadAbiO/IntroSeniales/blob/main/Proyect_recordings/EEG_char_extr.ipynb)
 
-[código para la obtención de características:](https://github.com/NadAbiO/IntroSeniales/blob/main/Proyect_recordings/Resum_char.ipynb)
+[código para la obtención de características de la señal:](https://github.com/NadAbiO/IntroSeniales/blob/main/Proyect_recordings/Resum_char.ipynb)
 
 
 
