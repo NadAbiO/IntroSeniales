@@ -29,6 +29,11 @@ https://paperswithcode.com/paper/effect-of-caffeine-and-energy-drinks-on-sleep
 
   
 ## **PRINCIPALES HALLAZGOS** <a name="id2"></a>
+
+<p align="justify"> In conclusion, this study has demonstrated a significant correlation between caffeine and energy drink consumption and sleep quality among college students. Participants who reported higher caffeine intake, such as (Participant 1), exhibited greater sleep disruption, as evidenced by their higher scores in variability and energy metrics. Conversely, participants with lower caffeine consumption, such as (Participant 4), showed better sleep quality with minimal variability and energy, aligning with their self-reported good sleep habits.
+  
+<p align="justify"> The analysis also highlighted potential challenges in EEG signal interpretation, influenced by factors such as device condition, social pressures, and environmental conditions. These findings underscore the importance of rigorous control over external variables and the implementation of a stricter testing protocol to improve data reliability in future studies.
+
 ---
 
 
