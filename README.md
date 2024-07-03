@@ -30,9 +30,9 @@ https://paperswithcode.com/paper/effect-of-caffeine-and-energy-drinks-on-sleep
   
 ## **PRINCIPALES HALLAZGOS** <a name="id2"></a>
 
-<p align="justify"> In conclusion, this study has demonstrated a significant correlation between caffeine and energy drink consumption and sleep quality among college students. Participants who reported higher caffeine intake, such as (Participant 1), exhibited greater sleep disruption, as evidenced by their higher scores in variability and energy metrics. Conversely, participants with lower caffeine consumption, such as (Participant 4), showed better sleep quality with minimal variability and energy, aligning with their self-reported good sleep habits.
+<p align="justify"> En conclusión, este estudio ha demostrado una correlación significativa entre el consumo de cafeína y bebidas energéticas y la calidad del sueño entre los estudiantes universitarios. Los participantes que informaron de un mayor consumo de cafeína, como (Participante 1), mostraron una mayor interrupción del sueño, como lo demuestran sus puntuaciones más altas en las métricas de variabilidad y energía. Por el contrario, los participantes con un menor consumo de cafeína, como (Participante 4), mostraron una mejor calidad del sueño con una variabilidad y energía mínimas, en consonancia con sus buenos hábitos de sueño autodeclarados.
   
-<p align="justify"> The analysis also highlighted potential challenges in EEG signal interpretation, influenced by factors such as device condition, social pressures, and environmental conditions. These findings underscore the importance of rigorous control over external variables and the implementation of a stricter testing protocol to improve data reliability in future studies.
+<p align="justify"> El análisis también puso de relieve los retos potenciales en la interpretación de las señales de EEG, influidas por factores como el estado del dispositivo, las presiones sociales y las condiciones ambientales. Estos resultados subrayan la importancia de un control riguroso de las variables externas y la aplicación de un protocolo de pruebas más estricto para mejorar la fiabilidad de los datos en futuros estudios.
 
 ---
 
