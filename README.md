@@ -36,6 +36,13 @@ https://paperswithcode.com/paper/effect-of-caffeine-and-energy-drinks-on-sleep
   
 <p align="justify"> El análisis también puso de relieve los retos potenciales en la interpretación de las señales de EEG, influidas por factores como el estado del dispositivo, las presiones sociales y las condiciones ambientales. Estos resultados subrayan la importancia de un control riguroso de las variables externas y la aplicación de un protocolo de pruebas más estricto para mejorar la fiabilidad de los datos en futuros estudios.
 
+código de preprocesamiento: https://github.com/NadAbiO/IntroSeniales/blob/main/Proyect_recordings/EEG_processing.ipynb
+
+códigos para la obtención de características:
+https://github.com/NadAbiO/IntroSeniales/blob/main/Proyect_recordings/EEG_char_extr.ipynb
+
+https://github.com/NadAbiO/IntroSeniales/blob/main/Proyect_recordings/Resum_char.ipynb
+
 ---
 
 
